@@ -159,7 +159,7 @@ $ java -classpath classes --enable-preview Test
 
 <!-- wp:paragraph -->
 
-А это небольшая добавочка к [JEP 325](https://openjdk.java.net/jeps/325), который добавил новый синтаксис для `switch` блоков в JDK 12 в качестве preview language feature. Если коротко, то JEP 325 добавил упрощенную форму для `switch` блоком, которая содержит выражения вида `case L -> ...`. Чуть побольше подробностей можно увидеть [здесь](https://blog.gypsyengineer.com/ru/tech-ru/what-is-new-in-java-12-ru.html).
+А это небольшая добавочка к [JEP 325](https://openjdk.java.net/jeps/325), который добавил новый синтаксис для `switch` блоков в JDK 12 в качестве preview language feature. Если коротко, то JEP 325 добавил упрощенную форму для `switch` блоком, которая содержит выражения вида `case L -> ...`. Чуть побольше подробностей можно увидеть [здесь](/ru/tech-ru/what-is-new-in-java-12-ru.html).
 
 <!-- /wp:paragraph -->
 

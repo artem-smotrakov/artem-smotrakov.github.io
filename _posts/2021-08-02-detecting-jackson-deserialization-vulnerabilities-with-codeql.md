@@ -79,7 +79,7 @@ Here is a list of conditions that have to be met to make an application vulnerab
 
 <!-- wp:paragraph -->
 
-If one of the conditions above is not met, the application is not vulnerable. You can find more details in [Tatu's article](https://cowtowncoder.medium.com/on-jackson-cves-dont-panic-here-is-what-you-need-to-know-54cd0d6e8062) or [my blog post](https://blog.gypsyengineer.com/en/security/safer-deserialization-with-new-jackson.html). Below is an example of vulnerable code:
+If one of the conditions above is not met, the application is not vulnerable. You can find more details in [Tatu's article](https://cowtowncoder.medium.com/on-jackson-cves-dont-panic-here-is-what-you-need-to-know-54cd0d6e8062) or [my blog post](/en/security/safer-deserialization-with-new-jackson.html). Below is an example of vulnerable code:
 
 <!-- /wp:paragraph -->
 
@@ -242,7 +242,7 @@ not exists(SafeObjectMapperConfig config | config.hasFlowToExpr(ma.getQualifier(
 
 1. You must have heard it before but still: don't let an application deserialize data from untrusted sources.
 2. Avoid using polymorphic type handling.
-3. Configure `ObjectMapper` with a type validator that allows deserialization of trusted classes only. For more details, check out [Tatu's article](https://cowtowncoder.medium.com/jackson-2-10-features-cd880674d8a2) and [my blog post](https://blog.gypsyengineer.com/en/security/safer-deserialization-with-new-jackson.html).
+3. Configure `ObjectMapper` with a type validator that allows deserialization of trusted classes only. For more details, check out [Tatu's article](https://cowtowncoder.medium.com/jackson-2-10-features-cd880674d8a2) and [my blog post](/en/security/safer-deserialization-with-new-jackson.html).
 
 <!-- /wp:list -->
 

@@ -43,15 +43,15 @@ permalink: "/ru/travel/in-russian-train.html"
 <!-- wp:gallery {"ids":[4098,4099,4100,4101,4102],"linkTo":"file"} -->
 
 - 
-[![]({{ site.baseurl }}/assets/images/2021/04/PXL_20210412_154746255_converted-768x1024.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2021/04/PXL_20210412_154746255_converted-scaled.jpg)
+[![]({{ site.baseurl }}/assets/images/2021/04/PXL_20210412_154746255_converted-768x1024.jpg)](/wp-content/uploads/2021/04/PXL_20210412_154746255_converted-scaled.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2021/04/PXL_20210412_154337195_converted-768x1024.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2021/04/PXL_20210412_154337195_converted-scaled.jpg)
+[![]({{ site.baseurl }}/assets/images/2021/04/PXL_20210412_154337195_converted-768x1024.jpg)](/wp-content/uploads/2021/04/PXL_20210412_154337195_converted-scaled.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2021/04/PXL_20210412_154322564.MP_converted-768x1024.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2021/04/PXL_20210412_154322564.MP_converted-scaled.jpg)
+[![]({{ site.baseurl }}/assets/images/2021/04/PXL_20210412_154322564.MP_converted-768x1024.jpg)](/wp-content/uploads/2021/04/PXL_20210412_154322564.MP_converted-scaled.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2021/04/PXL_20210412_154308976.MP_converted-1024x768.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2021/04/PXL_20210412_154308976.MP_converted-scaled.jpg)
+[![]({{ site.baseurl }}/assets/images/2021/04/PXL_20210412_154308976.MP_converted-1024x768.jpg)](/wp-content/uploads/2021/04/PXL_20210412_154308976.MP_converted-scaled.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2021/04/PXL_20210412_154120653.MP_converted-768x1024.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2021/04/PXL_20210412_154120653.MP_converted-scaled.jpg)
+[![]({{ site.baseurl }}/assets/images/2021/04/PXL_20210412_154120653.MP_converted-768x1024.jpg)](/wp-content/uploads/2021/04/PXL_20210412_154120653.MP_converted-scaled.jpg)
 
 <!-- /wp:gallery -->
 

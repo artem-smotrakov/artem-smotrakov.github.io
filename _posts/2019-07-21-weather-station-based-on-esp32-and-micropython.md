@@ -48,7 +48,7 @@ permalink: "/en/diy-electronics/weather-station-based-on-esp32-and-micropython.h
 ---
 <!-- wp:paragraph -->
 
-In one of the previous posts I briefly described [sending data to Google Sheets from a ESP32 board using MicroPython](https://blog.gypsyengineer.com/en/diy-electronics/micropython-on-esp32-sending-data-to-google-sheets.html). As I mentioned earlier, [the code is available on GitHub](https://github.com/artem-smotrakov/esp32-weather-google-sheets). Here are the main features:
+In one of the previous posts I briefly described [sending data to Google Sheets from a ESP32 board using MicroPython](/en/diy-electronics/micropython-on-esp32-sending-data-to-google-sheets.html). As I mentioned earlier, [the code is available on GitHub](https://github.com/artem-smotrakov/esp32-weather-google-sheets). Here are the main features:
 
 <!-- /wp:paragraph -->
 
@@ -786,7 +786,7 @@ This is a pretty simple weather station, and there is room for improvement. The 
 <!-- wp:list {"ordered":true} -->
 
 1. [BMP280](https://www.bosch-sensortec.com/bst/products/all_products/bmp280)&nbsp;barometric pressure sensor
-2. [MH-Z19](https://www.winsen-sensor.com/d/files/PDF/Infrared%20Gas%20Sensor/NDIR%20CO2%20SENSOR/MH-Z19%20CO2%20Ver1.0.pdf)&nbsp;CO2 sensor (see [this follow-up post](https://blog.gypsyengineer.com/en/diy-electronics/measuring-co2-with-mh-z19b-on-esp32.html))
+2. [MH-Z19](https://www.winsen-sensor.com/d/files/PDF/Infrared%20Gas%20Sensor/NDIR%20CO2%20SENSOR/MH-Z19%20CO2%20Ver1.0.pdf)&nbsp;CO2 sensor (see [this follow-up post](/en/diy-electronics/measuring-co2-with-mh-z19b-on-esp32.html))
 
 <!-- /wp:list -->
 

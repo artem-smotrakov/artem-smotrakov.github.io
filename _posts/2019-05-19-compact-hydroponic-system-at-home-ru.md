@@ -116,19 +116,19 @@ permalink: "/ru/diy-electronics-ru/compact-hydroponic-system-at-home-ru.html"
 <!-- wp:gallery {"ids":[3107,3108,3109,3110,3111,3112,3113],"columns":2,"linkTo":"media","align":"center"} -->
 
 - 
-[![Лук в гидропонной установке]({{ site.baseurl }}/assets/images/2019/05/IMG_20190519_200920.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190519_200920.jpg)
+[![Лук в гидропонной установке]({{ site.baseurl }}/assets/images/2019/05/IMG_20190519_200920.jpg)](/wp-content/uploads/2019/05/IMG_20190519_200920.jpg)
 - 
-[![Лук в гидропонике]({{ site.baseurl }}/assets/images/2019/05/IMG_20190519_201127.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190519_201127.jpg)
+[![Лук в гидропонике]({{ site.baseurl }}/assets/images/2019/05/IMG_20190519_201127.jpg)](/wp-content/uploads/2019/05/IMG_20190519_201127.jpg)
 - 
-[![Гидропоника с капельным поливом]({{ site.baseurl }}/assets/images/2019/05/IMG_20190519_201138.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190519_201138.jpg)
+[![Гидропоника с капельным поливом]({{ site.baseurl }}/assets/images/2019/05/IMG_20190519_201138.jpg)](/wp-content/uploads/2019/05/IMG_20190519_201138.jpg)
 - 
-[![Компактная гидропоника дома]({{ site.baseurl }}/assets/images/2019/05/IMG_20190519_201146.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190519_201146.jpg)
+[![Компактная гидропоника дома]({{ site.baseurl }}/assets/images/2019/05/IMG_20190519_201146.jpg)](/wp-content/uploads/2019/05/IMG_20190519_201146.jpg)
 - 
-[![Домашняя гидропоника]({{ site.baseurl }}/assets/images/2019/05/IMG_20190519_201205.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190519_201205.jpg)
+[![Домашняя гидропоника]({{ site.baseurl }}/assets/images/2019/05/IMG_20190519_201205.jpg)](/wp-content/uploads/2019/05/IMG_20190519_201205.jpg)
 - 
-[![Таймер для гидропоники]({{ site.baseurl }}/assets/images/2019/05/IMG_20190519_201214.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190519_201214.jpg)
+[![Таймер для гидропоники]({{ site.baseurl }}/assets/images/2019/05/IMG_20190519_201214.jpg)](/wp-content/uploads/2019/05/IMG_20190519_201214.jpg)
 - 
-[![Насос для гидропоники]({{ site.baseurl }}/assets/images/2019/05/IMG_20190519_201220.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190519_201220.jpg)
+[![Насос для гидропоники]({{ site.baseurl }}/assets/images/2019/05/IMG_20190519_201220.jpg)](/wp-content/uploads/2019/05/IMG_20190519_201220.jpg)
 
 <!-- /wp:gallery -->
 

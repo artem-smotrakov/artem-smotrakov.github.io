@@ -120,19 +120,19 @@ For testing purposes, I put onions to the hydroponics, and I just used water ins
 <!-- wp:gallery {"ids":[3150,3152,3153,3154,3155,3156,3151],"columns":2,"linkTo":"media"} -->
 
 - 
-[![Pump and timer relay in hydroponics]({{ site.baseurl }}/assets/images/2019/06/IMG_20190519_201220.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/IMG_20190519_201220.jpg)
+[![Pump and timer relay in hydroponics]({{ site.baseurl }}/assets/images/2019/06/IMG_20190519_201220.jpg)](/wp-content/uploads/2019/06/IMG_20190519_201220.jpg)
 - 
-[![Hydroponics with drip irrigation]({{ site.baseurl }}/assets/images/2019/06/IMG_20190519_201205.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/IMG_20190519_201205.jpg)
+[![Hydroponics with drip irrigation]({{ site.baseurl }}/assets/images/2019/06/IMG_20190519_201205.jpg)](/wp-content/uploads/2019/06/IMG_20190519_201205.jpg)
 - 
-[![Hydroponics at home]({{ site.baseurl }}/assets/images/2019/06/IMG_20190519_201146.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/IMG_20190519_201146.jpg)
+[![Hydroponics at home]({{ site.baseurl }}/assets/images/2019/06/IMG_20190519_201146.jpg)](/wp-content/uploads/2019/06/IMG_20190519_201146.jpg)
 - 
-[![Growing onions in hydroponics]({{ site.baseurl }}/assets/images/2019/06/IMG_20190519_201138.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/IMG_20190519_201138.jpg)
+[![Growing onions in hydroponics]({{ site.baseurl }}/assets/images/2019/06/IMG_20190519_201138.jpg)](/wp-content/uploads/2019/06/IMG_20190519_201138.jpg)
 - 
-[![Building a compact hydroponic system at home]({{ site.baseurl }}/assets/images/2019/06/IMG_20190519_201127.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/IMG_20190519_201127.jpg)
+[![Building a compact hydroponic system at home]({{ site.baseurl }}/assets/images/2019/06/IMG_20190519_201127.jpg)](/wp-content/uploads/2019/06/IMG_20190519_201127.jpg)
 - 
-[![Hydroponics at home]({{ site.baseurl }}/assets/images/2019/06/IMG_20190519_200920.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/IMG_20190519_200920.jpg)
+[![Hydroponics at home]({{ site.baseurl }}/assets/images/2019/06/IMG_20190519_200920.jpg)](/wp-content/uploads/2019/06/IMG_20190519_200920.jpg)
 - 
-[![Timer relay for hydroponics]({{ site.baseurl }}/assets/images/2019/06/IMG_20190519_201214.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/IMG_20190519_201214.jpg)
+[![Timer relay for hydroponics]({{ site.baseurl }}/assets/images/2019/06/IMG_20190519_201214.jpg)](/wp-content/uploads/2019/06/IMG_20190519_201214.jpg)
 
 <!-- /wp:gallery -->
 

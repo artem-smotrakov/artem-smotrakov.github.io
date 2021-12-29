@@ -51,7 +51,7 @@ On a wonderful weekend in summer time, instead of going out to a beach or somewh
 
 <!-- wp:paragraph -->
 
-(this post contains a brief description of the project, more technical details can be found in the [next post](https://blog.gypsyengineer.com/en/diy-electronics/weather-station-based-on-esp32-and-micropython.html))
+(this post contains a brief description of the project, more technical details can be found in the [next post](/en/diy-electronics/weather-station-based-on-esp32-and-micropython.html))
 
 <!-- /wp:paragraph -->
 
@@ -118,7 +118,7 @@ The only missing part is RSA signatures. One of the main rules in cryptography s
 
 <!-- wp:paragraph -->
 
-I used [one of my previous projects with ESP8266 and MicroPython](https://blog.gypsyengineer.com/diy-electronics/getting-started-with-esp8266-and-micropython.html) as a starting point. After implementing the authentication process and testing it on my laptop, I finally picked up a ESP8266 board and ran the code there. Unfortunately I found out the the code runs very slow. But the main problem was that the ESP8266 board didn't have enough memory to finish RSA signing. I tried some optimizations and even tried to embed the application code in to MicroPython firmware but nothing helped.
+I used [one of my previous projects with ESP8266 and MicroPython](/diy-electronics/getting-started-with-esp8266-and-micropython.html) as a starting point. After implementing the authentication process and testing it on my laptop, I finally picked up a ESP8266 board and ran the code there. Unfortunately I found out the the code runs very slow. But the main problem was that the ESP8266 board didn't have enough memory to finish RSA signing. I tried some optimizations and even tried to embed the application code in to MicroPython firmware but nothing helped.
 
 <!-- /wp:paragraph -->
 

@@ -17,7 +17,7 @@ meta:
   _edit_last: '1'
   _aioseop_opengraph_settings: 'a:15:{s:32:"aioseop_opengraph_settings_title";s:28:"Едем
     в Дортмунд";s:31:"aioseop_opengraph_settings_desc";s:180:"Поездка из Берлина в
-    Дортмунд: немецкие поезда, пасторальные виды за окном и дортмундские шахтеры.";s:32:"aioseop_opengraph_settings_image";s:91:"https://blog.gypsyengineer.com/wp-content/uploads/2018/02/tmp-1-e1519599025596-966x1024.jpg";s:36:"aioseop_opengraph_settings_customimg";s:0:"";s:37:"aioseop_opengraph_settings_imagewidth";s:0:"";s:38:"aioseop_opengraph_settings_imageheight";s:0:"";s:32:"aioseop_opengraph_settings_video";s:0:"";s:37:"aioseop_opengraph_settings_videowidth";s:0:"";s:38:"aioseop_opengraph_settings_videoheight";s:0:"";s:35:"aioseop_opengraph_settings_category";s:7:"article";s:34:"aioseop_opengraph_settings_section";s:0:"";s:30:"aioseop_opengraph_settings_tag";s:0:"";s:34:"aioseop_opengraph_settings_setcard";s:7:"summary";s:44:"aioseop_opengraph_settings_customimg_twitter";s:0:"";s:44:"aioseop_opengraph_settings_customimg_checker";s:1:"0";}'
+    Дортмунд: немецкие поезда, пасторальные виды за окном и дортмундские шахтеры.";s:32:"aioseop_opengraph_settings_image";s:91:"/wp-content/uploads/2018/02/tmp-1-e1519599025596-966x1024.jpg";s:36:"aioseop_opengraph_settings_customimg";s:0:"";s:37:"aioseop_opengraph_settings_imagewidth";s:0:"";s:38:"aioseop_opengraph_settings_imageheight";s:0:"";s:32:"aioseop_opengraph_settings_video";s:0:"";s:37:"aioseop_opengraph_settings_videowidth";s:0:"";s:38:"aioseop_opengraph_settings_videoheight";s:0:"";s:35:"aioseop_opengraph_settings_category";s:7:"article";s:34:"aioseop_opengraph_settings_section";s:0:"";s:30:"aioseop_opengraph_settings_tag";s:0:"";s:34:"aioseop_opengraph_settings_setcard";s:7:"summary";s:44:"aioseop_opengraph_settings_customimg_twitter";s:0:"";s:44:"aioseop_opengraph_settings_customimg_checker";s:1:"0";}'
   _aioseop_description: 'Поездка из Берлина в Дортмунд: немецкие поезда, пасторальные
     виды за окном и дортмундские шахтеры.'
   _aioseop_title: Едем в Дортмунд
@@ -52,7 +52,7 @@ permalink: "/ru/travel/trip-to-dortmund-by-train.html"
 
 ## Едем на поезде по Германии
 
-Поездка в Дортмунд началась с центрального вокзала [Берлина](https://blog.gypsyengineer.com/ru/german-life/berlin-first-impression.html) или Berlin Hauptbahnhof. Поезд, на котором я ехал, назывался ICE. Поезда ICE ходят по всей Германии, и вроде даже в соседние государства. Вагончики сидячие, есть эконом- и бизнес-класс. Я всего лишь инженер, поэтому ехал в эконом-вагоне. Хотя бизнес вариант вроде бы радикально не отличается. Спальных вагонов я не заметил, но может быть они там и были. Поезд был довольно длинный.
+Поездка в Дортмунд началась с центрального вокзала [Берлина](/ru/german-life/berlin-first-impression.html) или Berlin Hauptbahnhof. Поезд, на котором я ехал, назывался ICE. Поезда ICE ходят по всей Германии, и вроде даже в соседние государства. Вагончики сидячие, есть эконом- и бизнес-класс. Я всего лишь инженер, поэтому ехал в эконом-вагоне. Хотя бизнес вариант вроде бы радикально не отличается. Спальных вагонов я не заметил, но может быть они там и были. Поезд был довольно длинный.
 
 В поезд сажают всех подряд, проводников в вагонах замечено не было. Однако после остановок на станциях по вагонам начинают ходить контролеры и проверять билеты. Это пренеприятное обстоятельство, конечно, портит зайцам жизнь.
 

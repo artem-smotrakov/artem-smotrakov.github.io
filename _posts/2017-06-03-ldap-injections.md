@@ -53,7 +53,7 @@ permalink: "/en/security/ldap-injections.html"
 ---
 Everybody knows about SQL injections. It's like a celebrity in the world of software security. But there are much more many different types of injection attacks which may feel jealous about popularity of SQL injections. That's not fair. Let's try to feel the gap, and talk about LDAP injections.
 
-[Версия на русском.](https://blog.gypsyengineer.com/fun-ru/security-ru/ldap-injections-ru.html)
+[Версия на русском.](/fun-ru/security-ru/ldap-injections-ru.html)
 
 <!--more-->
 

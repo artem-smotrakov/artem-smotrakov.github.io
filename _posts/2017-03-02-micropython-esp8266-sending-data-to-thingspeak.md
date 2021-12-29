@@ -49,15 +49,15 @@ author:
   last_name: Smotrakov
 permalink: "/en/diy-electronics/micropython-esp8266-sending-data-to-thingspeak.html"
 ---
-When you play with new microcontroller, first thing you usually do is driving an LED. That's a classic "Hello World!" project for microcontrollers. That's what I did when I was [playing first time with ESP8266 and MicroPython](https://blog.gypsyengineer.com/fun/diy-electronics/getting-started-with-esp8266-and-micropython.html). Let's move on, and implement another classic project - measuring temperature and humidity with DHT22 sensor. But we don't want to be&nbsp;quiet, so we are going to&nbsp;share this so important data on the Internet. ThingSpeak will help us with it. Let's add a new warrior to the army of Internet of Shit!
+When you play with new microcontroller, first thing you usually do is driving an LED. That's a classic "Hello World!" project for microcontrollers. That's what I did when I was [playing first time with ESP8266 and MicroPython](/fun/diy-electronics/getting-started-with-esp8266-and-micropython.html). Let's move on, and implement another classic project - measuring temperature and humidity with DHT22 sensor. But we don't want to be&nbsp;quiet, so we are going to&nbsp;share this so important data on the Internet. ThingSpeak will help us with it. Let's add a new warrior to the army of Internet of Shit!
 
 <!--more-->
 
 ## Hardware and circuit: ESP8266 (ESP-07) and DHT22
 
-This project is based on&nbsp;my previous post -&nbsp;[Getting started with ESP8266 and MicroPython](https://blog.gypsyengineer.com/fun/diy-electronics/getting-started-with-esp8266-and-micropython.html). So, everything what I described there apply here.
+This project is based on&nbsp;my previous post -&nbsp;[Getting started with ESP8266 and MicroPython](/fun/diy-electronics/getting-started-with-esp8266-and-micropython.html). So, everything what I described there apply here.
 
-Also note that it may be better to use ESP8266 which has more than 512K of flash. It looks like that limited versions of MicroPython may not work well (see&nbsp;[Problems with running MicroPython on ESP8266 with 512K](https://blog.gypsyengineer.com/fun/diy-electronics/problems-with-running-micropython-on-esp8266-with-512k.html)).
+Also note that it may be better to use ESP8266 which has more than 512K of flash. It looks like that limited versions of MicroPython may not work well (see&nbsp;[Problems with running MicroPython on ESP8266 with 512K](/fun/diy-electronics/problems-with-running-micropython-on-esp8266-with-512k.html)).
 
 For this project we're going to use ESP-07 version of ESP8266. You can also use ESP-12 without any changes for the circuit below. But if you use other modifications of ESP8266, then you may need to modify a bit the circuit below.
 

@@ -52,7 +52,7 @@ permalink: "/ru/security-ru/running-java-with-addresssanitizer-ru.html"
 ---
 OpenJDK и AddressSanitizer довольно известные open-source проекты. OpenJDK содержит код на C/C++, который в отличие от кода на Java, может напрямую работать с памятью, что в свою очередь может привести к известным проблемам связанными с доступом за пределы выделенной памяти. Это всем известные и всевозможные переполнения буферов, use-after-ftee и прочие проблемы. Подобные проблемы могут быть обнаружены с помощью инструментов, которые называются runtime memory checkers. Одним из таких инструментов является AddressSanitizer. И теперь стало гораздо легче использовать AddressSanitizer вместе с OpenJDK.
 
-[English version is also available.](https://blog.gypsyengineer.com/fun/running-java-with-addresssanitizer.html)
+[English version is also available.](/fun/running-java-with-addresssanitizer.html)
 
 <!--more-->
 

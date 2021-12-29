@@ -55,7 +55,7 @@ permalink: "/ru/diy-electronics-ru/how-to-run-micropython-on-esp8266.html"
 
 Дальше идет рассказ о том, как же запустить этот MicroPython на ESP8266 и помигать светодиодиком.
 
-Here is an English version -&nbsp;[Getting started with ESP8266 and MicroPython](https://blog.gypsyengineer.com/fun/diy-electronics/getting-started-with-esp8266-and-micropython.html)
+Here is an English version -&nbsp;[Getting started with ESP8266 and MicroPython](/fun/diy-electronics/getting-started-with-esp8266-and-micropython.html)
 
 ![Как запустить MicroPython на ESP8266]({{ site.baseurl }}/assets/images/2017/04/all_parts.jpg)
 
@@ -121,7 +121,7 @@ Here is an English version -&nbsp;[Getting started with ESP8266 and MicroPython]
 - ежедневные, которые весят больше 512K
 - ежедневные, которые весят меньше 512K (это урезанные версии MicroPython)
 
-Выбор прошивки зависит от объема памяти вашего ESP8266 устройства. Когда я покупал свои ESP8266, то не обратил внимания на объем памяти, а следовало бы. В последствии выяснилось, что несколько моих ESP8266&nbsp;имело лишь 512K памяти, поэтому пришлось использовать урезанные версии прошивок. Так же в последствии выяснилось, что [с урезанными версиями MicroPython могут возникнуть некоторые проблемы](https://blog.gypsyengineer.com/fun/diy-electronics/problems-with-running-micropython-on-esp8266-with-512k.html). В общем, лучше использовать устройства, у которых памяти больше 512K, чтобы можно было залить обычный (неурезанный) MicroPython. Если вдруг вы не знаете, сколько памяти на вашем ESP8266, то просто попробуйте залить полную прошивку. Если памяти на устройстве не достаточно, то вы увидите соответствующую ошибку.
+Выбор прошивки зависит от объема памяти вашего ESP8266 устройства. Когда я покупал свои ESP8266, то не обратил внимания на объем памяти, а следовало бы. В последствии выяснилось, что несколько моих ESP8266&nbsp;имело лишь 512K памяти, поэтому пришлось использовать урезанные версии прошивок. Так же в последствии выяснилось, что [с урезанными версиями MicroPython могут возникнуть некоторые проблемы](/fun/diy-electronics/problems-with-running-micropython-on-esp8266-with-512k.html). В общем, лучше использовать устройства, у которых памяти больше 512K, чтобы можно было залить обычный (неурезанный) MicroPython. Если вдруг вы не знаете, сколько памяти на вашем ESP8266, то просто попробуйте залить полную прошивку. Если памяти на устройстве не достаточно, то вы увидите соответствующую ошибку.
 
 Для заливки прошивки можно использовать esptool, что на мой взгляд является самым популярным методом. Esptool написан на Python, причем похоже, что нужен именно Python 2, а не 3. Esptool можно установить с помощью pip или просто склонировать&nbsp;[https://github.com/espressif/esptool](https://github.com/espressif/esptool)
 
@@ -232,29 +232,29 @@ Type "help()" for more information.
 <!-- wp:gallery {"ids":[3102,3101,3100,3099,3098,3097,3096,3095,3094,3093,3092,3091],"columns":2,"linkTo":"media"} -->
 
 - 
-[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170212_121132.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2017/04/IMG_20170212_121132.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170212_121132.jpg)](/wp-content/uploads/2017/04/IMG_20170212_121132.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170212_121041.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2017/04/IMG_20170212_121041.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170212_121041.jpg)](/wp-content/uploads/2017/04/IMG_20170212_121041.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170212_121023.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2017/04/IMG_20170212_121023.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170212_121023.jpg)](/wp-content/uploads/2017/04/IMG_20170212_121023.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170211_212020.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2017/04/IMG_20170211_212020.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170211_212020.jpg)](/wp-content/uploads/2017/04/IMG_20170211_212020.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170211_210602.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2017/04/IMG_20170211_210602.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170211_210602.jpg)](/wp-content/uploads/2017/04/IMG_20170211_210602.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170211_191452.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2017/04/IMG_20170211_191452.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170211_191452.jpg)](/wp-content/uploads/2017/04/IMG_20170211_191452.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170211_191244.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2017/04/IMG_20170211_191244.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170211_191244.jpg)](/wp-content/uploads/2017/04/IMG_20170211_191244.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170211_191218.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2017/04/IMG_20170211_191218.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170211_191218.jpg)](/wp-content/uploads/2017/04/IMG_20170211_191218.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170211_190316.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2017/04/IMG_20170211_190316.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170211_190316.jpg)](/wp-content/uploads/2017/04/IMG_20170211_190316.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170211_190204.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2017/04/IMG_20170211_190204.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170211_190204.jpg)](/wp-content/uploads/2017/04/IMG_20170211_190204.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170211_185328.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2017/04/IMG_20170211_185328.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170211_185328.jpg)](/wp-content/uploads/2017/04/IMG_20170211_185328.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170211_184318.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2017/04/IMG_20170211_184318.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170211_184318.jpg)](/wp-content/uploads/2017/04/IMG_20170211_184318.jpg)
 
 <!-- /wp:gallery -->
 

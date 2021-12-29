@@ -66,7 +66,7 @@ permalink: "/ru/travel/baden-baden.html"
 
 <!-- wp:paragraph -->
 
-Не найдя лечебных вод, я решил наведаться в казино, которое, как и соседний черный лес, считается самым знаменитым в Европе. Может быть, если бы я до этого не побывал в Лас-Вегасе, казино в Баден-Бадене произвело бы на меня впечатление, но увы, этого не произошло. Казино в Баден-Бадене чем-то напоминает дом культуры в небольшом российском городке: оштукатуренные стены, лестница, реденькие колонны, высокая дверь и так далее. Правда, ходят слухи, что в отличие от дома культуры, в это казино кого-попало не пускают. Например, если вы пришли в шортах и майке, то вас любезно попросят облачиться хотя бы в штаны и рубашку. Это вам не баня, понимать надо. Однако, поиграть в игровые автоматы пускают всех подряд, лишь бы показали паспорт. Этим и было решено воспользоваться, ведь я по обыкновению пришел в казино спортивных штанах и кепке. Правда, внутри меня ждало еще большее разочарование. Зал был очень маленьким и тесным, и было там всего несколько десятков автоматов. Американцы, конечно, умеют мыслить широко: казино одного из крупных отелей Лас-Вегаса больше баден-баденского раз в сто. [Однажды мне довелось посещать одну конференцию в Лас-Вегасе](https://blog.gypsyengineer.com/travel/blackhat-2017-hackers-in-las-vegas.html), которая проводилась в отеле Mandalay Bay. Так вот, часть пути от входа в отель до залов конференции проходила через казино, и эта часть пути занимала минут пять.
+Не найдя лечебных вод, я решил наведаться в казино, которое, как и соседний черный лес, считается самым знаменитым в Европе. Может быть, если бы я до этого не побывал в Лас-Вегасе, казино в Баден-Бадене произвело бы на меня впечатление, но увы, этого не произошло. Казино в Баден-Бадене чем-то напоминает дом культуры в небольшом российском городке: оштукатуренные стены, лестница, реденькие колонны, высокая дверь и так далее. Правда, ходят слухи, что в отличие от дома культуры, в это казино кого-попало не пускают. Например, если вы пришли в шортах и майке, то вас любезно попросят облачиться хотя бы в штаны и рубашку. Это вам не баня, понимать надо. Однако, поиграть в игровые автоматы пускают всех подряд, лишь бы показали паспорт. Этим и было решено воспользоваться, ведь я по обыкновению пришел в казино спортивных штанах и кепке. Правда, внутри меня ждало еще большее разочарование. Зал был очень маленьким и тесным, и было там всего несколько десятков автоматов. Американцы, конечно, умеют мыслить широко: казино одного из крупных отелей Лас-Вегаса больше баден-баденского раз в сто. [Однажды мне довелось посещать одну конференцию в Лас-Вегасе](/travel/blackhat-2017-hackers-in-las-vegas.html), которая проводилась в отеле Mandalay Bay. Так вот, часть пути от входа в отель до залов конференции проходила через казино, и эта часть пути занимала минут пять.
 
 <!-- /wp:paragraph -->
 
@@ -79,11 +79,11 @@ permalink: "/ru/travel/baden-baden.html"
 <!-- wp:gallery {"ids":[3236,3235,3234],"linkTo":"media"} -->
 
 - 
-[![Пожарный Lamborghini]({{ site.baseurl }}/assets/images/2019/06/lamborghini_1.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/lamborghini_1.jpg)
+[![Пожарный Lamborghini]({{ site.baseurl }}/assets/images/2019/06/lamborghini_1.jpg)](/wp-content/uploads/2019/06/lamborghini_1.jpg)
 - 
-[![Пожарный Lamborghini]({{ site.baseurl }}/assets/images/2019/06/lamborghini_2.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/lamborghini_2.jpg)
+[![Пожарный Lamborghini]({{ site.baseurl }}/assets/images/2019/06/lamborghini_2.jpg)](/wp-content/uploads/2019/06/lamborghini_2.jpg)
 - 
-[![Пожарный Lamborghini]({{ site.baseurl }}/assets/images/2019/06/lamborghini_3.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/lamborghini_3.jpg)
+[![Пожарный Lamborghini]({{ site.baseurl }}/assets/images/2019/06/lamborghini_3.jpg)](/wp-content/uploads/2019/06/lamborghini_3.jpg)
 
 <!-- /wp:gallery -->
 
@@ -102,45 +102,45 @@ permalink: "/ru/travel/baden-baden.html"
 <!-- wp:gallery {"ids":[3214,3215,3216,3217,3218,3219,3220,3221,3222,3223,3224,3225,3226,3227,3228,3229,3230,3231,3232,3233],"linkTo":"media"} -->
 
 - 
-[![Замок Хоэнбаден]({{ site.baseurl }}/assets/images/2019/06/baden_20.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/baden_20.jpg)
+[![Замок Хоэнбаден]({{ site.baseurl }}/assets/images/2019/06/baden_20.jpg)](/wp-content/uploads/2019/06/baden_20.jpg)
 - 
-[![Замок Хоэнбаден]({{ site.baseurl }}/assets/images/2019/06/baden_19.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/baden_19.jpg)
+[![Замок Хоэнбаден]({{ site.baseurl }}/assets/images/2019/06/baden_19.jpg)](/wp-content/uploads/2019/06/baden_19.jpg)
 - 
-[![Старый замок в Беден-Бадене]({{ site.baseurl }}/assets/images/2019/06/baden_18.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/baden_18.jpg)
+[![Старый замок в Беден-Бадене]({{ site.baseurl }}/assets/images/2019/06/baden_18.jpg)](/wp-content/uploads/2019/06/baden_18.jpg)
 - 
-[![Старый замок в Баден-Бадене]({{ site.baseurl }}/assets/images/2019/06/baden_17.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/baden_17.jpg)
+[![Старый замок в Баден-Бадене]({{ site.baseurl }}/assets/images/2019/06/baden_17.jpg)](/wp-content/uploads/2019/06/baden_17.jpg)
 - 
-[![Замок Хоэнбаден]({{ site.baseurl }}/assets/images/2019/06/baden_16.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/baden_16.jpg)
+[![Замок Хоэнбаден]({{ site.baseurl }}/assets/images/2019/06/baden_16.jpg)](/wp-content/uploads/2019/06/baden_16.jpg)
 - 
-[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_15.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/baden_15.jpg)
+[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_15.jpg)](/wp-content/uploads/2019/06/baden_15.jpg)
 - 
-[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_14.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/baden_14.jpg)
+[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_14.jpg)](/wp-content/uploads/2019/06/baden_14.jpg)
 - 
-[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_13.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/baden_13.jpg)
+[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_13.jpg)](/wp-content/uploads/2019/06/baden_13.jpg)
 - 
-[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_12.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/baden_12.jpg)
+[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_12.jpg)](/wp-content/uploads/2019/06/baden_12.jpg)
 - 
-[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_11.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/baden_11.jpg)
+[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_11.jpg)](/wp-content/uploads/2019/06/baden_11.jpg)
 - 
-[![Мемориальная доска Николаю Гоголю в Баден-Бадене]({{ site.baseurl }}/assets/images/2019/06/baden_10.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/baden_10.jpg)
+[![Мемориальная доска Николаю Гоголю в Баден-Бадене]({{ site.baseurl }}/assets/images/2019/06/baden_10.jpg)](/wp-content/uploads/2019/06/baden_10.jpg)
 - 
-[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_9.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/baden_9.jpg)
+[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_9.jpg)](/wp-content/uploads/2019/06/baden_9.jpg)
 - 
-[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_8.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/baden_8.jpg)
+[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_8.jpg)](/wp-content/uploads/2019/06/baden_8.jpg)
 - 
-[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_7.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/baden_7.jpg)
+[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_7.jpg)](/wp-content/uploads/2019/06/baden_7.jpg)
 - 
-[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_6.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/baden_6.jpg)
+[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_6.jpg)](/wp-content/uploads/2019/06/baden_6.jpg)
 - 
-[![Казино в Баден-Бадене]({{ site.baseurl }}/assets/images/2019/06/baden_5.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/baden_5.jpg)
+[![Казино в Баден-Бадене]({{ site.baseurl }}/assets/images/2019/06/baden_5.jpg)](/wp-content/uploads/2019/06/baden_5.jpg)
 - 
-[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_4.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/baden_4.jpg)
+[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_4.jpg)](/wp-content/uploads/2019/06/baden_4.jpg)
 - 
-[![Лошади в Баден-Бадене]({{ site.baseurl }}/assets/images/2019/06/baden_3.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/baden_3.jpg)
+[![Лошади в Баден-Бадене]({{ site.baseurl }}/assets/images/2019/06/baden_3.jpg)](/wp-content/uploads/2019/06/baden_3.jpg)
 - 
-[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_2.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/baden_2.jpg)
+[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_2.jpg)](/wp-content/uploads/2019/06/baden_2.jpg)
 - 
-[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_1.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/06/baden_1.jpg)
+[![Баден-Баден]({{ site.baseurl }}/assets/images/2019/06/baden_1.jpg)](/wp-content/uploads/2019/06/baden_1.jpg)
 
 <!-- /wp:gallery -->
 

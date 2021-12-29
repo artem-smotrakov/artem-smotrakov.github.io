@@ -21,7 +21,7 @@ meta:
     new in Java 10: Episode 2";s:31:"aioseop_opengraph_settings_desc";s:194:"Since
     Java 10 is coming, it&#039;s time to have a look at the list of main updates targeted
     to Java 10. Here is a digest of the main features which are planned to be delivered
-    in Java 10. Enjoy!";s:32:"aioseop_opengraph_settings_image";s:71:"https://blog.gypsyengineer.com/wp-content/uploads/2016/08/java_logo.png";s:36:"aioseop_opengraph_settings_customimg";s:0:"";s:37:"aioseop_opengraph_settings_imagewidth";s:0:"";s:38:"aioseop_opengraph_settings_imageheight";s:0:"";s:32:"aioseop_opengraph_settings_video";s:0:"";s:37:"aioseop_opengraph_settings_videowidth";s:0:"";s:38:"aioseop_opengraph_settings_videoheight";s:0:"";s:35:"aioseop_opengraph_settings_category";s:7:"article";s:34:"aioseop_opengraph_settings_section";s:0:"";s:30:"aioseop_opengraph_settings_tag";s:0:"";s:34:"aioseop_opengraph_settings_setcard";s:7:"summary";s:44:"aioseop_opengraph_settings_customimg_twitter";s:0:"";s:44:"aioseop_opengraph_settings_customimg_checker";s:1:"0";}'
+    in Java 10. Enjoy!";s:32:"aioseop_opengraph_settings_image";s:71:"/wp-content/uploads/2016/08/java_logo.png";s:36:"aioseop_opengraph_settings_customimg";s:0:"";s:37:"aioseop_opengraph_settings_imagewidth";s:0:"";s:38:"aioseop_opengraph_settings_imageheight";s:0:"";s:32:"aioseop_opengraph_settings_video";s:0:"";s:37:"aioseop_opengraph_settings_videowidth";s:0:"";s:38:"aioseop_opengraph_settings_videoheight";s:0:"";s:35:"aioseop_opengraph_settings_category";s:7:"article";s:34:"aioseop_opengraph_settings_section";s:0:"";s:30:"aioseop_opengraph_settings_tag";s:0:"";s:34:"aioseop_opengraph_settings_setcard";s:7:"summary";s:44:"aioseop_opengraph_settings_customimg_twitter";s:0:"";s:44:"aioseop_opengraph_settings_customimg_checker";s:1:"0";}'
   _wp_old_slug: whats-new-in-java-10-episode-2
   _aioseop_keywords: java,jdk,10,new,features,jep,targeted,enhancement,proposal,jvm,runtime,compilation,compiler,root,certificates,javah
   _aioseop_description: Since Java 10 is coming, it's time to have a look at the list
@@ -54,7 +54,7 @@ permalink: "/en/tech/whats-new-in-java-10-episode-two.html"
 ---
 Java 10 is coming in March 2018. This release contains quite a lot of enhancements in the JVM. But it looks like JDK users are mostly interested in one particular update in the Java Language - [type inference to declarations of local variables with initializers](http://openjdk.java.net/jeps/286). Besides updates to the Java Language and JVM, Java 10 contains another update which together with the&nbsp;[six-month release model](https://mreinhold.org/blog/forward-faster#Proposal) has been bothering the Java community for several months.
 
-Here is a digest of the rest of the main features in Java 10 which weren't covered in the [previous post](https://blog.gypsyengineer.com/en/tech/what-is-new-in-java-10-episode-one.html). Enjoy!
+Here is a digest of the rest of the main features in Java 10 which weren't covered in the [previous post](/en/tech/what-is-new-in-java-10-episode-one.html). Enjoy!
 
 <!--more-->
 
@@ -181,7 +181,7 @@ You can find the details in [JEP 319](http://openjdk.java.net/jeps/319).
 
 ## Conclusion
 
-Phew! We're done with all main updates in Java 10! If you are interested, I talked a bit about the first half of them in my [previous post](https://blog.gypsyengineer.com/en/tech/what-is-new-in-java-10-episode-one.html). In total, [Java 10 contains 12 pretty big updates](http://openjdk.java.net/projects/jdk/10/). It's going to be the next short-term Java release which should go live in Mar 2018. Let's hope it will be in time, and won't have many regressions.
+Phew! We're done with all main updates in Java 10! If you are interested, I talked a bit about the first half of them in my [previous post](/en/tech/what-is-new-in-java-10-episode-one.html). In total, [Java 10 contains 12 pretty big updates](http://openjdk.java.net/projects/jdk/10/). It's going to be the next short-term Java release which should go live in Mar 2018. Let's hope it will be in time, and won't have many regressions.
 
 P.S. I would appreciate a lot if you let me know in case I wrote anything dumb and stupid :)
 

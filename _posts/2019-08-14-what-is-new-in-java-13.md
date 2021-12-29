@@ -160,7 +160,7 @@ Even though the new feature may look simple, JEP 355 discusses quite a lot of im
 
 <!-- wp:paragraph -->
 
-This is an update for [JEP 325](https://openjdk.java.net/jeps/325) which introduced new `switch` expressions in JDK 12 as a preview language feature. Making a long story short, JEP 325 added a new simplified form of a `switch` block with `case L ->` labels. [You can find more details in the previous post](https://blog.gypsyengineer.com/en/tech/what-is-new-in-java-12.html).
+This is an update for [JEP 325](https://openjdk.java.net/jeps/325) which introduced new `switch` expressions in JDK 12 as a preview language feature. Making a long story short, JEP 325 added a new simplified form of a `switch` block with `case L ->` labels. [You can find more details in the previous post](/en/tech/what-is-new-in-java-12.html).
 
 <!-- /wp:paragraph -->
 

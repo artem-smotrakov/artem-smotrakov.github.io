@@ -102,39 +102,39 @@ permalink: "/ru/german-life/may-first-in-germany.html"
 <!-- wp:gallery {"ids":[3050,3051,3052,3053,3054,3055,3056,3057,3058,3059,3060,3061,3062,3063,3064,3065],"columns":2,"linkTo":"media"} -->
 
 - 
-[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_115334.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190501_115334.jpg)
+[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_115334.jpg)](/wp-content/uploads/2019/05/IMG_20190501_115334.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_115048.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190501_115048.jpg)
+[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_115048.jpg)](/wp-content/uploads/2019/05/IMG_20190501_115048.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114836.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190501_114836.jpg)
+[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114836.jpg)](/wp-content/uploads/2019/05/IMG_20190501_114836.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114712.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190501_114712.jpg)  
+[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114712.jpg)](/wp-content/uploads/2019/05/IMG_20190501_114712.jpg)  
 
 _Коммунистическая партия Германии_
 - 
-[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114604.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190501_114604.jpg)
+[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114604.jpg)](/wp-content/uploads/2019/05/IMG_20190501_114604.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114600.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190501_114600.jpg)
+[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114600.jpg)](/wp-content/uploads/2019/05/IMG_20190501_114600.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114543.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190501_114543.jpg)
+[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114543.jpg)](/wp-content/uploads/2019/05/IMG_20190501_114543.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114536.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190501_114536.jpg)
+[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114536.jpg)](/wp-content/uploads/2019/05/IMG_20190501_114536.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114505.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190501_114505.jpg)
+[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114505.jpg)](/wp-content/uploads/2019/05/IMG_20190501_114505.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114455.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190501_114455.jpg)
+[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114455.jpg)](/wp-content/uploads/2019/05/IMG_20190501_114455.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114446.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190501_114446.jpg)
+[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114446.jpg)](/wp-content/uploads/2019/05/IMG_20190501_114446.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114311.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190501_114311.jpg)
+[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114311.jpg)](/wp-content/uploads/2019/05/IMG_20190501_114311.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114231.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190501_114231.jpg)
+[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114231.jpg)](/wp-content/uploads/2019/05/IMG_20190501_114231.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114209.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190501_114209.jpg)
+[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114209.jpg)](/wp-content/uploads/2019/05/IMG_20190501_114209.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114122.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190501_114122.jpg)
+[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114122.jpg)](/wp-content/uploads/2019/05/IMG_20190501_114122.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114048.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20190501_114048.jpg)
+[![]({{ site.baseurl }}/assets/images/2019/05/IMG_20190501_114048.jpg)](/wp-content/uploads/2019/05/IMG_20190501_114048.jpg)
 
 <!-- /wp:gallery -->
 

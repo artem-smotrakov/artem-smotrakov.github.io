@@ -50,7 +50,7 @@ permalink: "/ru/security-ru/ldap-injections-ru.html"
 ---
 Каждый знает про SQL-инъекции (SQL injection). Это как знаменитость в мире ИБ. Но кроме них еще существует множество других разновидностей инъекций, которые могут лишь позавидовать популярности SQL-инъекций. И это не совсем справедливо. Устраним же эту несправедливость и поговорим о LDAP-инъекции (LDAP injection).
 
-[English version is here.](https://blog.gypsyengineer.com/fun/security/ldap-injections.html)
+[English version is here.](/fun/security/ldap-injections.html)
 
 <!--more-->
 

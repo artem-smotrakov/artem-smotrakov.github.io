@@ -286,7 +286,13 @@ It has three targets:
 - "clean" remove binaries which were produced by "all" target
 - "burn" runs st-flash utility which uploads binaries to a microcontroller. It requires super-user permissions.
 
-Note: the flags seems to be a bit redundant, please also see [Ivan's comment below about flags](https://blog.gypsyengineer.com/en/diy-electronics/a-template-project-for-stm32f103-on-linux.html#comment-218).
+Note: the flags seems to be a bit redundant, please also see Ivan's comment:
+
+```
+1) in the blue pill, the board shown on the picture, the build in green led is connected to PC13.
+
+2) There is no HW floating point unit in M3 and stm32f103 is M3 (not M4), so these flags should be changed in the Makefile (for the blinking program they are ok, but for some more complex project may bring issues)
+```
 
 `SOURCES` variable has a list of source files to be compiled. Besides of `main.c`, it contains a couple of files from STM32&nbsp;standard peripheral library.
 

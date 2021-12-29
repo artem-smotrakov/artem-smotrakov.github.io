@@ -55,7 +55,7 @@ I was going to try ESP8266 controllers for long time. Finally, I did it, and wan
 
 Here is a tutorial how to get started with ESP8266 and MicroPython.
 
-Русская версия -&nbsp;[Как запустить MicroPython на ESP8266](https://blog.gypsyengineer.com/fun-ru/diy-electronics-ru/how-to-run-micropython-on-esp8266.html)
+Русская версия -&nbsp;[Как запустить MicroPython на ESP8266](/fun-ru/diy-electronics-ru/how-to-run-micropython-on-esp8266.html)
 
 ![ESP8266 ESP-07 and other little things]({{ site.baseurl }}/assets/images/2017/02/all_parts.jpg)
 
@@ -117,7 +117,7 @@ As I mentioned earlier, I used MicroPython on ESP8266. Latest firmwares can be d
 
 They provide stable builds more than 512K, daily builds more than 512K, and daily builds less than 512K (just wondering, why they don't have stable builds less than 512K). You should select the firmware depending on how much flash memory your ESP8266 has. When I ordered my ESP8266, I didn't pay attention on amount of flash, and now I have&nbsp;only 512K. So, I could use only daily builds which are less than 512K. If you don't know how much flash your ESP8266 has, just try stable builds which are more than 512K. It's going to report a error if there is no enough memory.
 
-**UPDATE:&nbsp;** There may be some troubles with the firmware which fits 512K, see [Problems with running MicroPython on ESP8266 with 512K](https://blog.gypsyengineer.com/fun/diy-electronics/problems-with-running-micropython-on-esp8266-with-512k.html). So, better to get a board with more than 512K of flash.
+**UPDATE:&nbsp;** There may be some troubles with the firmware which fits 512K, see [Problems with running MicroPython on ESP8266 with 512K](/fun/diy-electronics/problems-with-running-micropython-on-esp8266-with-512k.html). So, better to get a board with more than 512K of flash.
 
 I used esptool to upload the firmware on ESP8266. You can install it with pip or just clone it from&nbsp;[https://github.com/espressif/esptool](https://github.com/espressif/esptool). I have heard that esptool supports only Python 2, so be careful.
 
@@ -228,29 +228,29 @@ Have fun!
 <!-- wp:gallery {"ids":[3129,3130,3131,3132,3133,3134,3135,3136,3137,3138,3139,3140],"columns":2,"linkTo":"media","align":"center"} -->
 
 - 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170212_121132.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20170212_121132.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170212_121132.jpg)](/wp-content/uploads/2019/05/IMG_20170212_121132.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170212_121041.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20170212_121041.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170212_121041.jpg)](/wp-content/uploads/2019/05/IMG_20170212_121041.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170212_121023.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20170212_121023.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170212_121023.jpg)](/wp-content/uploads/2019/05/IMG_20170212_121023.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_212020.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20170211_212020.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_212020.jpg)](/wp-content/uploads/2019/05/IMG_20170211_212020.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_210602.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20170211_210602.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_210602.jpg)](/wp-content/uploads/2019/05/IMG_20170211_210602.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_191452.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20170211_191452.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_191452.jpg)](/wp-content/uploads/2019/05/IMG_20170211_191452.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_191244.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20170211_191244.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_191244.jpg)](/wp-content/uploads/2019/05/IMG_20170211_191244.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_191218.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20170211_191218.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_191218.jpg)](/wp-content/uploads/2019/05/IMG_20170211_191218.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_190316.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20170211_190316.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_190316.jpg)](/wp-content/uploads/2019/05/IMG_20170211_190316.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_190204.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20170211_190204.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_190204.jpg)](/wp-content/uploads/2019/05/IMG_20170211_190204.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_185328.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20170211_185328.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_185328.jpg)](/wp-content/uploads/2019/05/IMG_20170211_185328.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_184318.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2019/05/IMG_20170211_184318.jpg)
+[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_184318.jpg)](/wp-content/uploads/2019/05/IMG_20170211_184318.jpg)
 
 <!-- /wp:gallery -->
 

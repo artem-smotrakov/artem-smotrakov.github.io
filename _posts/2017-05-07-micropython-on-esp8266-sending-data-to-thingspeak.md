@@ -48,17 +48,17 @@ author:
   last_name: Smotrakov
 permalink: "/ru/diy-electronics-ru/micropython-on-esp8266-sending-data-to-thingspeak.html"
 ---
-Традиционным "Hello World!"&nbsp;в мире микроконтроллеров&nbsp;можно по праву назвать мигание светодиодом. Это и было сделано после [установки MicroPython на ESP8266](https://blog.gypsyengineer.com/fun-ru/diy-electronics-ru/how-to-run-micropython-on-esp8266.html). Но время идти двигаться дальше и реализовать второй традиционный проект для микроконтроллера - измерение температуры и влажности со всеми любимым датчиком DHT22. Но мы не ограничимся тихими измерениями, а вместе с этим будем отсылать эти важные данные в интернеты. Для этого у нас есть, например, прекрасный сервис ThingSpeak. Пополним армию Internet of Shit!
+Традиционным "Hello World!"&nbsp;в мире микроконтроллеров&nbsp;можно по праву назвать мигание светодиодом. Это и было сделано после [установки MicroPython на ESP8266](/fun-ru/diy-electronics-ru/how-to-run-micropython-on-esp8266.html). Но время идти двигаться дальше и реализовать второй традиционный проект для микроконтроллера - измерение температуры и влажности со всеми любимым датчиком DHT22. Но мы не ограничимся тихими измерениями, а вместе с этим будем отсылать эти важные данные в интернеты. Для этого у нас есть, например, прекрасный сервис ThingSpeak. Пополним армию Internet of Shit!
 
-English version -&nbsp;[MicroPython on ESP8266: sending data to ThingSpeak](https://blog.gypsyengineer.com/fun/diy-electronics/micropython-esp8266-sending-data-to-thingspeak.html)
+English version -&nbsp;[MicroPython on ESP8266: sending data to ThingSpeak](/fun/diy-electronics/micropython-esp8266-sending-data-to-thingspeak.html)
 
 <!--more-->
 
 # Железо и схема: ESP8266 (ESP-07) и DHT22
 
-За основу возьмем предыдущий&nbsp;пост&nbsp;-&nbsp;[как запустить MicroPython на ESP8266](https://blog.gypsyengineer.com/fun-ru/diy-electronics-ru/how-to-run-micropython-on-esp8266.html). Все описанное в том&nbsp;посте вполне применимо и к этому.
+За основу возьмем предыдущий&nbsp;пост&nbsp;-&nbsp;[как запустить MicroPython на ESP8266](/fun-ru/diy-electronics-ru/how-to-run-micropython-on-esp8266.html). Все описанное в том&nbsp;посте вполне применимо и к этому.
 
-Так же отметим, что лучше использовать ESP8266, у которых объем памяти превышает 512K, потому что можно использовать полные версии MicroPython. Похоже, что [урезанные версии MicroPython могут не всегда хорошо работать на ESP8266](https://blog.gypsyengineer.com/fun-ru/diy-electronics-ru/problems-with-running-micropython-on-esp8266-with-512k-2).
+Так же отметим, что лучше использовать ESP8266, у которых объем памяти превышает 512K, потому что можно использовать полные версии MicroPython. Похоже, что [урезанные версии MicroPython могут не всегда хорошо работать на ESP8266](/fun-ru/diy-electronics-ru/problems-with-running-micropython-on-esp8266-with-512k-2).
 
 Будем опять использовать ESP-07, хотя можно использовать и ESP-12 без внесения изменений в схему ниже. С другими версиями ESP8266 возможно придется что-то поменять.
 

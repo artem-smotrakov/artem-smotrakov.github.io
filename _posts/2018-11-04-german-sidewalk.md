@@ -57,23 +57,23 @@ permalink: "/ru/travel/german-sidewalk.html"
 <!-- wp:gallery {"ids":[4161,4162,4163,4164,4165,4166,4167,4168,4169],"linkTo":"file"} -->
 
 - 
-[![]({{ site.baseurl }}/assets/images/2018/11/IMG_20181103_131253.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2021/05/IMG_20181103_131253.jpg)
+[![]({{ site.baseurl }}/assets/images/2018/11/IMG_20181103_131253.jpg)](/wp-content/uploads/2021/05/IMG_20181103_131253.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2018/11/IMG_20181103_130216.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2021/05/IMG_20181103_130216.jpg)
+[![]({{ site.baseurl }}/assets/images/2018/11/IMG_20181103_130216.jpg)](/wp-content/uploads/2021/05/IMG_20181103_130216.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2018/11/IMG_20181103_125817.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2021/05/IMG_20181103_125817.jpg)
+[![]({{ site.baseurl }}/assets/images/2018/11/IMG_20181103_125817.jpg)](/wp-content/uploads/2021/05/IMG_20181103_125817.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2018/11/IMG_20181027_161659.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2021/05/IMG_20181027_161659.jpg)
+[![]({{ site.baseurl }}/assets/images/2018/11/IMG_20181027_161659.jpg)](/wp-content/uploads/2021/05/IMG_20181027_161659.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2018/11/IMG_20181027_161655.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2021/05/IMG_20181027_161655.jpg)
+[![]({{ site.baseurl }}/assets/images/2018/11/IMG_20181027_161655.jpg)](/wp-content/uploads/2021/05/IMG_20181027_161655.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2018/11/IMG_20181103_125754.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2021/05/IMG_20181103_125754.jpg)
+[![]({{ site.baseurl }}/assets/images/2018/11/IMG_20181103_125754.jpg)](/wp-content/uploads/2021/05/IMG_20181103_125754.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2018/11/IMG_20181027_161616.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2021/05/IMG_20181027_161616.jpg)
+[![]({{ site.baseurl }}/assets/images/2018/11/IMG_20181027_161616.jpg)](/wp-content/uploads/2021/05/IMG_20181027_161616.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2018/11/IMG_20181027_161605.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2021/05/IMG_20181027_161605.jpg)
+[![]({{ site.baseurl }}/assets/images/2018/11/IMG_20181027_161605.jpg)](/wp-content/uploads/2021/05/IMG_20181027_161605.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2018/11/IMG_20181027_161601.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2021/05/IMG_20181027_161601.jpg)
+[![]({{ site.baseurl }}/assets/images/2018/11/IMG_20181027_161601.jpg)](/wp-content/uploads/2021/05/IMG_20181027_161601.jpg)
 
 <!-- /wp:gallery -->
 

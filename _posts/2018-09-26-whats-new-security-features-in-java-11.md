@@ -85,7 +85,7 @@ Although there seem to be several bugs in the TLS 1.3 implementation which may a
 
 Most of the issues look to be already fixed in the development repository. Hope the fixes will be delivered in the next update release for Java 11.
 
-If you'd like to try TLS 1.3 out with Java 11, here you can find&nbsp;[an example of TLS 1.3 client and server on Java](https://blog.gypsyengineer.com/en/security/an-example-of-tls-13-client-and-server-on-java.html)
+If you'd like to try TLS 1.3 out with Java 11, here you can find&nbsp;[an example of TLS 1.3 client and server on Java](/en/security/an-example-of-tls-13-client-and-server-on-java.html)
 
 ## ChaCha20 and Poly1305 Cryptographic Algorithms
 
@@ -170,7 +170,7 @@ public class com.gypsyengineer.innerclass.field.Outer {
 }
 ```
 
-Note `access$002` method which we didn't explicitly define in the source code. This is a synthetic method which was added by the Java compiler, and which provides access to the private field. You can find more details in&nbsp;[Accessing private fields with synthetic methods in Java](https://blog.gypsyengineer.com/en/security/accessing-private-fields-with-synthetic-methods-in-java.html)
+Note `access$002` method which we didn't explicitly define in the source code. This is a synthetic method which was added by the Java compiler, and which provides access to the private field. You can find more details in&nbsp;[Accessing private fields with synthetic methods in Java](/en/security/accessing-private-fields-with-synthetic-methods-in-java.html)
 
 Java 11 relaxes access checks for such cases. Here is what the [JEP authors say](http://openjdk.java.net/jeps/181):
 

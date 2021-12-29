@@ -51,7 +51,7 @@ Java 10 должна увидеть свет в марте 2018. Это буде
 
 Так как Java 10 уже не за горами, то самое время взглянуть на JEP'ы (Java Enhancement Proposal), которые [запланированы в Java 10](http://openjdk.java.net/projects/jdk/10). Вот краткий обзор больших изменений в Java 10. Наслаждайтесь!
 
-[English version is here.](https://blog.gypsyengineer.com/en/tech/what-is-new-in-java-10-episode-one.html)
+[English version is here.](/en/tech/what-is-new-in-java-10-episode-one.html)
 
 &nbsp;
 
@@ -160,7 +160,7 @@ Hotspot JVM ведет себя примерно так же. У JVM есть с
 
 С ума сойти ...&nbsp; но если этого вам мало, то добро пожаловать в&nbsp;&nbsp;[JEP 312](http://openjdk.java.net/jeps/312)
 
-[Продолжение следует ...](https://blog.gypsyengineer.com/ru/tech-ru/what-is-new-in-java-10-part-two.html)
+[Продолжение следует ...](/ru/tech-ru/what-is-new-in-java-10-part-two.html)
 
 P.S. Если я написал какую-нибудь глупость, то буду признателен, если вы об этом сообщите :)
 

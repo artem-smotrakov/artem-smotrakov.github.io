@@ -49,7 +49,7 @@ author:
 permalink: "/en/security/global-buffer-overflows.html"
 ---
 <p style="text-align: justify;">There are a lot of articles, posts, and even books which describe a stack buffer overflow. There are a little less stuff about heap buffer overflows. But there is one more thing which you can overflow - buffers in global memory. Although all of those types of issues are very similar, let me try to fill this little gap with global buffer overflows.</p>
-<p><a href="https://blog.gypsyengineer.com/ru/security-ru/global-buffer-overflow-ru.html">Русская версия</a></p>
+<p><a href="/ru/security-ru/global-buffer-overflow-ru.html">Русская версия</a></p>
 <p><!--more--></p>
 <h2>Where do global buffers live?</h2>
 <p style="text-align: justify;">There are two places where global and static variables can be located:</p>

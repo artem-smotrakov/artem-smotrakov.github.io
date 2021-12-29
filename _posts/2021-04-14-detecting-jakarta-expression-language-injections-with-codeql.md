@@ -40,7 +40,7 @@ permalink: "/en/security/detecting-jakarta-expression-language-injections-with-c
 ---
 <!-- wp:paragraph -->
 
-Recently I wrote a post about [detecting JEXL injections with CodeQL](https://blog.gypsyengineer.com/en/security/detecting-jexl-injections-with-codeql.html). JEXL is a library that provides an interpreter for a simple expression language (EL). This time, I'll talk about injections with Jakarta Expression Language, and how they can be found with CodeQL.
+Recently I wrote a post about [detecting JEXL injections with CodeQL](/en/security/detecting-jexl-injections-with-codeql.html). JEXL is a library that provides an interpreter for a simple expression language (EL). This time, I'll talk about injections with Jakarta Expression Language, and how they can be found with CodeQL.
 
 <!-- /wp:paragraph -->
 
@@ -125,7 +125,7 @@ Here is an example of vulnerable code. It just takes an expression from an HTTP 
 
 <!-- wp:paragraph -->
 
-I'd rather avoid using Jakarta EL in applications if possible. If expressions are really necessary, only authorized users should be able to run them. It would be also good to evaluate expressions in a restrictive sandbox, but unfortunately, the Jakarta EL specification doesn't define any API for sandboxing. As a result, the interpreters don't implement any sandbox. Instead of Jakarta EL, you can consider using another EL that allows defining a sandbox. For example, Apache JEXL. [This post has a couple of examples that show how to implement a sandbox with JEXL.](https://blog.gypsyengineer.com/en/security/detecting-jexl-injections-with-codeql.html)
+I'd rather avoid using Jakarta EL in applications if possible. If expressions are really necessary, only authorized users should be able to run them. It would be also good to evaluate expressions in a restrictive sandbox, but unfortunately, the Jakarta EL specification doesn't define any API for sandboxing. As a result, the interpreters don't implement any sandbox. Instead of Jakarta EL, you can consider using another EL that allows defining a sandbox. For example, Apache JEXL. [This post has a couple of examples that show how to implement a sandbox with JEXL.](/en/security/detecting-jexl-injections-with-codeql.html)
 
 <!-- /wp:paragraph -->
 

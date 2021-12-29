@@ -69,8 +69,8 @@ The device is based on a simple weather station that I described in the followin
 
 <!-- wp:list -->
 
-- [Weather station based on ESP32 and MicroPython](https://blog.gypsyengineer.com/en/diy-electronics/weather-station-based-on-esp32-and-micropython.html)
-- [MicroPython on ESP32: sending data to Google Sheets](https://blog.gypsyengineer.com/en/diy-electronics/micropython-on-esp32-sending-data-to-google-sheets.html)
+- [Weather station based on ESP32 and MicroPython](/en/diy-electronics/weather-station-based-on-esp32-and-micropython.html)
+- [MicroPython on ESP32: sending data to Google Sheets](/en/diy-electronics/micropython-on-esp32-sending-data-to-google-sheets.html)
 
 <!-- /wp:list -->
 
@@ -177,7 +177,7 @@ The ESP32 board talks to the MH-Z19B sensor via UART (another option is PWN). Ac
 
 <!-- wp:paragraph -->
 
-The LEDs are connected to D13, D27 and D33 pins via [current limiting resistors](https://blog.gypsyengineer.com/en/diy-electronics/limit-the-current-take-care-of-your-favorite-led.html). It's okay to use resistors with close values (for example, 510 Ohm).
+The LEDs are connected to D13, D27 and D33 pins via [current limiting resistors](/en/diy-electronics/limit-the-current-take-care-of-your-favorite-led.html). It's okay to use resistors with close values (for example, 510 Ohm).
 
 <!-- /wp:paragraph -->
 
@@ -290,21 +290,21 @@ Google Sheets can draw nice graphs for the measured temperature, humidity and CO
 
 <!-- wp:gallery {"ids":[3964,3965,3959,3963,3960,3962,3961,3958],"columns":3,"linkTo":"file"} -->
 - 
-[![]({{ site.baseurl }}/assets/images/2021/01/PXL_20201229_205637955-1024x768.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2021/01/PXL_20201229_205637955-scaled.jpg)
+[![]({{ site.baseurl }}/assets/images/2021/01/PXL_20201229_205637955-1024x768.jpg)](/wp-content/uploads/2021/01/PXL_20201229_205637955-scaled.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2021/01/PXL_20201229_205731279-1024x768.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2021/01/PXL_20201229_205731279-scaled.jpg)
+[![]({{ site.baseurl }}/assets/images/2021/01/PXL_20201229_205731279-1024x768.jpg)](/wp-content/uploads/2021/01/PXL_20201229_205731279-scaled.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2021/01/PXL_20201229_205610193-1024x768.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2021/01/PXL_20201229_205610193-scaled.jpg)
+[![]({{ site.baseurl }}/assets/images/2021/01/PXL_20201229_205610193-1024x768.jpg)](/wp-content/uploads/2021/01/PXL_20201229_205610193-scaled.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2021/01/PXL_20201229_205957226-1024x768.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2021/01/PXL_20201229_205957226-scaled.jpg)
+[![]({{ site.baseurl }}/assets/images/2021/01/PXL_20201229_205957226-1024x768.jpg)](/wp-content/uploads/2021/01/PXL_20201229_205957226-scaled.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2021/01/PXL_20201229_210027699-1024x768.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2021/01/PXL_20201229_210027699-scaled.jpg)
+[![]({{ site.baseurl }}/assets/images/2021/01/PXL_20201229_210027699-1024x768.jpg)](/wp-content/uploads/2021/01/PXL_20201229_210027699-scaled.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2021/01/PXL_20201229_210059757-1024x768.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2021/01/PXL_20201229_210059757-scaled.jpg)
+[![]({{ site.baseurl }}/assets/images/2021/01/PXL_20201229_210059757-1024x768.jpg)](/wp-content/uploads/2021/01/PXL_20201229_210059757-scaled.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2021/01/PXL_20201229_210150528-1024x768.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2021/01/PXL_20201229_210150528-scaled.jpg)
+[![]({{ site.baseurl }}/assets/images/2021/01/PXL_20201229_210150528-1024x768.jpg)](/wp-content/uploads/2021/01/PXL_20201229_210150528-scaled.jpg)
 - 
-[![]({{ site.baseurl }}/assets/images/2021/01/PXL_20201229_210234077-1024x768.jpg)](https://blog.gypsyengineer.com/wp-content/uploads/2021/01/PXL_20201229_210234077-scaled.jpg)
+[![]({{ site.baseurl }}/assets/images/2021/01/PXL_20201229_210234077-1024x768.jpg)](/wp-content/uploads/2021/01/PXL_20201229_210234077-scaled.jpg)
 
 <!-- /wp:gallery -->
 

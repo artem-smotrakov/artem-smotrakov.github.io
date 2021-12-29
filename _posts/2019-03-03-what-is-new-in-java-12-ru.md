@@ -46,7 +46,7 @@ permalink: "/ru/tech-ru/what-is-new-in-java-12-ru.html"
 
 <!-- wp:paragraph -->
 
-(English version is [here](https://blog.gypsyengineer.com/tech/what-is-new-in-java-12.html))
+(English version is [here](/tech/what-is-new-in-java-12.html))
 
 <!-- /wp:paragraph -->
 

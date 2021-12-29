@@ -21,7 +21,7 @@ meta:
     new in Java 10: Episode 1";s:31:"aioseop_opengraph_settings_desc";s:206:"Since
     Java 10 is coming, it&#039;s time to have a look at the JEPs (Java Enhancement
     Proposal) targeted to Java 10. Here is a digest of the main features which are
-    planned to be delivered in Java 10. Enjoy!";s:32:"aioseop_opengraph_settings_image";s:71:"https://blog.gypsyengineer.com/wp-content/uploads/2016/08/java_logo.png";s:36:"aioseop_opengraph_settings_customimg";s:0:"";s:37:"aioseop_opengraph_settings_imagewidth";s:0:"";s:38:"aioseop_opengraph_settings_imageheight";s:0:"";s:32:"aioseop_opengraph_settings_video";s:0:"";s:37:"aioseop_opengraph_settings_videowidth";s:0:"";s:38:"aioseop_opengraph_settings_videoheight";s:0:"";s:35:"aioseop_opengraph_settings_category";s:7:"article";s:34:"aioseop_opengraph_settings_section";s:0:"";s:30:"aioseop_opengraph_settings_tag";s:0:"";s:34:"aioseop_opengraph_settings_setcard";s:7:"summary";s:44:"aioseop_opengraph_settings_customimg_twitter";s:0:"";s:44:"aioseop_opengraph_settings_customimg_checker";s:1:"0";}'
+    planned to be delivered in Java 10. Enjoy!";s:32:"aioseop_opengraph_settings_image";s:71:"/wp-content/uploads/2016/08/java_logo.png";s:36:"aioseop_opengraph_settings_customimg";s:0:"";s:37:"aioseop_opengraph_settings_imagewidth";s:0:"";s:38:"aioseop_opengraph_settings_imageheight";s:0:"";s:32:"aioseop_opengraph_settings_video";s:0:"";s:37:"aioseop_opengraph_settings_videowidth";s:0:"";s:38:"aioseop_opengraph_settings_videoheight";s:0:"";s:35:"aioseop_opengraph_settings_category";s:7:"article";s:34:"aioseop_opengraph_settings_section";s:0:"";s:30:"aioseop_opengraph_settings_tag";s:0:"";s:34:"aioseop_opengraph_settings_setcard";s:7:"summary";s:44:"aioseop_opengraph_settings_customimg_twitter";s:0:"";s:44:"aioseop_opengraph_settings_customimg_checker";s:1:"0";}'
   _aioseop_keywords: java,jdk,10,new,features,jep,targeted,enhancement,proposal,garbage,collector,g1,jvm,cds,appcds,local,variable
   _aioseop_description: Since Java 10 is coming, it's time to have a look at the JEPs
     (Java Enhancement Proposal) targeted to Java 10. Here is a digest of the main
@@ -161,7 +161,7 @@ It's relatively easy, isn't it? But the following should blow up your head unles
 
 It's crazy ...&nbsp; but if it's not enough for you, please refer to&nbsp;[JEP 312](http://openjdk.java.net/jeps/312)
 
-Here is a follow-up post which covers [the rest of the main updates in Java 10](https://blog.gypsyengineer.com/en/tech/whats-new-in-java-10-episode-two.html).
+Here is a follow-up post which covers [the rest of the main updates in Java 10](/en/tech/whats-new-in-java-10-episode-two.html).
 
 P.S. I would appreciate a lot if you let me know in case I wrote anything dumb and stupid :)
 
