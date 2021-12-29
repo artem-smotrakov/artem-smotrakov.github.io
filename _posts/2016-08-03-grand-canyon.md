@@ -50,12 +50,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618017185'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/travel/grand-canyon.html"
 ---
 Если вы находитесь в Лас-Вегасе, и уже съездили на плотину Гувера, и конечно же спустили всё нажитое непосильным трудом, то самое время посмотреть на Большой каньон (Grand Canyon). Это такой национальный парк в США.

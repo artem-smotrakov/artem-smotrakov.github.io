@@ -35,12 +35,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617987733'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/travel/road-trip-to-seattle.html"
 ---
 Как-то я писал об одной американской забаве под названием "road trip" или "дорожное путешествие". Забава мне эта очень пришлась по душе, и таких путешествий было совершено уже три: одно [по Калифорнии, Неваде и кусочку Аризоны](/travel/trip-in-california-nevada-arizona.html), другое [в Санта-Барбару к местам съемки одноименного сериала](/travel/road-trip-to-santa-barbara.html), и третье [по Флориде](/travel/road-trip-in-florida-part-one.html).

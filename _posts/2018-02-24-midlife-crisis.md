@@ -38,12 +38,7 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618014562'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/ru/nonsense-ru/midlife-crisis.html"
 ---
 - Вот меня последнее время мучают всякие вопросы из разряда "А зачем?", - говорю я по пути из магазина. - Хочется что-то такое сделать, чтобы непременно большое было и полезное. Чтоб, так сказать, посильно след оставить в историческом процессе. А то все суета одна. Нет чтобы вот по-настоящему ... Всё не то ... Это наверное кризис среднего возраста.

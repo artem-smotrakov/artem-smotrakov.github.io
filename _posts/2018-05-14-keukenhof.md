@@ -29,12 +29,7 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618015511'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/ru/travel/keukenhof.html"
 ---
 Едешь смотреть тюльпанчики в Голландию, а попадаешь на Кухонный двор. Он у них называется Keukenhof, и, как это ни странно, именно там и собрались все тюльпанчики. А еще нарциссы, гиацинты и даже японская сакура. Кюхенхоф или же Кёкенхоф, как вам удобней, это парк цветов в Нидерландах. Нет, не просто какой-то там парк, а, на минуточку, королевский парк цветов. И ходят слухи, что королевская семья не отлынивает и принимает участие в жизни парка.

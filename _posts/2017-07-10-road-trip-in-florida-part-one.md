@@ -36,12 +36,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618159256'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/travel/road-trip-in-florida-part-one.html"
 ---
 Я недавно был во Флориде. Что сказать - место хорошее. После Флориды я начал думать, что в Калифорнии довольно холодно. Похоже, что я вконец изнежился и расслабился под калифорнийским солнышком.

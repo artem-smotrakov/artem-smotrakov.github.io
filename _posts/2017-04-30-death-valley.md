@@ -33,12 +33,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618064476'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/travel/death-valley.html"
 ---
 Есть в Калифорнии место с очень страшным названием - Долина Смерти. Это пустыня. Известна она тем, что там очень жарко. Особенно летом. А еще это американский национальный парк, который, как и многие другие американские национальные парки, прекрасно оборудован для посещения всеми желающими повидать виды. В результате туристов там много даже несмотря на такое страшное название.

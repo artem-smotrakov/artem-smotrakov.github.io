@@ -34,12 +34,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618017202'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/travel/saint-petersburg-in-florida.html"
 ---
 Нет, речь не пойдет о какой-нибудь загадочной и мистической стороне города на Неве. Не будет сказано ни слова о какой-нибудь таинственной ротонде, ни о инженерном замке, ни о сфинксах, и даже ни о клубах на Думской и пацанах в Купчегагене.

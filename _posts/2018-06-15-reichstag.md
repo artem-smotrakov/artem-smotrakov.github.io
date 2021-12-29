@@ -31,12 +31,7 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618186184'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/ru/travel/reichstag.html"
 ---
 Так получилось, что если выйти из дома, где я живу, свернуть направо, пройти по тенистой улочке, оставить слева центральный берлинский вокзал, перейти речку Шпрею, сразу за которой будет швейцарское посольство, то вдруг перед нами возникнет Рейхстаг. Вся прогулка нога за ногу займет минут двадцать.

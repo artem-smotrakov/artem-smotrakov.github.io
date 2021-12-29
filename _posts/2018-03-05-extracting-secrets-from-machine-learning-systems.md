@@ -32,12 +32,7 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618016979'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/en/security/extracting-secrets-from-machine-learning-systems.html"
 ---
 For those who are interested in machine learning and/or security, here is a research which discusses extracting secrets from machine learning systems:

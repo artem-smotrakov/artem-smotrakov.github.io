@@ -37,12 +37,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617979355'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/en/security/fuzzing-gui-applications-abiword.html"
 ---
 Usually there is no problem if you want to fuzz a headless application. A headless application&nbsp;can be run just in a terminal, and doesn't have any GUI. You can&nbsp;pick up your favorite fuzzer, and feed fuzzed data to the application. Normally, a headless application just processes data, and then quits or crashes right away. But it may be different if you are trying to fuzz an application with GUI. Let's try to fuzz an open source text editor AbiWord.

@@ -40,12 +40,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617983501'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/diy-electronics-ru/micropython-on-esp8266-sending-data-to-thingspeak.html"
 ---
 Традиционным "Hello World!"&nbsp;в мире микроконтроллеров&nbsp;можно по праву назвать мигание светодиодом. Это и было сделано после [установки MicroPython на ESP8266](/fun-ru/diy-electronics-ru/how-to-run-micropython-on-esp8266.html). Но время идти двигаться дальше и реализовать второй традиционный проект для микроконтроллера - измерение температуры и влажности со всеми любимым датчиком DHT22. Но мы не ограничимся тихими измерениями, а вместе с этим будем отсылать эти важные данные в интернеты. Для этого у нас есть, например, прекрасный сервис ThingSpeak. Пополним армию Internet of Shit!

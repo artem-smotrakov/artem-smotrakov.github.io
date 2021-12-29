@@ -39,12 +39,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618017101'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/en/diy-electronics/getting-started-with-esp8266-and-micropython.html"
 ---
 I like the idea of Internet of Things (IoT) which is becoming so popular. We have everything connected to the Internet: TVs, printers, fridges, cars, even teeth brushes, etc. We already have botnets which consist of IoT devices, and are used for massive DDoS attacks. I personally prefer calling it "Internet of Shit" because sometimes it's not clear why some devices connect to the Internet. By the way, there is a twitter called "Internet of Shit". I highly recommend to follow.

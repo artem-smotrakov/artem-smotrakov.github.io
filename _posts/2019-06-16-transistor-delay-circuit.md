@@ -29,12 +29,7 @@ meta:
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617982480'
   _yoast_wpseo_estimated-reading-time-minutes: '4'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/en/diy-electronics/transistor-delay-circuit.html"
 ---
 <!-- wp:paragraph -->

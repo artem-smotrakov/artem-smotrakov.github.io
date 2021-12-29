@@ -31,12 +31,7 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617981193'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/en/security/integrating-owasp-dependency-check.html"
 ---
 OWASP Dependency Check is a well known open-source tool which can track dependencies in your project and identify components with known published vulnerabilities. The tool supports multiple languages and platforms such as Java, .NET, Ruby and Python. One of the simplest ways how you can use Dependency Check in your project is just to run it manually. This way has at least one disadvantage: you have to make sure that you run the tool regularly. Fortunately there is a couple of ways how you can automate this process.

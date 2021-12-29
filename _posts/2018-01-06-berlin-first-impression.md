@@ -40,12 +40,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618045676'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/german-life/berlin-first-impression.html"
 ---
 Уже летим над пригородами Берлина. Внизу городки с красными крышами домов. Между ними бегут крошечные машинки. Вот уже видно панельные многоэтажки, они похожи на те, что стоят в спальных районах российских городов, которые строились в 70-80х годах. Наследие ГДР. Посадка в аэропорте Тегель.

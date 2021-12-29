@@ -42,12 +42,7 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617984230'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/ru/german-life/german-tax-office.html"
 ---
 Работа в налоговой мне всегда казалась немножко грустной. Ведь эту важную государственную службу часто не очень любят. Во всяком случае мне еще никто не признался в такой изощренной любви. Нелюбовь эта в свою очередь не может не сказываться на работниках налоговой службы.

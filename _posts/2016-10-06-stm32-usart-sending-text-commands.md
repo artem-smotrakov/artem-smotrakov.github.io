@@ -34,12 +34,6 @@ meta:
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617977218'
   _stcr@_hxaea6p5r@relay.firefox.com: 2021-09-17 20:55:05|Y
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/en/diy-electronics/stm32-usart-sending-text-commands.html"
 ---
 If you think that your STM32 board feels lonely, you can connect it to your laptop. One of the ways how you can do that&nbsp;is USART. That's probably the easiest way. For example, let's say that we want to send text commands from a laptop to STM32 board. One command should turn on an LED, and another one should turn it off. And of course, STM32 should curse us in case of invalid command.

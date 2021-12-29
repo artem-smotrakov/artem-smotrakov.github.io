@@ -42,12 +42,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617992449'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/diy-electronics-ru/problems-with-running-micropython-on-esp8266-with-512k-2.html"
 ---
 [ESP8266 могут иметь разное количество памяти на борту](/fun-ru/diy-electronics-ru/how-to-run-micropython-on-esp8266.html). У MicroPython на этот случай есть две версии: ограниченная для бедных устройств с объемом памяти меньше 512K и полная версия для счастливых устройств с объемом памяти более 512K. Прошлый раз мы баловались с&nbsp;ESP-07, которая как раз имела лишь 512K памяти, поэтому использовалась урезанная версия MicroPython. Этого было достаточно, чтобы помигать светодиодом подключившись к ESP8266 через USB-Serial адаптер, но дальше начались трудности.

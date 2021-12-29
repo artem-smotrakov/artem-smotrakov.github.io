@@ -31,12 +31,7 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618017049'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/en/security/whats-new-security-features-in-java-11.html"
 ---
 Java 11 was released on Sep 25th, 2018. This is the first long-term support release produced under the six-month cadence release model. Besides a huge number of small improvements and bug fixes, the new release contains [17 major enhancements](http://openjdk.java.net/projects/jdk/11/)&nbsp;including:

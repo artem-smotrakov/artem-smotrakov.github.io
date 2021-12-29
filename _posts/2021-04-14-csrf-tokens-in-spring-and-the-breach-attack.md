@@ -29,12 +29,7 @@ meta:
   _yoast_wpseo_linkdex: '64'
   rp4wp_auto_linked: '1'
   _yoast_wpseo_content_score: '60'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/en/security/csrf-tokens-in-spring-and-the-breach-attack.html"
 ---
 <!-- wp:paragraph -->

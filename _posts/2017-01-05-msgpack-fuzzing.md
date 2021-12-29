@@ -38,12 +38,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617985538'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/en/security/msgpack-fuzzing.html"
 ---
 [MessagePack](http://msgpack.org/)&nbsp;is a binary serialization format. There are lots of open source implementations of this protocol on various languages including C/C++. It's good to do something good in new year.&nbsp;For example, it can be a little&nbsp;contribution to an open source project. Let's check quickly if the implementation on C/C++ has any memory corruption issues. One of the best ways is of course fuzzing.

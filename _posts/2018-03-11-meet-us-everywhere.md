@@ -33,12 +33,7 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617993319'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/ru/nonsense-ru/meet-us-everywhere.html"
 ---
 Как-то я прочитал в новостях, что Федор Чистяков, который был лидером группы Ноль, уехал в США. То ли насовсем, то ли пока еще нет. Оказалось, что Федор Чистяков является членом церкви Свидетели Иеговы, которую не так давно на территории России предали анафеме. Хоть я и не слежу за жизнью ни Федора Чистякова, ни Свидетелей Иеговых, но почему-то был немного удивлен, когда узнал, что он состоит в этой организации. Потом я начал вспоминать, с какими церквями я имел счастье познакомиться.

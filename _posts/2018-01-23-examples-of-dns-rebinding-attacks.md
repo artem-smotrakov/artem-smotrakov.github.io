@@ -35,12 +35,7 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617983982'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/en/security/examples-of-dns-rebinding-attacks.html"
 ---
 <p style="text-align: justify;">DNS rebinding attacks have been known for quite a long time. For example, Stanford Web Security Research Team posted <a href="https://crypto.stanford.edu/dns/">a whitepaper about DNS rebinding attacks</a> in 2007. But even if it's a well-known type of attacks, nowadays you still can find software systems which are vulnerable to DNS rebinding attacks. For example, Google Project Zero recently discovered such <a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1471&amp;desc=2">problems in Blizzard Update Agent</a> and <a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1447">BitTorent Transmission Daemon</a>.</p>

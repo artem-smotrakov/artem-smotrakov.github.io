@@ -44,12 +44,7 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618017070'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/en/tech/whats-new-in-java-10-episode-two.html"
 ---
 Java 10 is coming in March 2018. This release contains quite a lot of enhancements in the JVM. But it looks like JDK users are mostly interested in one particular update in the Java Language - [type inference to declarations of local variables with initializers](http://openjdk.java.net/jeps/286). Besides updates to the Java Language and JVM, Java 10 contains another update which together with the&nbsp;[six-month release model](https://mreinhold.org/blog/forward-faster#Proposal) has been bothering the Java community for several months.

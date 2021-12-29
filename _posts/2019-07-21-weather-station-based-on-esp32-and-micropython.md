@@ -38,12 +38,7 @@ meta:
   _stcr@_urvashi.taki42@gmail.com: 2021-04-21 14:51:34|Y
   _yoast_wpseo_estimated-reading-time-minutes: '12'
   _stcr@_jonathan.desombre@gmail.com: 2021-12-03 11:29:46|YC
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/en/diy-electronics/weather-station-based-on-esp32-and-micropython.html"
 ---
 <!-- wp:paragraph -->

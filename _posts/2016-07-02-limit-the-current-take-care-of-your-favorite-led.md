@@ -35,12 +35,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617997168'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/en/diy-electronics/limit-the-current-take-care-of-your-favorite-led.html"
 ---
 I am a beginner in electronics, and just learned that LEDs and microcontroller's I/O ports are so sensitive ... Thanks Mr. Ohm whose law saves us!

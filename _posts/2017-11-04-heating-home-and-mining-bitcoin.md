@@ -33,12 +33,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618175011'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/diy-electronics-ru/heating-home-and-mining-bitcoin.html"
 ---
 Кажется, я нашел следующий проект для себя из категории "Сделай сам".

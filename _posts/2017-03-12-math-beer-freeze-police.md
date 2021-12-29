@@ -32,12 +32,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618016957'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/en/nonsense-en/math-beer-freeze-police.html"
 ---
 It's 3pm, we came into the room at 8am, so&nbsp;we've been taking our mathematical analysis exam for 7 hours.

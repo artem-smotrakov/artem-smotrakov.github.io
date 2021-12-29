@@ -32,12 +32,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618006060'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/american-life/usa-driver-license.html"
 ---
 Водительские права в Америке являются основным удостоверением личности. Как-то я уже рассказывал историю о том, как на заправке при попытке оплатить бензин кредитной картой строгий и бдительный&nbsp;кассир не был удовлетворен моим заграничным паспортом с биометрической информацией и всевозможными степенями защиты от подделок. Однако, он был вполне счастлив увидев обыкновенное российское водительское удостоверение, которое отдаленно&nbsp;похоже на калифорнийское.

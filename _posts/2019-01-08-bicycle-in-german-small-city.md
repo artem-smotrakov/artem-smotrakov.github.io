@@ -31,12 +31,7 @@ meta:
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618034430'
   _yoast_wpseo_estimated-reading-time-minutes: '4'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/ru/german-life/bicycle-in-german-small-city.html"
 ---
 <!-- wp:paragraph -->

@@ -44,12 +44,7 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617995284'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/ru/travel/road-trip-from-california-to-seattle.html"
 ---
 Однажды мне пришло в голову доехать на машине из Калифорнии до Сиэтла. Жил я тогда в районе Сан-Хосе, что в свою очередь не так далеко от Сан-Франциско. Когда смотришь на карту, то кажется, что от Сан-Франциско до Сиэтла не очень далеко. Однако присмотревшись и спросив Google Maps начинаешь понимать, что затея эта будет довольно долгоиграющей. Путь туда и обратно составляет примерно 1700 миль или 2700 километров.

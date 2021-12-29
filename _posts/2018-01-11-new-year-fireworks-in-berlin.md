@@ -37,12 +37,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618045833'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/german-life/new-year-fireworks-in-berlin.html"
 ---
 (Кто-то справедливо может заметить, что совсем сдурел, новый год уж давно наступил, а он все пишет. Просто давно написал, но все забывал разместить)

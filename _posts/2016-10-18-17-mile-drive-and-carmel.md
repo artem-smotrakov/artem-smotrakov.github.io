@@ -31,12 +31,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618010346'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/travel/17-mile-drive-and-carmel.html"
 ---
 Чуть к югу от Мортерея (Monterey) в Калифорнии есть городок Кармел (Carmel-By-The-Sea). А между ними и немного западнее находится место, которое называется "17 mile drive". Как можно догадаться из названия, это некая дорога длиной в 17 миль. Мне года четыре рекомендовали туда съездить многие люди, потому что там очень красиво. Через четыре года я все-таки собрался.

@@ -36,12 +36,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618016385'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/american-life/how-i-learn-english.html"
 ---
 Мне иногда говорят, что коли я&nbsp;живу в Америке и работаю в американской компании, то значит я прекрасно говорю по-английски.&nbsp;Это не совсем так.

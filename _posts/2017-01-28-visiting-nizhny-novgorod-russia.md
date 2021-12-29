@@ -31,12 +31,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618017083'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/en/traveling/visiting-nizhny-novgorod-russia.html"
 ---
 If you are visiting Russia, than you are probably in Moscow. Or, you may be in Saint Petersburg (by the way, there is [another one in Florida](https://en.wikipedia.org/wiki/St._Petersburg,_Florida)). Just because those two cities are the most famous and popular places in Russia.

@@ -39,12 +39,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618077052'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/travel/mexico-ensenada.html"
 ---
 Калифорния и Мексика самые настоящие соседушки: южная граница Калифорнии как раз примыкает к северной мексиканской. А город Сан-Диего находится у самой границы с Мексикой, и там ее можно запросто перейти. Мексика страна гостеприимная, и скорее всего вам не понадобится никакой визы для ее посещения&nbsp;в роли&nbsp;беспечного туриста.

@@ -30,12 +30,7 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618017034'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/en/security/secure-usage-tls.html"
 ---
 The article describes how TLS protocols can be used for establishing a secure connection: First, we'll briefly discuss the protocol works. Next, we'll talk about secure protocol versions and parameters. Finally, we'll describe how TLS can be configures securely.

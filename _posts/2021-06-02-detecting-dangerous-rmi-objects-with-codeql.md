@@ -30,12 +30,7 @@ meta:
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1622641461'
   rp4wp_auto_linked: '1'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/en/security/detecting-dangerous-rmi-objects-with-codeql.html"
 ---
 <!-- wp:paragraph -->

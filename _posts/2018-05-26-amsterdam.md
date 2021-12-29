@@ -31,12 +31,7 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618012847'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/ru/travel/amsterdam.html"
 ---
 - Наш автобус проследует ... в Амстердам, - неторопливо обнадежил нас водитель, как только мы отъехали от берлинского автовокзала. - Путешествие займет около восьми часов ... хотя, конечно, зависит от дорожной обстановки ... В пути мы сделаем одну остановку ... Да, у нас есть туалет ... В автобусе потряхивает, поэтому прошу мужчин не делать это стоя ... Ну и женщин, конечно, тоже прошу ...

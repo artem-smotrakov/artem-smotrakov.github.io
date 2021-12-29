@@ -39,12 +39,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617984598'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/diy-electronics-ru/how-to-run-micropython-on-esp8266.html"
 ---
 Мне нравится идея Интернета вещей, и последнее время идея эта становится довольно популярной. У нас уже есть куча вещей, которые подключаются к интернету: телевизоры, принтеры, холодильники, автомобили и даже зубные щетки. Более того, у нас еже есть целые ботнеты, которые укомплектованы IoT устройствами, и которые успешно используются для массивных DDoS атак. Иногда&nbsp;я предпочитаю называть все&nbsp;это "Internet of Shit", потому что порой непонятно, зачем некоторые устройства пытаются выйти в интернеты. Кстати, есть интересный twitter, который так и называется "Internet of Shit". Очень рекомендую.

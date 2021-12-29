@@ -38,12 +38,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618009928'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/american-life/traveling-usa-by-train.html"
 ---
 Об этом мало кто говорит&nbsp;в Америке. Возможно ваш собеседник даже немножко&nbsp;удивится, если вы ему скажете, что сделали это или просто собираетесь сделать. Порой кажется, что многие, кто живет в Америке, никогда об этом и не слышали вовсе. Они привыкли сидеть за рулем своих многочисленных удобных автомобилей и мчаться по ровным широким дорогам, куда глаза глядят. Или садятся в самолет, если уж слишком далеко. Но практически никто не вспоминает, что в Америке еще есть и поезда.

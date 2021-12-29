@@ -33,12 +33,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618017094'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/security-ru/dns-tunneling-with-java-ru.html"
 ---
 Часто компании имеют свою внутреннюю сеть, которая подключена к интернету через маршрутизатор (или роутер, router). Обычно на таком маршрутизаторе работает firewall, который может фильтровать сетевой трафик. Бывает, что компания не хочет, чтобы компьютеры (и прочие устройства)&nbsp;из внутренней сети имели доступ к интернету. Это может уменьшить вероятность просачивания&nbsp;важной, секретной и не очень информации в интернет. Или начальство просто не хочет, чтобы работники сидели в их любимых социальных сетях в рабочее время. В таком случает firewall может быть настроен на блокирование большинства TCP/UDP соединений с интернетом.&nbsp;"DNS tunneling" может помочь при обходе такого firewall'а при условии, что он пропускает запросы к DNS серверам в интернете.

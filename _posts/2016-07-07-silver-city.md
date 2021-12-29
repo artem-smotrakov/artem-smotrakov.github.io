@@ -45,12 +45,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618069481'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/travel/silver-city.html"
 ---
 <div style="text-align: justify;">Я не люблю навигаторы. Куда веселее посмотреть карту и просто поехать не включая никакую говорилку. Ведь велик шанс заблудиться, а это бывает весело. Можно представлять, что ты являешься потомком легендарного Ивана Сусанина и героически завести своих спутников в такие дебри, что они начнут паниковать и впадать в отчаяние.</div>

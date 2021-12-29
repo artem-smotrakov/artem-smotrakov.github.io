@@ -30,12 +30,7 @@ meta:
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617977827'
   _stcr@_harish@levo.ai: 2021-05-24 20:51:06|Y
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/en/security/security-testing-for-rest-api-with-w3af.html"
 ---
 Nowadays more and more companies provide web APIs to access their services. They usually follow [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) style. Such a RESTful web service looks like a regular web application. It accepts an HTTP request, does some magic, and then replies with an HTTP response. One of the main differences is that the reply doesn't normally contain HTML to be rendered in a web browser. Instead, the reply usually contains data in a format (for example, JSON or XML) which is easier to process by another application.

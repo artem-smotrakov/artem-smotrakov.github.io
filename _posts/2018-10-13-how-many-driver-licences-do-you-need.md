@@ -32,12 +32,7 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618009871'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/ru/nonsense-ru/how-many-driver-licences-do-you-need.html"
 ---
 Сколько водительских удостоверений нужно одному человеку? Кто-то скажет, что нужно лишь одно, а кто-то даже скажет, что не нужно ни одного. Но вряд ли кто-то скажет, что нужно больше одного. У меня вот их три. Ну если быть точным, то два с половиной: российское, американское и российское международное. Расположил я их в порядке убывания сложности получения.

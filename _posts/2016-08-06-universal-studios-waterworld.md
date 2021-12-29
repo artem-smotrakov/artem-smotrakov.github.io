@@ -39,12 +39,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618004240'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/travel/universal-studios-waterworld.html"
 ---
 Возможно вы помните старинный фильм Водный мир (Waterworld) с Кевином Костнером. Я очень хорошо помню, и даже помню, что мне этот фильм очень нравился в нежном возрасте. Как будущему инженегру, мне был очень симпатичен кораблик главного героя, а еще его забавные жабры за ушами. Хотя кораблик мне хотелось заполучить, но вот жабры как-то не очень. Но все-таки речь пойдет не о моих махровых воспоминаниях о беззаботной части моей жизни, а опять об аттракционах Universal Studios (или Юниверсал парк, кому как нравится).

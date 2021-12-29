@@ -42,12 +42,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618105563'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/german-life/german-registration.html"
 ---
 А знаете ли вы, что в Германии есть прописка? Каждый понаехавший на постоянное место жительства в немецкий город должен зарегистрироваться в специальном учреждении, имя которому&nbsp;Bürgeramt (ах, эти умляуты, милашки).

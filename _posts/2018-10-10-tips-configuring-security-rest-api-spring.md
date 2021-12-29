@@ -33,12 +33,7 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617982976'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/en/security/tips-configuring-security-rest-api-spring.html"
 ---
 In most cases, REST APIs should be accessed only by authorized parties. Spring framework provides many ways to configure authentication and authorization for an application. Another good thing is that the framework usually provides relatively good default settings. But nevertheless, it may be better to understand what's going on rather then rely on the defaults.

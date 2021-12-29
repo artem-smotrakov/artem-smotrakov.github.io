@@ -45,12 +45,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617993804'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/en/security/python-marshal-module-fuzzing.html"
 ---
 [The marshal module](https://docs.python.org/3/library/marshal.html) provides a serialization mechanism for Python values. In other words, the module contains&nbsp;functions for writing/reading Python objects in a binary format. Unfortunately the format is undocumented, and Python maintainers may&nbsp;change&nbsp;the format in backward incompatible ways between Python version. The marshal module is used internally by other Python components, for example, for reading and writing .pyc files which contain pseudo-compiled Python code. But&nbsp;Python also has public API to access this serialization mechanism.

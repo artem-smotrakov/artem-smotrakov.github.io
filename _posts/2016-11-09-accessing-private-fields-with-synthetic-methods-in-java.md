@@ -36,12 +36,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618058104'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/en/security/accessing-private-fields-with-synthetic-methods-in-java.html"
 ---
 In Java, you can&nbsp;define one class B inside another class A. Class B is called an inner class, and class A&nbsp;is called an outer class. It&nbsp;looks like the following:

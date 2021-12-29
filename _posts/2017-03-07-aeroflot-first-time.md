@@ -35,12 +35,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618150214'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/nonsense-ru/aeroflot-first-time.html"
 ---
 Последние несколько лет я много летаю. К сожалению, не во сне, а наяву. В основном это из-за командировок, куда я обычно лечу&nbsp;на разных немецких, французских, голландских и даже американских перевозчиках. А вот полетать с Аэрофлотом мне довелось лишь недавно.

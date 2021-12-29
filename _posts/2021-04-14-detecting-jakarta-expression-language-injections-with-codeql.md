@@ -30,12 +30,7 @@ meta:
     them.'
   _yoast_wpseo_linkdex: '73'
   rp4wp_auto_linked: '1'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/en/security/detecting-jakarta-expression-language-injections-with-codeql.html"
 ---
 <!-- wp:paragraph -->

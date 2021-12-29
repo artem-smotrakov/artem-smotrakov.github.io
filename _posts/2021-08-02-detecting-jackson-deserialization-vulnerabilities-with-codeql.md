@@ -32,12 +32,7 @@ meta:
     in an application that uses Jackson serialization framework.
   rp4wp_auto_linked: '1'
   _wp_old_date: '2021-07-25'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/en/security/detecting-jackson-deserialization-vulnerabilities-with-codeql.html"
 ---
 <!-- wp:paragraph -->

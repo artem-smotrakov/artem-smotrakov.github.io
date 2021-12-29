@@ -35,12 +35,7 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617984294'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/en/tips-and-tricks-en/running-an-ssh-server-in-a-docker-image-as-a-debugging-mode.html"
 ---
 I was recently debugging one Python application which ran in a Docker container. At some point, I'd like to debug the app in the container. At first, I was wondering if there is a way to run a Python application with a debug agent like you can do with Java, so that the agent listened in a port for incoming connections from a remote debugger. Unfortunately I didn't find a convenient way how I could remotely debug my Python app. I found an [article](https://medium.com/@furkanpur/remote-python-debug-to-docker-container-over-ssh-by-using-pycharm-44a9b6e82206) which describes how you can debug a Python application remotely with PyCharm IDE and SSH. If I understood correctly, PyCharm can deploy your application to a Docker container via SSH, then do some magic which is called "remote interpreter", so as a result, you can debug the application from your local PyCharm installation. Looks like this feature is available only in a commercial PyCharm version, but I had only a community edition.

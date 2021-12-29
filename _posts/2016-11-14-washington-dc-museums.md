@@ -36,12 +36,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618128990'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/travel/washington-dc-museums.html"
 ---
 Есть такие города, где музеи встречаются на каждом шагу. Один из них это Питер, где есть не только Русский музей и Эрмитаж, но и Музей гигиены с Музеем сновидений Зигмунда Фрейда. Другой пример такого города музеев это столица США - Washington DC. Когда идешь по столице США, то складывается впечатление, что город состоит только из государственных учреждений и музеев, которые разбавлены небольшим количеством отелей, магазинов и ресторанов.

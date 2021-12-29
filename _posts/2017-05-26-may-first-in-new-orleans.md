@@ -36,12 +36,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618270633'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/travel/may-first-in-new-orleans.html"
 ---
 C трапа самолета мы попадаем в просторные залы аэропорта Нового Орлеана. Аэропорт&nbsp;назван в честь Луи Армстронга. Вон и его трехметровая статуя в углу. Луи в белом пиджаке играет на трубе. А вокруг любезно включены кондиционеры, от чего в залах так прохладно и хорошо. Но пора покидать небесные гавани. "Как в бане ..." - подумал я, как только вышел на улицу. Был уже поздний вечер и темно, но воздух был влажный и теплый.

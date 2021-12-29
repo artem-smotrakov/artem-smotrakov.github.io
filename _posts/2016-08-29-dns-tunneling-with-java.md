@@ -33,12 +33,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617980070'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/en/security/dns-tunneling-with-java.html"
 ---
 DNS tunneling may help you to bypass a firewall if DNS requests are allowed. Or, it can just get you a free Wi-Fi. There are a number&nbsp;standalone tools which allow you to setup a TCP-over-DNS tunnel.&nbsp;Here is a simple implementation of DNS tunneling with pure Java. It's not ready for using in real world, but it shows an idea how DNS tunneling can be implemented. The implementation works with standard JRE, and doesn't require any additional library.

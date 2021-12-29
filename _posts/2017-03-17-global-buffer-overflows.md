@@ -40,12 +40,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617984221'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/en/security/global-buffer-overflows.html"
 ---
 <p style="text-align: justify;">There are a lot of articles, posts, and even books which describe a stack buffer overflow. There are a little less stuff about heap buffer overflows. But there is one more thing which you can overflow - buffers in global memory. Although all of those types of issues are very similar, let me try to fill this little gap with global buffer overflows.</p>

@@ -37,12 +37,7 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617980633'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/ru/tech-ru/what-is-new-in-java-10-ru.html"
 ---
 Java 10 должна увидеть свет в марте 2018. Это будет следующий большой short-term release после Java 9, которая была выпущена недавно в сентябре 2017.

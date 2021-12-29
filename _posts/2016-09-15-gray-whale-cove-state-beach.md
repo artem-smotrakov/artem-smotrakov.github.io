@@ -34,12 +34,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617983823'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/ru/travel/gray-whale-cove-state-beach.html"
 ---
 "На небе только и разговоров, что о море и о закате. Там говорят о том, как чертовски здорово наблюдать за огромным огненным шаром, как он тает в волнах. И еле видимый свет, словно от свечи, горит где-то в глубине…"

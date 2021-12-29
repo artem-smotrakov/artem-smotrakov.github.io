@@ -40,12 +40,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617979362'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/en/diy-electronics/problems-with-running-micropython-on-esp8266-with-512k.html"
 ---
 In my previous post about [running MicroPython on ESP8266](http://blog.gypsyengineer.com/fun/diy-electronics/getting-started-with-esp8266-and-micropython.html), I mentioned that ESP8266 boards may have different amount of flash. Similarly there are two versions of MicroPython: limited version for 512K, and full version for boards which have more than 512K of flash. In that post, I played with ESP-07 which had only 512K, so I had to use a limited version of MicroPython. This limited MicroPython version was enough just to turn on/off an LED, but it turned out that it actually doesn't work well.

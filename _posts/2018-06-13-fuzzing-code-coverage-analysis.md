@@ -38,12 +38,7 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617986433'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/en/security/fuzzing-code-coverage-analysis.html"
 ---
 Code coverage analysis is used in software testing to discover untested pieces of an application. Gathering code coverage data may also be useful for fuzzing. Basically it may help to figure out which parts of a program were not reached during fuzzing. This info can then be used to improve the fuzzer.

@@ -43,12 +43,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617978452'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/en/security/ldap-injections.html"
 ---
 Everybody knows about SQL injections. It's like a celebrity in the world of software security. But there are much more many different types of injection attacks which may feel jealous about popularity of SQL injections. That's not fair. Let's try to feel the gap, and talk about LDAP injections.

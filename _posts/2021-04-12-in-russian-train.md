@@ -26,12 +26,7 @@ meta:
   rp4wp_auto_linked: '1'
   _yoast_wpseo_metadesc: 'Поездка в стареньком вагоне: вокруг всё такое алюминиевое,
     кожезаменительное, хлопчатобумажное. Подушка завернута в полосатый матрас.'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/ru/travel/in-russian-train.html"
 ---
 <!-- wp:paragraph -->

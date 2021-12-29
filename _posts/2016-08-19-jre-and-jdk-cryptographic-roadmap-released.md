@@ -34,12 +34,6 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618016998'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/en/security/jre-and-jdk-cryptographic-roadmap-released.html"
 ---
 The Java team has published the “Oracle JRE and JDK Cryptographic Roadmap” at&nbsp;[http://java.com/en/jre-jdk-cryptoroadmap.html](http://java.com/en/jre-jdk-cryptoroadmap.html)&nbsp;which contains upcoming changes for&nbsp;crypto algorithms and protocols supported in Oracle's JRE and JDK.

@@ -34,12 +34,7 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618017078'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/en/tips-and-tricks-en/running-picotls-server-with-tls13.html"
 ---
 [Picotls](https://github.com/h2o/picotls) is a TLS 1.3 implementation written in C. At the moment of writing this post, picotls implements [TLS 1.3 draft 26](https://tools.ietf.org/html/draft-ietf-tls-tls13-26).

@@ -39,12 +39,7 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618039045'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/ru/tech-ru/what-is-new-in-java-10-part-two.html"
 ---
 Java 10 уже не за горами, а именно её обещают выпустить уже совсем скоро в марте. В новой версии Java нас ждет довольно много улучшений в JVM. Но кажется, что все в основном заинтересованы лишь в одном нововведении в самом языке, а именно [новом слове "var"](http://openjdk.java.net/jeps/286). Помимо улучшений языка и виртуальной машины Java 10 содержит еще одно нововведение, которое совместно с [новой моделью релизов Java](https://mreinhold.org/blog/forward-faster#Proposal) наделало много шуму в сообществе любителей Java.

@@ -29,12 +29,6 @@ meta:
   _yoast_wpseo_metadesc: How to use CodeQL to prevent a potential timing attack against
     signature and MAC validation in Java applications.
   rp4wp_auto_linked: '1'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/en/security/preventing-timing-attacks-with-codeql.html"
 ---
 <!-- wp:paragraph -->

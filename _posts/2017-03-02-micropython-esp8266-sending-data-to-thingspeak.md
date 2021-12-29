@@ -41,12 +41,6 @@ meta:
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617977920'
   _stcr@_wquanlai@gmail.com: 2021-07-30 16:28:38|Y
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
 permalink: "/en/diy-electronics/micropython-esp8266-sending-data-to-thingspeak.html"
 ---
 When you play with new microcontroller, first thing you usually do is driving an LED. That's a classic "Hello World!" project for microcontrollers. That's what I did when I was [playing first time with ESP8266 and MicroPython](/fun/diy-electronics/getting-started-with-esp8266-and-micropython.html). Let's move on, and implement another classic project - measuring temperature and humidity with DHT22 sensor. But we don't want to be&nbsp;quiet, so we are going to&nbsp;share this so important data on the Internet. ThingSpeak will help us with it. Let's add a new warrior to the army of Internet of Shit!

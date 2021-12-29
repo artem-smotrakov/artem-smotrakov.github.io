@@ -42,12 +42,7 @@ meta:
     by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
     charset="utf-8"></script>
   _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618072037'
-author:
-  login: artem
-  email: artem.smotrakov@gmail.com
-  display_name: Artem
-  first_name: Artem
-  last_name: Smotrakov
+
 permalink: "/en/tech/what-is-new-in-java-10-episode-one.html"
 ---
 Java 10 should be released in Mar 2018. It's going to be the next short-term release after Java 9 which was released in Sep 2017.
