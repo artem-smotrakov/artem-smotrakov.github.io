@@ -28,6 +28,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+show_excerpts: true
+
 google_analytics: UA-80491075-1
 
 author:
