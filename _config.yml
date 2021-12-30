@@ -30,6 +30,10 @@ plugins:
 
 google_analytics: UA-80491075-1
 
+author:
+  name: Artem Smotrakov
+  email: "artem.smotrakov@gmail.com"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
