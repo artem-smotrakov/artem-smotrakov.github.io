@@ -16,7 +16,7 @@
 title: The blog of a gypsy engineer
 email: artem.smotrakov@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-        This is my personal blog.
+        Personal blog. I occasionally write about Java, security, electronics and DIY projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: artem_smotrakov
