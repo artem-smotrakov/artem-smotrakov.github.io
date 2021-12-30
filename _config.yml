@@ -34,6 +34,13 @@ author:
   name: Artem Smotrakov
   email: "artem.smotrakov@gmail.com"
 
+minima:
+  social_links:
+    twitter: artem_smotrakov
+    github: artem-smotrakov
+    facebook: artem.smotrakov
+    linkedin: artem-smotrakov
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
