@@ -12,24 +12,6 @@ categories:
 tags:
 - Баден-Вюртемберг
 - Германия
-meta:
-  _edit_last: '1'
-  _yoast_wpseo_primary_category: '228'
-  _yoast_wpseo_content_score: '30'
-  _thumbnail_id: '3020'
-  rp4wp_auto_linked: '1'
-  _wp_old_slug: "%d0%bd%d0%b5%d0%bc%d0%b5%d1%86%d0%ba%d0%b8%d0%b9-%d0%ba%d0%be%d1%80%d0%bf%d0%be%d1%80%d0%b0%d1%82%d0%b8%d0%b2%d0%bd%d1%8b%d0%b9-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%bd%d0%b0%d1%86%d0%b8%d0%be%d0%bd%d0%b0"
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:2;s:7:"replies";i:2;s:7:"authors";i:3;s:14:"recent_authors";a:4:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:25:"artem.smotrakov@gmail.com";s:14:"comment_author";s:5:"Artem";s:7:"user_id";s:1:"0";}i:1;O:8:"stdClass":3:{s:20:"comment_author_email";s:19:"korifey24@gmail.com";s:14:"comment_author";s:6:"Andrey";s:7:"user_id";s:1:"0";}i:2;O:8:"stdClass":3:{s:20:"comment_author_email";s:25:"artem.smotrakov@gmail.com";s:14:"comment_author";s:5:"Artem";s:7:"user_id";s:1:"1";}i:3;O:8:"stdClass":3:{s:20:"comment_author_email";s:25:"seleznev_dmitriy@inbox.ru";s:14:"comment_author";s:14:"Дмитрий";s:7:"user_id";s:1:"0";}}}
-  _yoast_wpseo_focuskw: интернационал
-  _yoast_wpseo_metadesc: Немного о том, кто работает и на каких языках разговаривают
-    в немецких компаниях, которые заняты разработкой программного обеспечения.
-  _yoast_wpseo_linkdex: '55'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618079993'
-
 permalink: "/ru/german-life/german-corporate-internationale.html"
 ---
 

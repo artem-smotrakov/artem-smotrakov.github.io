@@ -10,21 +10,6 @@ status: publish
 categories:
 - Kleine Sünde
 tags: []
-meta:
-  _edit_last: '1'
-  _yoast_wpseo_primary_category: '648'
-  _yoast_wpseo_content_score: '60'
-  _yoast_wpseo_focuskw: Oregon
-  _yoast_wpseo_linkdex: '58'
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_metadesc: Einmal habe ich mit meinen Freunden eine Reise in der USA
-    gemacht. Als wir in Oregon waren, sind wir an eine Tankstelle gefahren ...
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618367248'
-
 permalink: "/de/kleine-suende/tankstellen-in-oregon.html"
 ---
 

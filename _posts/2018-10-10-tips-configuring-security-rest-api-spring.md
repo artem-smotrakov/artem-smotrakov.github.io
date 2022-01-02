@@ -14,26 +14,6 @@ tags:
 - Security
 - Spring
 - Web security
-meta:
-  _edit_last: '1'
-  _yoast_wpseo_content_score: '90'
-  _yoast_wpseo_primary_category: '157'
-  _oembed_2567fe47d343837597b8185dee4dc49f: "{{unknown}}"
-  _oembed_171f377d9f3ebcec8ce0fc188f466c29: "{{unknown}}"
-  _oembed_b82d7266fb36916f2a7b14d79e2f286e: "{{unknown}}"
-  _oembed_46d4640fb489da6dbf236457d32af9ba: "{{unknown}}"
-  _yoast_wpseo_metadesc: This post contains a list of things which may be good to
-    pay attention to when you configure or review authentication and authorization
-    settings for a RESTful application based on Spring.
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_focuskw: Spring
-  _yoast_wpseo_linkdex: '67'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617982976'
-
 permalink: "/en/security/tips-configuring-security-rest-api-spring.html"
 ---
 In most cases, REST APIs should be accessed only by authorized parties. Spring framework provides many ways to configure authentication and authorization for an application. Another good thing is that the framework usually provides relatively good default settings. But nevertheless, it may be better to understand what's going on rather then rely on the defaults.

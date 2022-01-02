@@ -12,30 +12,6 @@ categories:
 tags:
 - Новый Орлеан
 - США
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_description: 'Как проходил первомай в Новом Орлеане: Французский квартал,
-    Bourbon street, уличные артисты, простой американец и текила от школьников Нового
-    Орлеана.'
-  _aioseop_title: Первомай в Новом Орлеане
-  rp4wp_auto_linked: '1'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:3;s:7:"replies";i:3;s:7:"authors";i:4;s:14:"recent_authors";a:4:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:25:"artem.smotrakov@gmail.com";s:14:"comment_author";s:5:"artem";s:7:"user_id";s:1:"1";}i:1;O:8:"stdClass":3:{s:20:"comment_author_email";s:23:"mila.golubeva@gmail.com";s:14:"comment_author";s:8:"Мила";s:7:"user_id";s:1:"0";}i:2;O:8:"stdClass":3:{s:20:"comment_author_email";s:21:"irishdrakon@gmail.com";s:14:"comment_author";s:6:"Iren4k";s:7:"user_id";s:1:"0";}i:3;O:8:"stdClass":3:{s:20:"comment_author_email";s:19:"wint.nnov@Yandex.ru";s:14:"comment_author";s:16:"Анатолий";s:7:"user_id";s:1:"0";}}}
-  _yoast_wpseo_primary_category: '2'
-  _yoast_wpseo_focuskw: Новый Орлеан
-  _yoast_wpseo_metadesc: C трапа самолета мы попадаем в просторные залы аэропорта
-    Нового Орлеана. Аэропорт назван в честь Луи Армстронга. Вон и его трехметровая
-    статуя в углу. Луи в белом пиджаке играет на трубе. А вокруг любезно включены
-    кондиционеры, от чего в залах так прохладно и хорошо.
-  _yoast_wpseo_linkdex: '48'
-  _yoast_wpseo_content_score: '30'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618270633'
 permalink: "/ru/travel/may-first-in-new-orleans.html"
 ---
 C трапа самолета мы попадаем в просторные залы аэропорта Нового Орлеана. Аэропорт&nbsp;назван в честь Луи Армстронга. Вон и его трехметровая статуя в углу. Луи в белом пиджаке играет на трубе. А вокруг любезно включены кондиционеры, от чего в залах так прохладно и хорошо. Но пора покидать небесные гавани. "Как в бане ..." - подумал я, как только вышел на улицу. Был уже поздний вечер и темно, но воздух был влажный и теплый.

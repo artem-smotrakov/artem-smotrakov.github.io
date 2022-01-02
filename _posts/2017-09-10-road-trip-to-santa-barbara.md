@@ -12,24 +12,6 @@ categories:
 tags:
 - Калифорния
 - США
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_description: 'Калифорнийская Санта-Барбара: сериал, арки, ирландцы и местные
-    способы отъема денег у населения.'
-  _aioseop_title: Санта-Барбара
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '2'
-  _yoast_wpseo_focuskw: Cанта-Барбара
-  _yoast_wpseo_linkdex: '48'
-  _yoast_wpseo_content_score: '60'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618232229'
 permalink: "/ru/travel/road-trip-to-santa-barbara.html"
 ---
 Есть в Америке такая народная забава, которая называется "road trip". Или дорожное путешествие. Мне эта забава пришлась очень по душе, поэтому я стараюсь на нее находить время. Например, в последний понедельник мая в США отмечают "Memorial Day", в который американцы вспоминают тех, кто погиб при исполнении воинских обязанностей. Это федеральный праздник, который отмечается во всех штатах США, и в этот день на работу ходить не полагается. В прошлом году я встретил Memorial Day в Сан-Диего, где гулял по прекрасной набережной и иногда даже слышал, как мне почему-то говорят "Thank you for your service". Видимо моя лысая голова вместе с наличием в Сан-Диего базы военно-морского флота США заставляли некоторых думать, что я матрос с одного из американских эсминцев или даже крейсера. В этом году я тщательно постригся перед праздником и поехал в Санта-Барбару. Правда, пишу об этом с небольшим опозданием всего в три месяца.

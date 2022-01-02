@@ -14,28 +14,6 @@ tags:
 - Орландо
 - США
 - Флорида
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_description: 'Поездка по Флориде в двух частях: Disney World в Орландо,
-    Микки Маус, Гуффи, толстые крокодилы и загадочные будки.'
-  _aioseop_title: Едем по Флориде (часть вторая)
-  rp4wp_auto_linked: '1'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:3;s:7:"replies";i:3;s:7:"authors";i:4;s:14:"recent_authors";a:4:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:25:"artem.smotrakov@gmail.com";s:14:"comment_author";s:5:"artem";s:7:"user_id";s:1:"1";}i:1;O:8:"stdClass":3:{s:20:"comment_author_email";s:21:"m_savitskaya_@mail.ru";s:14:"comment_author";s:12:"Марина";s:7:"user_id";s:1:"0";}i:2;O:8:"stdClass":3:{s:20:"comment_author_email";s:19:"M-m-miracle@mail.ru";s:14:"comment_author";s:14:"Надежда";s:7:"user_id";s:1:"0";}i:3;O:8:"stdClass":3:{s:20:"comment_author_email";s:11:"clm@net.com";s:14:"comment_author";s:12:"аноним";s:7:"user_id";s:1:"0";}}}
-  _yoast_wpseo_primary_category: '2'
-  _yoast_wpseo_focuskw: Флорида
-  _yoast_wpseo_metadesc: Пора, пора заканчивать писать о Флориде. Сколько можно уже?
-    Хотя место хорошее, слов нет. Еще немножко, чуть-чуть про Disney World, Микки
-    Мауса и толстых крокодилов.
-  _yoast_wpseo_linkdex: '51'
-  _yoast_wpseo_content_score: '30'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618307811'
 permalink: "/ru/travel/road-trip-in-florida-part-two.html"
 ---
 Пора, пора заканчивать писать о Флориде. Сколько можно уже? Хотя место хорошее, слов нет. Еще немножко, чуть-чуть про&nbsp;Disney World, Микки Мауса и толстых крокодилов.

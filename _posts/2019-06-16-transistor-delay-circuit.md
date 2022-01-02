@@ -12,24 +12,6 @@ categories:
 tags:
 - DIY
 - Electronics
-meta:
-  _edit_last: '1'
-  _yoast_wpseo_primary_category: '155'
-  _yoast_wpseo_content_score: '60'
-  _yoast_wpseo_focuskw: transistor delay circuit
-  _yoast_wpseo_metadesc: The transistor delay circuit may be helpful to learn some
-    electronics basics. Let’s see how we can choose elements for the circuit, and
-    how the delay depends on parameters of the elements.
-  _yoast_wpseo_linkdex: '78'
-  rp4wp_auto_linked: '1'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:0;s:7:"replies";i:0;s:7:"authors";i:0;s:14:"recent_authors";a:0:{}}
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617982480'
-  _yoast_wpseo_estimated-reading-time-minutes: '4'
-
 permalink: "/en/diy-electronics/transistor-delay-circuit.html"
 ---
 

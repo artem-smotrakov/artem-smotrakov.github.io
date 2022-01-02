@@ -12,31 +12,6 @@ categories:
 tags:
 - Берлин
 - Германия
-meta:
-  _edit_last: '1'
-  _aioseop_opengraph_settings: a:15:{s:32:"aioseop_opengraph_settings_title";s:57:"Новогодний
-    фейерверк в Берлине";s:31:"aioseop_opengraph_settings_desc";s:244:"Перед Новым
-    годом в Берлине можно заметить, что население любит взрывы и фейерверки. Чем ближе
-    полночь, тем это становится очевидней. ";s:32:"aioseop_opengraph_settings_image";s:81:"/wp-content/uploads/2018/01/IMG_20171231_151029.jpg";s:36:"aioseop_opengraph_settings_customimg";s:0:"";s:37:"aioseop_opengraph_settings_imagewidth";s:0:"";s:38:"aioseop_opengraph_settings_imageheight";s:0:"";s:32:"aioseop_opengraph_settings_video";s:0:"";s:37:"aioseop_opengraph_settings_videowidth";s:0:"";s:38:"aioseop_opengraph_settings_videoheight";s:0:"";s:35:"aioseop_opengraph_settings_category";s:7:"article";s:34:"aioseop_opengraph_settings_section";s:0:"";s:30:"aioseop_opengraph_settings_tag";s:66:"Германия,Берлин,фейерверк,новый
-    год";s:34:"aioseop_opengraph_settings_setcard";s:7:"summary";s:44:"aioseop_opengraph_settings_customimg_twitter";s:0:"";s:44:"aioseop_opengraph_settings_customimg_checker";s:1:"0";}
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_keywords: Берлин,Германия,фейерверк,взрыв,петарды
-  _aioseop_description: 'Перед Новым годом в Берлине можно заметить, что население
-    любит взрывы и фейерверки. Чем ближе полночь, тем это становится очевидней. '
-  _aioseop_title: Новогодний фейерверк в Берлине
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '228'
-  _yoast_wpseo_focuskw: Новогодний фейерверк
-  _yoast_wpseo_metadesc: Немного о новогодних фейервеках в Берлине и о том, как ответсвенно
-    берлинцы относятся к этому важному делу.
-  _yoast_wpseo_linkdex: '55'
-  _yoast_wpseo_content_score: '60'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618045833'
 permalink: "/ru/german-life/new-year-fireworks-in-berlin.html"
 ---
 (Кто-то справедливо может заметить, что совсем сдурел, новый год уж давно наступил, а он все пишет. Просто давно написал, но все забывал разместить)

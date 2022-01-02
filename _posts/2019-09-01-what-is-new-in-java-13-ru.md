@@ -17,22 +17,6 @@ tags:
 - JVM
 - Open Source
 - OpenJDK
-meta:
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '261'
-  _edit_last: '1'
-  _yoast_wpseo_content_score: '30'
-  _yoast_wpseo_focuskw: Java 13
-  _yoast_wpseo_linkdex: '71'
-  _yoast_wpseo_metadesc: 'Java 13 выйдет в свет 17го сентября 2019 года. Посмотрим,
-    что есть внутри: text blocks, switch expressions, новая начинка для старых Socket
-    API, изменения в сборщике мусора ZGC и динамические CDS архивы.'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618052934'
-
 permalink: "/ru/tech-ru/what-is-new-in-java-13-ru.html"
 ---
 

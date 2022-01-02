@@ -17,22 +17,6 @@ tags:
 - OAuth2
 - Интернет вещей
 - Электроника
-meta:
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '153'
-  _edit_last: '1'
-  _yoast_wpseo_content_score: '30'
-  _yoast_wpseo_focuskw: ESP32
-  _yoast_wpseo_metadesc: 'Отправка данных в Google Sheets c ESP32: MicroPython, сложности
-    с ESP8266, процесс OAuth2 аутентификации с Google, JWT, NTP и подпись RSA.'
-  _yoast_wpseo_linkdex: '66'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618223800'
-  _yoast_wpseo_estimated-reading-time-minutes: '4'
-
 permalink: "/ru/diy-electronics-ru/micropython-on-esp32-sending-data-to-google-sheets-ru.html"
 ---
 

@@ -15,22 +15,6 @@ tags:
 - Security
 - w3af
 - Web security
-meta:
-  _edit_last: '1'
-  _yoast_wpseo_content_score: '30'
-  _yoast_wpseo_primary_category: '157'
-  _yoast_wpseo_focuskw: w3af
-  _yoast_wpseo_linkdex: '70'
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_metadesc: 'Looking for vulnerabilities in REST API with s3af: OpenAPI
-    specifications, authenticatin, configs and further possible improvements.'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617977827'
-  _stcr@_harish@levo.ai: 2021-05-24 20:51:06|Y
-
 permalink: "/en/security/security-testing-for-rest-api-with-w3af.html"
 ---
 Nowadays more and more companies provide web APIs to access their services. They usually follow [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) style. Such a RESTful web service looks like a regular web application. It accepts an HTTP request, does some magic, and then replies with an HTTP response. One of the main differences is that the reply doesn't normally contain HTML to be rendered in a web browser. Instead, the reply usually contains data in a format (for example, JSON or XML) which is easier to process by another application.

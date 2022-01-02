@@ -16,25 +16,6 @@ tags:
 - picotls
 - TLS
 - TLS 1.3
-meta:
-  _edit_last: '1'
-  _yoast_wpseo_content_score: '30'
-  _yoast_wpseo_primary_category: '243'
-  _yoast_wpseo_focuskw_text_input: picotls
-  _yoast_wpseo_focuskw: picotls
-  _yoast_wpseo_metadesc: I have been experimenting with TLS 1.3 in tlsbunny project.
-    This is a framework for building negative tests and fuzzers for TLS 1.3 implementations.
-    For example, tlsbunny has several simple fuzzers for TLS structures like TLSPlaintext,
-    Handshake, etc. It would not be worse to run those fuzzers against picotls server.
-  _yoast_wpseo_linkdex: '52'
-  rp4wp_auto_linked: '1'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:1;s:7:"replies";i:0;s:7:"authors";i:1;s:14:"recent_authors";a:1:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:27:"preetiagarwal1634@gmail.com";s:14:"comment_author";s:6:"preeti";s:7:"user_id";s:1:"0";}}}
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618017078'
-
 permalink: "/en/tips-and-tricks-en/running-picotls-server-with-tls13.html"
 ---
 [Picotls](https://github.com/h2o/picotls) is a TLS 1.3 implementation written in C. At the moment of writing this post, picotls implements [TLS 1.3 draft 26](https://tools.ietf.org/html/draft-ietf-tls-tls13-26).

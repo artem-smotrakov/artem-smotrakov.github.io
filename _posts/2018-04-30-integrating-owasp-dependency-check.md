@@ -13,25 +13,6 @@ tags:
 - Java
 - Security
 - Web security
-meta:
-  _edit_last: '1'
-  _yoast_wpseo_content_score: '30'
-  _yoast_wpseo_primary_category: '157'
-  _oembed_9f6939d7aaa29f726c29df89306c50bd: "{{unknown}}"
-  _yoast_wpseo_focuskw_text_input: Dependency Check
-  _yoast_wpseo_focuskw: Dependency Check
-  _yoast_wpseo_linkdex: '79'
-  _yoast_wpseo_metadesc: OWASP Dependency Check is a well known open-source tool which
-    can track dependencies in your project and identify components with known published
-    vulnerabilities. Here is an idea how the check can be integrated to your development
-    process in a painless way.
-  rp4wp_auto_linked: '1'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617981193'
-
 permalink: "/en/security/integrating-owasp-dependency-check.html"
 ---
 OWASP Dependency Check is a well known open-source tool which can track dependencies in your project and identify components with known published vulnerabilities. The tool supports multiple languages and platforms such as Java, .NET, Ruby and Python. One of the simplest ways how you can use Dependency Check in your project is just to run it manually. This way has at least one disadvantage: you have to make sure that you run the tool regularly. Fortunately there is a couple of ways how you can automate this process.

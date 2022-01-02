@@ -13,28 +13,6 @@ tags:
 - Калифорния
 - Силиконовая Долина
 - США
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_description: 'Вечер предпринимателей в Силиконовой Деревне: деловые люди,
-    умные книги, синие костюмы, бутерброды и идеи для открытия своего дела.'
-  _aioseop_title: Вечер предпринимателей
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '38'
-  _yoast_wpseo_focuskw: startup
-  _yoast_wpseo_metadesc: Наверное все знают про startup'ы. Тут startup открылся, там
-    закрылся, здесь купился, там продался. В околопрограммистской среде, где я по
-    долгу службы провожу много времени, разговоры о startup'ах случаются часто. Особенно
-    в Силиконовой Деревне, где я по долгу службы тоже оказался.
-  _yoast_wpseo_linkdex: '58'
-  _yoast_wpseo_content_score: '30'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618168609'
 permalink: "/ru/american-life/startup-event.html"
 ---
 Наверное все знают про startup'ы. Тут startup открылся, там закрылся, здесь купился, там продался. В околопрограммистской среде, где я по долгу службы провожу много времени, разговоры о startup'ах случаются часто. Особенно в Силиконовой Деревне, где я по долгу службы тоже оказался. Еще я оказался в коммунальной квартире, где моим соседом является человек, который занимается чем-то вроде развития этих самых пресловутых startup'ов на начальной стадии. У него есть свои "Рога и копыта", и он периодически устраивает вечера для всяких предпринимателей и просто сочувствующих startup'ам людей. На один из таких вечеров мой сосед любезно пригласил лысого человека в шортах и мятой футболке. То есть меня.

@@ -13,26 +13,6 @@ tags:
 - Fuzzing
 - Open Source
 - Security
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_description: 'HackerOne offers a bug bounty program for a couple of popular
-    opensource libs: libcap, ImageMagick, libpng, GraphicsMagick, curl, tcpdump. Ready
-    for a challenge?'
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '157'
-  _yoast_wpseo_focuskw: bug bounty
-  _yoast_wpseo_metadesc: New bug bounty programs on HackeOne for popular open source
-    libraries:libcap, ImageMagick, libpng, GraphicsMagick, curl, tcpdump.
-  _yoast_wpseo_linkdex: '51'
-  _yoast_wpseo_content_score: '90'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618017009'
 permalink: "/en/security/new-bug-bounty-programs-on-hackerone.html"
 ---
 There are a couple of new bug bounty programs on HackeOne for popular open source libraries:

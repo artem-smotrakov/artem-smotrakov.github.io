@@ -12,26 +12,6 @@ categories:
 tags:
 - Nonsense
 - Russia
-meta:
-  mask_links: default
-  _edit_last: '1'
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_description: It's 3pm, we came into the room at 8am, so we've been taking
-    our mathematical analysis exam for 7 hours.
-  _aioseop_title: Math, beer, freeze, police
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '188'
-  _yoast_wpseo_focuskw: Math
-  _yoast_wpseo_metadesc: It's 3pm, we came into the room at 8am, so we've been taking
-    our mathematical analysis exam for 7 hours.
-  _yoast_wpseo_linkdex: '55'
-  _yoast_wpseo_content_score: '60'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618016957'
 permalink: "/en/nonsense-en/math-beer-freeze-police.html"
 ---
 It's 3pm, we came into the room at 8am, so&nbsp;we've been taking our mathematical analysis exam for 7 hours.

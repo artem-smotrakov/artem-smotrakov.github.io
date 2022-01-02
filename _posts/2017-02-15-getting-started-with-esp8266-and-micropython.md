@@ -17,28 +17,6 @@ tags:
 - IoT
 - MicroPython
 - Python
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _oembed_bba39909c7898ca523f358aeb0ddec71: "{{unknown}}"
-  _syntaxhighlighter_encoded: '1'
-  _aioseop_description: 'IoT for everybody. Here is a tutorial how to run MicroPython
-    on ESP8266: flashing ESP-07 Wi-Fi module with MicroPython, and driving an LED.'
-  _aioseop_title: Getting started with ESP8266 and MicroPython
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '155'
-  _yoast_wpseo_content_score: '30'
-  _yoast_wpseo_focuskw: MicroPython
-  _yoast_wpseo_metadesc: Here is a tutorial how to get started with ESP8266 and MicroPython.
-  _yoast_wpseo_linkdex: '65'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:0;s:7:"replies";i:0;s:7:"authors";i:0;s:14:"recent_authors";a:0:{}}
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618017101'
 permalink: "/en/diy-electronics/getting-started-with-esp8266-and-micropython.html"
 ---
 I like the idea of Internet of Things (IoT) which is becoming so popular. We have everything connected to the Internet: TVs, printers, fridges, cars, even teeth brushes, etc. We already have botnets which consist of IoT devices, and are used for massive DDoS attacks. I personally prefer calling it "Internet of Shit" because sometimes it's not clear why some devices connect to the Internet. By the way, there is a twitter called "Internet of Shit". I highly recommend to follow.

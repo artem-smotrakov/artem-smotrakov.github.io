@@ -13,26 +13,6 @@ tags:
 - Калифорния
 - Природа
 - США
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_description: 'Сегодня в рубрике "Дурная голова ногам покоя не дает" рассказ
-    о Долине Смерти: холмы, горы, дюны, Рандсбург и салуны.'
-  _aioseop_title: Долина Смерти в два дня
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '2'
-  _yoast_wpseo_focuskw: Долина Смерти
-  _yoast_wpseo_metadesc: Есть в Калифорнии место с очень страшным названием - Долина
-    Смерти. Это пустыня. Известна она тем, что там очень жарко. Особенно летом.
-  _yoast_wpseo_linkdex: '63'
-  _yoast_wpseo_content_score: '30'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618064476'
 permalink: "/ru/travel/death-valley.html"
 ---
 Есть в Калифорнии место с очень страшным названием - Долина Смерти. Это пустыня. Известна она тем, что там очень жарко. Особенно летом. А еще это американский национальный парк, который, как и многие другие американские национальные парки, прекрасно оборудован для посещения всеми желающими повидать виды. В результате туристов там много даже несмотря на такое страшное название.

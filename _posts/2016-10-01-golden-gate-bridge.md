@@ -13,25 +13,6 @@ tags:
 - Калифорния
 - Сан-Франциско
 - США
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_description: 'Серые будни моста Золотые Ворота: разметка для незадачливых
-    пешеходов, колючая проволока, заборы, велосипедисты, телефоны психологов и загадочная
-    будка.'
-  _aioseop_title: Незаметные детали Золотых Ворот
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '2'
-  _yoast_wpseo_focuskw: Golden Gate
-  _yoast_wpseo_linkdex: '47'
-  _yoast_wpseo_content_score: '60'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618362509'
 permalink: "/ru/travel/golden-gate-bridge.html"
 ---
 Иногда я бываю экскурсоводом. Где бы я ни жил, мне частенько выпадает случай показать кому-то местные достопримечательности, красоты и колориты. Иногда я даже что-то знаю о том, что я показываю, и охотно делюсь, если вдруг кому-то интересно. Вообще иногда подумываю, может наконец перестать нажимать кнопки и заняться чем-то полезным? Вот, например, водить экскурсии. Несидячая работа с людьми на свежем воздухе - просто прекрасно. Но потом я опять погружаюсь в какую-нибудь джаву, питон, фаззиг и прочие странные слова.

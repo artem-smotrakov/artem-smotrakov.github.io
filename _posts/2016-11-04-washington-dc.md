@@ -12,25 +12,6 @@ categories:
 tags:
 - Вашингтон (столица)
 - США
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_description: 'Washington DC - он же столица США: Белый дом с пикетами,
-    Капитолий с колоннами, National Mall с президентами США, и где продать iPad.'
-  _aioseop_title: Вокруг Белого дома
-  rp4wp_auto_linked: '1'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:1;s:7:"replies";i:1;s:7:"authors";i:2;s:14:"recent_authors";a:2:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:25:"artem.smotrakov@gmail.com";s:14:"comment_author";s:5:"artem";s:7:"user_id";s:1:"1";}i:1;O:8:"stdClass":3:{s:20:"comment_author_email";s:25:"irina.vl.bykova@gmail.com";s:14:"comment_author";s:10:"Ирина";s:7:"user_id";s:1:"0";}}}
-  _yoast_wpseo_primary_category: '2'
-  _yoast_wpseo_focuskw: Белый дом
-  _yoast_wpseo_linkdex: '48'
-  _yoast_wpseo_content_score: '60'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618069465'
 permalink: "/ru/travel/washington-dc.html"
 ---
 Washington DC это столица США, которая, как известно, находится на восточном побережье страны. Важно упоминать именно "DC", потому что без этого столица сразу превращается в штат Washington, который находится совершенно в другой части США на самом-самом северо-западе. Волею судеб мне там довелось побывать этой осенью.

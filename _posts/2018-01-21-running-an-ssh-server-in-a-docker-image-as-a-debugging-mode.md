@@ -13,29 +13,6 @@ tags:
 - Docker
 - Python
 - SSH
-meta:
-  _edit_last: '1'
-  _aioseop_opengraph_settings: a:14:{s:32:"aioseop_opengraph_settings_title";s:0:"";s:31:"aioseop_opengraph_settings_desc";s:0:"";s:36:"aioseop_opengraph_settings_customimg";s:0:"";s:37:"aioseop_opengraph_settings_imagewidth";s:0:"";s:38:"aioseop_opengraph_settings_imageheight";s:0:"";s:32:"aioseop_opengraph_settings_video";s:0:"";s:37:"aioseop_opengraph_settings_videowidth";s:0:"";s:38:"aioseop_opengraph_settings_videoheight";s:0:"";s:35:"aioseop_opengraph_settings_category";s:7:"article";s:34:"aioseop_opengraph_settings_section";s:0:"";s:30:"aioseop_opengraph_settings_tag";s:0:"";s:34:"aioseop_opengraph_settings_setcard";s:7:"summary";s:44:"aioseop_opengraph_settings_customimg_twitter";s:0:"";s:44:"aioseop_opengraph_settings_customimg_checker";s:1:"0";}
-  _aioseop_keywords: docker,python,ssh,remote,debugging,debug,PyCharm
-  _aioseop_description: How to implement a switch between your application and SSH
-    server in a Docker container for debugging purposes.
-  _aioseop_title: Running an SSH server in a Docker image as a debugging mode
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: ''
-  _yoast_wpseo_focuskw_text_input: SSH
-  _yoast_wpseo_focuskw: SSH
-  _yoast_wpseo_metadesc: Here is a couple of notes about running an SSH server in
-    a Docker container for application debugging purposes.
-  _yoast_wpseo_linkdex: '74'
-  _yoast_wpseo_content_score: '30'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:1;s:7:"replies";i:0;s:7:"authors";i:1;s:14:"recent_authors";a:1:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:21:"devangnaraj@gmail.com";s:14:"comment_author";s:12:"Devangna
-    Raj";s:7:"user_id";s:1:"0";}}}
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617984294'
-
 permalink: "/en/tips-and-tricks-en/running-an-ssh-server-in-a-docker-image-as-a-debugging-mode.html"
 ---
 I was recently debugging one Python application which ran in a Docker container. At some point, I'd like to debug the app in the container. At first, I was wondering if there is a way to run a Python application with a debug agent like you can do with Java, so that the agent listened in a port for incoming connections from a remote debugger. Unfortunately I didn't find a convenient way how I could remotely debug my Python app. I found an [article](https://medium.com/@furkanpur/remote-python-debug-to-docker-container-over-ssh-by-using-pycharm-44a9b6e82206) which describes how you can debug a Python application remotely with PyCharm IDE and SSH. If I understood correctly, PyCharm can deploy your application to a Docker container via SSH, then do some magic which is called "remote interpreter", so as a result, you can debug the application from your local PyCharm installation. Looks like this feature is available only in a commercial PyCharm version, but I had only a community edition.

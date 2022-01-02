@@ -12,26 +12,6 @@ categories:
 tags:
 - Амстердам
 - Нидерланды
-meta:
-  _edit_last: '1'
-  _yoast_wpseo_content_score: '30'
-  _yoast_wpseo_primary_category: '2'
-  _yoast_wpseo_focuskw_text_input: Амстердам
-  _yoast_wpseo_focuskw: Амстердам
-  _yoast_wpseo_metadesc: "- Наш автобус проследует ... в Амстердам, - неторопливо
-    обнадежил нас водитель, как только мы отъехали от берлинского автовокзала. - Путешествие
-    займет около восьми часов ... хотя, конечно, зависит от дорожной обстановки ...
-    В пути мы сделаем одну остановку ... Да, у нас есть туалет ... В автобусе потряхивает,
-    поэтому прошу мужчин не делать это стоя ... Ну и женщин, конечно, тоже прошу ..."
-  _yoast_wpseo_linkdex: '82'
-  _thumbnail_id: '2392'
-  rp4wp_auto_linked: '1'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618012847'
-
 permalink: "/ru/travel/amsterdam.html"
 ---
 - Наш автобус проследует ... в Амстердам, - неторопливо обнадежил нас водитель, как только мы отъехали от берлинского автовокзала. - Путешествие займет около восьми часов ... хотя, конечно, зависит от дорожной обстановки ... В пути мы сделаем одну остановку ... Да, у нас есть туалет ... В автобусе потряхивает, поэтому прошу мужчин не делать это стоя ... Ну и женщин, конечно, тоже прошу ...

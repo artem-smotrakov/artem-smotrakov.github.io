@@ -14,23 +14,6 @@ tags:
 - Java
 - JEP
 - OpenJDK
-meta:
-  _edit_last: '1'
-  _yoast_wpseo_primary_category: '258'
-  _yoast_wpseo_content_score: '60'
-  _yoast_wpseo_focuskw: Java 14
-  _yoast_wpseo_metadesc: 'Let’s take a closer look at the major updates in Java 14:
-    new switch expressions, better NullPointerExceptions, improvements in garbage
-    collection, JFR event streaming and more.'
-  _yoast_wpseo_linkdex: '73'
-  rp4wp_auto_linked: '1'
-  _stcr@_tech.meshter@gmail.com: 2020-03-24 21:42:48|Y
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617976825'
-
 permalink: "/en/tech/what-is-new-in-java-14.html"
 ---
 

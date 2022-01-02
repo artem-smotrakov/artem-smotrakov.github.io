@@ -11,35 +11,6 @@ categories:
 - Security
 tags:
 - Security
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _syntaxhighlighter_encoded: '1'
-  _aioseop_opengraph_settings: a:14:{s:32:"aioseop_opengraph_settings_title";s:0:"";s:31:"aioseop_opengraph_settings_desc";s:0:"";s:36:"aioseop_opengraph_settings_customimg";s:0:"";s:37:"aioseop_opengraph_settings_imagewidth";s:0:"";s:38:"aioseop_opengraph_settings_imageheight";s:0:"";s:32:"aioseop_opengraph_settings_video";s:0:"";s:37:"aioseop_opengraph_settings_videowidth";s:0:"";s:38:"aioseop_opengraph_settings_videoheight";s:0:"";s:35:"aioseop_opengraph_settings_category";s:7:"article";s:34:"aioseop_opengraph_settings_section";s:0:"";s:30:"aioseop_opengraph_settings_tag";s:0:"";s:34:"aioseop_opengraph_settings_setcard";s:7:"summary";s:44:"aioseop_opengraph_settings_customimg_twitter";s:0:"";s:44:"aioseop_opengraph_settings_customimg_checker";s:1:"0";}
-  _aioseop_keywords: security,global,buffer,overflow,stack,heap,example,mitigation,exploit
-  _aioseop_description: 'There are a lot of articles about buffer overflows on stack
-    and heap, but not that many about global buffer overflows: examples, exploitation,
-    and mitigation.'
-  _aioseop_title: Global buffer overflows
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: ''
-  _yoast_wpseo_content_score: '60'
-  _yoast_wpseo_focuskw_text_input: buffer overflow
-  _yoast_wpseo_focuskw: buffer overflow
-  _yoast_wpseo_linkdex: '86'
-  _yoast_wpseo_metadesc: There are a lot of articles, posts, and even books which
-    describe a stack buffer overflow. There are a little less stuff about heap buffer
-    overflows. But there is one more thing which you can overflow - buffers in global
-    memory. Although all of those types of issues are very similar, let me try to
-    fill this little gap with global buffer overflows.
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:0;s:7:"replies";i:0;s:7:"authors";i:0;s:14:"recent_authors";a:0:{}}
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617984221'
 permalink: "/en/security/global-buffer-overflows.html"
 ---
 <p style="text-align: justify;">There are a lot of articles, posts, and even books which describe a stack buffer overflow. There are a little less stuff about heap buffer overflows. But there is one more thing which you can overflow - buffers in global memory. Although all of those types of issues are very similar, let me try to fill this little gap with global buffer overflows.</p>

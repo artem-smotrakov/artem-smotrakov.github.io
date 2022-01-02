@@ -11,26 +11,6 @@ categories:
 - Where I've been to
 tags:
 - Russia
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_description: If you're in Moscow, and already got bored with Red Square,
-    you may want to explore Russia a little deeper. Just a little bit, don't worry.
-    For example, you can go to Nizhny Novgorod.
-  _aioseop_title: Gorky city (if we're back to USSR)
-  rp4wp_auto_linked: '1'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:1;s:7:"replies";i:1;s:7:"authors";i:2;s:14:"recent_authors";a:2:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:25:"artem.smotrakov@gmail.com";s:14:"comment_author";s:5:"artem";s:7:"user_id";s:1:"1";}i:1;O:8:"stdClass":3:{s:20:"comment_author_email";s:23:"mila.golubeva@gmail.com";s:14:"comment_author";s:4:"Mila";s:7:"user_id";s:1:"0";}}}
-  _yoast_wpseo_primary_category: '102'
-  _yoast_wpseo_focuskw: Gorky city
-  _yoast_wpseo_linkdex: '56'
-  _yoast_wpseo_content_score: '60'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618017083'
 permalink: "/en/traveling/visiting-nizhny-novgorod-russia.html"
 ---
 If you are visiting Russia, than you are probably in Moscow. Or, you may be in Saint Petersburg (by the way, there is [another one in Florida](https://en.wikipedia.org/wiki/St._Petersburg,_Florida)). Just because those two cities are the most famous and popular places in Russia.

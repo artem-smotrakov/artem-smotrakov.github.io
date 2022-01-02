@@ -14,25 +14,6 @@ tags:
 - Лас-Вегас
 - Невада
 - США
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_description: 'Хакерская конференция BlackHat 2017 без технических подробностей:
-    цветовая дифференциация шляп, зачем нужны хакерские конференции, шампанское и
-    будки с деньгами.'
-  _aioseop_title: Хакеры в Лас Вегасе (BlackHat 2017)
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '2'
-  _yoast_wpseo_focuskw: BlackHat
-  _yoast_wpseo_linkdex: '59'
-  _yoast_wpseo_content_score: '30'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617991966'
 permalink: "/ru/travel/blackhat-2017-hackers-in-las-vegas.html"
 ---
 Все сейчас знают про хакеров. И месяца не пройдет, как в новостях напишут, что там что-нибудь взломали, тут заразили кого-нибудь. Но хакеры тоже люди, и не чужды им простые обывательские утехи. Любят они собраться, потрепаться, напиться, людей посмотреть и себя показать. Поэтому ежегодно устраиваются великое множество всяческих конференций, симпозиумов и прочих сборищ для хакеров. Одна из самых крупных и известных это конференция BlackHat, которая ежегодно проходит в июле-августе в Лас-Вегасе. В этом году мой работодатель от щедрот взял да и отправил меня на эту конференцию, где я имел счастье наблюдать за хакерами в их естественной среде обитания.

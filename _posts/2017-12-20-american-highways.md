@@ -12,29 +12,6 @@ categories:
 tags:
 - Полиция
 - США
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_opengraph_settings: a:14:{s:32:"aioseop_opengraph_settings_title";s:0:"";s:31:"aioseop_opengraph_settings_desc";s:0:"";s:36:"aioseop_opengraph_settings_customimg";s:0:"";s:37:"aioseop_opengraph_settings_imagewidth";s:0:"";s:38:"aioseop_opengraph_settings_imageheight";s:0:"";s:32:"aioseop_opengraph_settings_video";s:0:"";s:37:"aioseop_opengraph_settings_videowidth";s:0:"";s:38:"aioseop_opengraph_settings_videoheight";s:0:"";s:35:"aioseop_opengraph_settings_category";s:7:"article";s:34:"aioseop_opengraph_settings_section";s:0:"";s:30:"aioseop_opengraph_settings_tag";s:0:"";s:34:"aioseop_opengraph_settings_setcard";s:7:"summary";s:44:"aioseop_opengraph_settings_customimg_twitter";s:0:"";s:44:"aioseop_opengraph_settings_customimg_checker";s:1:"0";}
-  _aioseop_keywords: дороги, США, шоссе, interstate, полиция, highway patrol, ограничение
-    скорости, организация, нумерация
-  _aioseop_description: 'Автомобильные магистрали США (Interstates): скучная организация
-    и нумерация шоссе между штатами, ограничения скорости, полиция и фотографии.'
-  _aioseop_title: Большие дороги Америки
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '38'
-  _yoast_wpseo_content_score: '30'
-  _yoast_wpseo_focuskw: Большие дороги Америки
-  _yoast_wpseo_metadesc: 'Американские шоссе: кто и когда строил, нумерация, организация,
-    скоростной режим и милые американские полицейские.'
-  _yoast_wpseo_linkdex: '53'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618161201'
 permalink: "/ru/american-life/american-highways.html"
 ---
 Поздним вечером я лежал на койке в излюбленном Motel 6 и занимался самообразованием, а именно, читал про организацию дорог в США. Оказывается, что есть целая система шоссе между штатами, которая названа в честь президента Эйзенхауэра. Слышали о таком? А он был. И-таки начал строить эту самую систему шоссе, которая была призвана связать все необъятные просторы Соединенных Штатов благословенной Америки. Затея эта была отчасти оборонительная: надо было проложить хорошие дороги, которые пересекают США с юга на север, и с запада на восток, прямо всю страну насквозь, чтоб в случае войны и оккупации коммунистами можно было патроны возить туда-сюда. Ну а в мирное время население могло бы по этим дорогам возить помидоры, картошку и всякие другие важные предметы.

@@ -16,29 +16,6 @@ tags:
 - Python
 - Интернет вещей
 - Электроника
-meta:
-  mask_links: default
-  _edit_last: '1'
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _syntaxhighlighter_encoded: '1'
-  _aioseop_opengraph_settings: a:14:{s:32:"aioseop_opengraph_settings_title";s:0:"";s:31:"aioseop_opengraph_settings_desc";s:0:"";s:36:"aioseop_opengraph_settings_customimg";s:0:"";s:37:"aioseop_opengraph_settings_imagewidth";s:0:"";s:38:"aioseop_opengraph_settings_imageheight";s:0:"";s:32:"aioseop_opengraph_settings_video";s:0:"";s:37:"aioseop_opengraph_settings_videowidth";s:0:"";s:38:"aioseop_opengraph_settings_videoheight";s:0:"";s:35:"aioseop_opengraph_settings_category";s:7:"article";s:34:"aioseop_opengraph_settings_section";s:0:"";s:30:"aioseop_opengraph_settings_tag";s:0:"";s:34:"aioseop_opengraph_settings_setcard";s:7:"summary";s:44:"aioseop_opengraph_settings_customimg_twitter";s:0:"";s:44:"aioseop_opengraph_settings_customimg_checker";s:1:"0";}
-  _aioseop_description: 'Интернет вещей для всех. Инструкция по запуску MicroPython
-    на ESP8266: прошивка ESP-07, MicroPython и мигание светодиодом.'
-  _aioseop_title: Как запустить MicroPython на ESP8266
-  rp4wp_auto_linked: '1'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:3;s:7:"replies";i:4;s:7:"authors";i:4;s:14:"recent_authors";a:4:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:18:"vitazp77@gmail.com";s:14:"comment_author";s:4:"vita";s:7:"user_id";s:1:"0";}i:1;O:8:"stdClass":3:{s:20:"comment_author_email";s:25:"artem.smotrakov@gmail.com";s:14:"comment_author";s:5:"artem";s:7:"user_id";s:1:"1";}i:2;O:8:"stdClass":3:{s:20:"comment_author_email";s:16:"bruevs@gmail.com";s:14:"comment_author";s:8:"Стас";s:7:"user_id";s:1:"0";}i:3;O:8:"stdClass":3:{s:20:"comment_author_email";s:22:"ss.resurs.ru@gmail.com";s:14:"comment_author";s:12:"Сергей";s:7:"user_id";s:1:"0";}}}
-  _yoast_wpseo_content_score: '60'
-  _yoast_wpseo_primary_category: '153'
-  _yoast_wpseo_focuskw: MicroPython
-  _yoast_wpseo_metadesc: Рассказ о том, как же запустить этот MicroPython на ESP8266
-    и помигать светодиодиком.
-  _yoast_wpseo_linkdex: '67'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617984598'
 permalink: "/ru/diy-electronics-ru/how-to-run-micropython-on-esp8266.html"
 ---
 Мне нравится идея Интернета вещей, и последнее время идея эта становится довольно популярной. У нас уже есть куча вещей, которые подключаются к интернету: телевизоры, принтеры, холодильники, автомобили и даже зубные щетки. Более того, у нас еже есть целые ботнеты, которые укомплектованы IoT устройствами, и которые успешно используются для массивных DDoS атак. Иногда&nbsp;я предпочитаю называть все&nbsp;это "Internet of Shit", потому что порой непонятно, зачем некоторые устройства пытаются выйти в интернеты. Кстати, есть интересный twitter, который так и называется "Internet of Shit". Очень рекомендую.

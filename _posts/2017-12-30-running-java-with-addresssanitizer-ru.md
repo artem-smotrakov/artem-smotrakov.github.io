@@ -12,36 +12,6 @@ categories:
 tags:
 - Java
 - Security
-meta:
-  mask_links: default
-  _edit_last: '1'
-  _aioseop_opengraph_settings: a:14:{s:32:"aioseop_opengraph_settings_title";s:0:"";s:31:"aioseop_opengraph_settings_desc";s:0:"";s:36:"aioseop_opengraph_settings_customimg";s:0:"";s:37:"aioseop_opengraph_settings_imagewidth";s:0:"";s:38:"aioseop_opengraph_settings_imageheight";s:0:"";s:32:"aioseop_opengraph_settings_video";s:0:"";s:37:"aioseop_opengraph_settings_videowidth";s:0:"";s:38:"aioseop_opengraph_settings_videoheight";s:0:"";s:35:"aioseop_opengraph_settings_category";s:7:"article";s:34:"aioseop_opengraph_settings_section";s:0:"";s:30:"aioseop_opengraph_settings_tag";s:0:"";s:34:"aioseop_opengraph_settings_setcard";s:7:"summary";s:44:"aioseop_opengraph_settings_customimg_twitter";s:0:"";s:44:"aioseop_opengraph_settings_customimg_checker";s:1:"0";}
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _syntaxhighlighter_encoded: '1'
-  _aioseop_keywords: Java, AddressSanitizer, ASan, OpenJDK, JTREG, переполнения буфера,
-    ошибки при работе с памятью, обнаружение
-  _aioseop_description: 'Как использовать AddressSanitizer вместе с Java: строим OpenJDK
-    с включенным AddressSanitizer, запускаем jtreg тесты, какие проблемы могут возникнуть
-    и что делать дальше.'
-  _aioseop_title: Запуск Java с AddressSanitizer
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_content_score: '90'
-  _yoast_wpseo_primary_category: ''
-  _yoast_wpseo_focuskw_text_input: Java
-  _yoast_wpseo_focuskw: Java
-  _yoast_wpseo_metadesc: OpenJDK содержит код на C/C++, который в отличие от кода
-    на Java, может напрямую работать с памятью, что в свою очередь может привести
-    к известным проблемам связанными с доступом за пределы выделенной памяти. Подобные
-    проблемы могут быть обнаружены с помощью инструментов, которые называются runtime
-    memory checkers. Одним из таких инструментов является AddressSanitizer. И теперь
-    стало гораздо легче использовать AddressSanitizer вместе с OpenJDK.
-  _yoast_wpseo_linkdex: '88'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618116356'
 permalink: "/ru/security-ru/running-java-with-addresssanitizer-ru.html"
 ---
 OpenJDK и AddressSanitizer довольно известные open-source проекты. OpenJDK содержит код на C/C++, который в отличие от кода на Java, может напрямую работать с памятью, что в свою очередь может привести к известным проблемам связанными с доступом за пределы выделенной памяти. Это всем известные и всевозможные переполнения буферов, use-after-ftee и прочие проблемы. Подобные проблемы могут быть обнаружены с помощью инструментов, которые называются runtime memory checkers. Одним из таких инструментов является AddressSanitizer. И теперь стало гораздо легче использовать AddressSanitizer вместе с OpenJDK.

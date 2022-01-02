@@ -12,33 +12,6 @@ categories:
 tags:
 - Орегон
 - США
-meta:
-  _edit_last: '1'
-  _aioseop_opengraph_settings: 'a:15:{s:32:"aioseop_opengraph_settings_title";s:33:"Орегонский
-    Талант";s:31:"aioseop_opengraph_settings_desc";s:329:"Сегодня в рубрике &quot;Малые
-    города Америки&quot; поговорим про Talent, который находится в Орегоне: где находится
-    Talent, кто там живет, что там есть и много ли талантов в орегонском Таланте.";s:32:"aioseop_opengraph_settings_image";s:90:"/wp-content/uploads/2018/01/IMG_20170708_210117-1024x576.jpg";s:36:"aioseop_opengraph_settings_customimg";s:0:"";s:37:"aioseop_opengraph_settings_imagewidth";s:0:"";s:38:"aioseop_opengraph_settings_imageheight";s:0:"";s:32:"aioseop_opengraph_settings_video";s:0:"";s:37:"aioseop_opengraph_settings_videowidth";s:0:"";s:38:"aioseop_opengraph_settings_videoheight";s:0:"";s:35:"aioseop_opengraph_settings_category";s:7:"article";s:34:"aioseop_opengraph_settings_section";s:0:"";s:30:"aioseop_opengraph_settings_tag";s:0:"";s:34:"aioseop_opengraph_settings_setcard";s:7:"summary";s:44:"aioseop_opengraph_settings_customimg_twitter";s:0:"";s:44:"aioseop_opengraph_settings_customimg_checker";s:1:"0";}'
-  _aioseop_keywords: Орегон,Talent,Oregon,маленькие,города,США,Америка
-  _aioseop_description: Сегодня в рубрике "Малые города Америки" поговорим про Talent,
-    который находится в Орегоне. Расскажем, где находится Talent, кто там живет, что
-    там есть, и много ли талантов в орегонском Таланте.
-  _aioseop_title: Орегонский Талант
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_focuskw_text_input: Talent
-  _yoast_wpseo_focuskw: Talent
-  _yoast_wpseo_metadesc: Для большинства Америка может ассоциироваться с большими
-    городами, где высятся небоскребы, сигналят таксисты, бегают деловые люди с портфельчиками
-    и туристы с рюкзачками. Но мне нравятся простые тихие заурядные американские городки.
-    Вот, например, в Орегоне есть простой городок с простым названием Talent.
-  _yoast_wpseo_linkdex: '78'
-  _yoast_wpseo_content_score: '60'
-  _yoast_wpseo_primary_category: ''
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618142204'
-
 permalink: "/ru/travel/talent-in-oregon.html"
 ---
 Для большинства Америка может ассоциироваться с большими городами такими как, Нью-Йорк, Чикаго, Майами, Сан-Франциско, где в узких downtown'ах высятся небоскребы, сигналят таксисты, бегают деловые люди с портфельчиками и туристы с рюкзачками. Однако в Америке куда больше городков маленьких, уютненьких, население которых исчисляется тысячами, сотнями, а порой и десятками человек. Ильф и Петров в тридцатых годах двадцатого века писали, что все эти городки похожи друг на друга, как две капли воды. Чем-то они действительно похожи до сих пор, но иногда попадаются и довольно оригинальные. Например, Randsburg на самой окраине Калифорнии возле Долины Смерти, который весь является маленьким музеем Дикого Запада времен Золотой Лихорадки. Или Solvang, который уже ближе к Тихому океану, основанный датчанами и сохранивший датский колорит. Кстати, кто-нибудь когда нибудь слышал о датском колорите? Но мне нравятся простые тихие заурядные американские городки. Вот, например, в Орегоне есть простой городок с простым названием Talent.

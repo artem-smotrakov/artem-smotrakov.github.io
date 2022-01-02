@@ -15,21 +15,6 @@ tags:
 - Полиция
 - Россия
 - США
-meta:
-  _edit_last: '1'
-  _yoast_wpseo_content_score: '30'
-  _yoast_wpseo_primary_category: '2'
-  _yoast_wpseo_focuskw: полиция
-  _yoast_wpseo_linkdex: '70'
-  _thumbnail_id: '2790'
-  classic-editor-remember: classic-editor
-  rp4wp_auto_linked: '1'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618032092'
-
 permalink: "/ru/travel/police-in-russia-usa-germany.html"
 ---
 

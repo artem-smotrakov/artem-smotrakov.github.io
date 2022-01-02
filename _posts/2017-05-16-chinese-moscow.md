@@ -13,27 +13,6 @@ tags:
 - Москва
 - Питер
 - Россия
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_description: 'Как проводят время китайские туристы в Москве: китайцы, фотографии,
-    дети, поезда и тридцать восьмое веселое место.'
-  _aioseop_title: Москва китайская
-  rp4wp_auto_linked: '1'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:2;s:7:"replies";i:2;s:7:"authors";i:3;s:14:"recent_authors";a:3:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:25:"artem.smotrakov@gmail.com";s:14:"comment_author";s:5:"artem";s:7:"user_id";s:1:"1";}i:1;O:8:"stdClass":3:{s:20:"comment_author_email";s:21:"m_savitskaya_@mail.ru";s:14:"comment_author";s:12:"марина";s:7:"user_id";s:1:"0";}i:2;O:8:"stdClass":3:{s:20:"comment_author_email";s:23:"mila.golubeva@gmail.com";s:14:"comment_author";s:8:"Мила";s:7:"user_id";s:1:"0";}}}
-  _yoast_wpseo_primary_category: '2'
-  _yoast_wpseo_focuskw: Москва
-  _yoast_wpseo_metadesc: Вечером с Московского вокзала Санкт-Петербурга отправляются
-    скорые и не очень поезда в Москву.
-  _yoast_wpseo_linkdex: '53'
-  _yoast_wpseo_content_score: '60'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618070191'
 permalink: "/ru/travel/chinese-moscow.html"
 ---
 "Кто в Москве не бывал - красоты не видал."

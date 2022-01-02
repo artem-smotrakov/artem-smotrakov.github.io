@@ -10,24 +10,6 @@ status: publish
 categories:
 - Kleine Sünde
 tags: []
-meta:
-  _edit_last: '1'
-  _yoast_wpseo_content_score: '90'
-  _yoast_wpseo_primary_category: '648'
-  _yoast_wpseo_focuskw: Stadtführer
-  _yoast_wpseo_linkdex: '63'
-  _yoast_wpseo_metadesc: Seit einiger Zeit überlege ich mir, ob ich gerne Stadtführer
-    wäre. Ich glaube, dass dieser Beruf auch richtig für mich ist, obwohl ich arbeite
-    gerne zwölf Jahren als Softwareingenieur.
-  rp4wp_auto_linked: '1'
-  _wp_old_slug: konnte-ich-stadtfuhrer-sein
-  _wp_old_date: '2020-07-02'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618016931'
-
 permalink: "/de/kleine-suende/konnte-ich-stadtfuehrer-werden.html"
 ---
 

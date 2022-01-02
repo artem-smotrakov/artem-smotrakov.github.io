@@ -15,22 +15,6 @@ tags:
 - Java
 - JEP
 - JVM
-meta:
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '261'
-  _edit_last: '1'
-  _yoast_wpseo_content_score: '30'
-  _yoast_wpseo_focuskw: Java 12
-  _yoast_wpseo_metadesc: 'Что нового в Java 12: улучшения в сборке мусора, JVM Constants
-    API, Class Data Sharing для всех и новый синтаксис для switch.'
-  _yoast_wpseo_linkdex: '93'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:0;s:7:"replies";i:0;s:7:"authors";i:0;s:14:"recent_authors";a:0:{}}
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617985098'
-
 permalink: "/ru/tech-ru/what-is-new-in-java-12-ru.html"
 ---
 

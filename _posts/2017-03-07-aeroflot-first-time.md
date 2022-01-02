@@ -13,28 +13,6 @@ tags:
 - Бред
 - Россия
 - США
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_description: 'Как Аэрофлот доставлял меня в Белокаменную: кукурузник, тапочки,
-    бортпроводницы, индусы и английский от капитана.'
-  _aioseop_title: Аэрофлот в первый раз
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '186'
-  _yoast_wpseo_focuskw: Аэрофлот
-  _yoast_wpseo_metadesc: Последние несколько лет я много летаю. К сожалению, не во
-    сне, а наяву. В основном это из-за командировок, куда я обычно лечу на разных
-    немецких, французских, голландских и даже американских перевозчиках. А вот полетать
-    с Аэрофлотом мне довелось лишь недавно.
-  _yoast_wpseo_linkdex: '53'
-  _yoast_wpseo_content_score: '30'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618150214'
 permalink: "/ru/nonsense-ru/aeroflot-first-time.html"
 ---
 Последние несколько лет я много летаю. К сожалению, не во сне, а наяву. В основном это из-за командировок, куда я обычно лечу&nbsp;на разных немецких, французских, голландских и даже американских перевозчиках. А вот полетать с Аэрофлотом мне довелось лишь недавно.

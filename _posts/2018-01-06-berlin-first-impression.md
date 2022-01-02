@@ -12,34 +12,6 @@ categories:
 tags:
 - Берлин
 - Германия
-meta:
-  _edit_last: '1'
-  _aioseop_opengraph_settings: 'a:15:{s:32:"aioseop_opengraph_settings_title";s:35:"Берлин
-    в первый раз";s:31:"aioseop_opengraph_settings_desc";s:290:"Что можно увидеть
-    в Берлине: паспортный контроль, общественный транспорт, улицы и дома Берлина,
-    азиатская еда, велосипедисты, говорящая шуба, курево и шаверма.";s:32:"aioseop_opengraph_settings_image";s:90:"/wp-content/uploads/2018/01/IMG_20171231_132756-1024x576.jpg";s:36:"aioseop_opengraph_settings_customimg";s:0:"";s:37:"aioseop_opengraph_settings_imagewidth";s:0:"";s:38:"aioseop_opengraph_settings_imageheight";s:0:"";s:32:"aioseop_opengraph_settings_video";s:0:"";s:37:"aioseop_opengraph_settings_videowidth";s:0:"";s:38:"aioseop_opengraph_settings_videoheight";s:0:"";s:35:"aioseop_opengraph_settings_category";s:7:"article";s:34:"aioseop_opengraph_settings_section";s:0:"";s:30:"aioseop_opengraph_settings_tag";s:0:"";s:34:"aioseop_opengraph_settings_setcard";s:7:"summary";s:44:"aioseop_opengraph_settings_customimg_twitter";s:0:"";s:44:"aioseop_opengraph_settings_customimg_checker";s:1:"0";}'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_keywords: Берлин,Германия,аэропорт,Тегель,общественный,транспорт,метро,билет,U-Bahn,автобус,трамвай,шаверма,велосипед,мусор,улицы,брусчатка
-  _aioseop_description: 'Что можно увидеть в Берлине: паспортный контроль, общественный
-    транспорт, улицы и дома Берлина, азиатская еда, велосипедисты, говорящая шуба,
-    курево и шаверма.'
-  _aioseop_title: Берлин в первый раз
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '228'
-  _yoast_wpseo_focuskw: Берлин
-  _yoast_wpseo_metadesc: Уже летим над пригородами Берлина. Внизу городки с красными
-    крышами домов. Между ними бегут крошечные машинки. Вот уже видно панельные многоэтажки,
-    они похожи на те, что стоят в спальных районах российских городов, которые строились
-    в 70-80х годах. Наследие ГДР. Посадка в аэропорте Тегель.
-  _yoast_wpseo_linkdex: '56'
-  _yoast_wpseo_content_score: '60'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618045676'
 permalink: "/ru/german-life/berlin-first-impression.html"
 ---
 Уже летим над пригородами Берлина. Внизу городки с красными крышами домов. Между ними бегут крошечные машинки. Вот уже видно панельные многоэтажки, они похожи на те, что стоят в спальных районах российских городов, которые строились в 70-80х годах. Наследие ГДР. Посадка в аэропорте Тегель.

@@ -15,29 +15,6 @@ tags:
 - Java
 - JEP
 - JVM
-meta:
-  _edit_last: '1'
-  _aioseop_opengraph_settings: a:14:{s:32:"aioseop_opengraph_settings_title";s:0:"";s:31:"aioseop_opengraph_settings_desc";s:0:"";s:36:"aioseop_opengraph_settings_customimg";s:0:"";s:37:"aioseop_opengraph_settings_imagewidth";s:0:"";s:38:"aioseop_opengraph_settings_imageheight";s:0:"";s:32:"aioseop_opengraph_settings_video";s:0:"";s:37:"aioseop_opengraph_settings_videowidth";s:0:"";s:38:"aioseop_opengraph_settings_videoheight";s:0:"";s:35:"aioseop_opengraph_settings_category";s:7:"article";s:34:"aioseop_opengraph_settings_section";s:0:"";s:30:"aioseop_opengraph_settings_tag";s:0:"";s:34:"aioseop_opengraph_settings_setcard";s:7:"summary";s:44:"aioseop_opengraph_settings_customimg_twitter";s:0:"";s:44:"aioseop_opengraph_settings_customimg_checker";s:1:"0";}
-  _aioseop_keywords: java,jdk,10,new,features,jep,targeted,enhancement,proposal,garbage,collector,g1,jvm,cds,appcds,local,variable,сборка,мусора
-  _aioseop_description: Java 10 уже не за годами, поэтому самое время посмотреть,
-    что в ней будет. от краткий обзор больших изменений в Java 10. Наслаждайтесь!
-  _aioseop_title: 'Что нового в Java 10: часть первая'
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '261'
-  _yoast_wpseo_focuskw_text_input: Java 10
-  _yoast_wpseo_focuskw: Java 10
-  _yoast_wpseo_metadesc: Так как Java 10 уже не за горами, то самое время взглянуть
-    на JEP'ы (Java Enhancement Proposal), которые запланированы в Java 10. Вот краткий
-    обзор больших изменений в Java 10. Наслаждайтесь!
-  _yoast_wpseo_linkdex: '74'
-  _yoast_wpseo_content_score: '30'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:0;s:7:"replies";i:0;s:7:"authors";i:0;s:14:"recent_authors";a:0:{}}
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617980633'
-
 permalink: "/ru/tech-ru/what-is-new-in-java-10-ru.html"
 ---
 Java 10 должна увидеть свет в марте 2018. Это будет следующий большой short-term release после Java 9, которая была выпущена недавно в сентябре 2017.

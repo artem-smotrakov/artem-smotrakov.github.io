@@ -13,26 +13,6 @@ tags:
 - Калифорния
 - Сан-Франциско
 - США
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _wp_old_slug: walking-in-san-francisco
-  _aioseop_description: 'Сан-Франциско: тяжелая жизнь пешехода, Маркет-стрит, горбатые
-    улочки, Chinatown и Cable Car.'
-  _aioseop_title: Прогулка по Сан-Франциско
-  rp4wp_auto_linked: '1'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:2;s:7:"replies";i:2;s:7:"authors";i:3;s:14:"recent_authors";a:3:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:25:"artem.smotrakov@gmail.com";s:14:"comment_author";s:5:"artem";s:7:"user_id";s:1:"1";}i:1;O:8:"stdClass":3:{s:20:"comment_author_email";s:21:"m_savitskaya_@mail.ru";s:14:"comment_author";s:12:"Марина";s:7:"user_id";s:1:"0";}i:2;O:8:"stdClass":3:{s:20:"comment_author_email";s:21:"irishdrakon@gmail.com";s:14:"comment_author";s:6:"Iren4k";s:7:"user_id";s:1:"0";}}}
-  _yoast_wpseo_primary_category: '2'
-  _yoast_wpseo_focuskw: Сан-Франциско
-  _yoast_wpseo_linkdex: '52'
-  _yoast_wpseo_content_score: '60'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618042775'
 permalink: "/ru/travel/walk-in-san-francisco.html"
 ---
 Сан-Франциско как-то не очень приспособлен для пеших прогулок. Вроде бы все хорошо: и солнышко греет, и птички поют, и тепло, и милые улочки украшенные разноцветными и узорными фасадами домов. Только вот рельеф города порой пугает. Дело в том, что Сан-Франциско расположен на холмах, причем, местами довольно крутых. Поэтому прогулка по живописным кварталам порой превращается в карабканье на очередной холм, которое сменяется таким крутым спуском, что хочется перейти на бег. И все это, как правило, происходит под палящим беспощадным калифорнийским солнцем.

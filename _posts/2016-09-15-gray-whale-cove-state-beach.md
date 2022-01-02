@@ -13,27 +13,6 @@ tags:
 - Калифорния
 - Природа
 - США
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _wp_old_slug: "%d0%b1%d1%83%d1%85%d1%82%d0%b0-%d1%81%d0%b5%d1%80%d0%be%d0%b3%d0%be-%d0%ba%d0%b8%d1%82%d0%b0"
-  _aioseop_description: 'Gray Whale Cove State Beach это пляж у шоссе #1 в Калифорнии,
-    прекрасное место для знакомства с океаном и наблюдения за тем огненным шаром,
-    что тает в волнах.'
-  _aioseop_title: Бухта серого кита
-  rp4wp_auto_linked: '1'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:2;s:7:"replies";i:2;s:7:"authors";i:2;s:14:"recent_authors";a:2:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:25:"artem.smotrakov@gmail.com";s:14:"comment_author";s:5:"artem";s:7:"user_id";s:1:"1";}i:1;O:8:"stdClass":3:{s:20:"comment_author_email";s:21:"irishdrakon@gmail.com";s:14:"comment_author";s:6:"Iren4k";s:7:"user_id";s:1:"0";}}}
-  _yoast_wpseo_primary_category: '2'
-  _yoast_wpseo_focuskw: Калифорния
-  _yoast_wpseo_linkdex: '41'
-  _yoast_wpseo_content_score: '60'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617983823'
 permalink: "/ru/travel/gray-whale-cove-state-beach.html"
 ---
 "На небе только и разговоров, что о море и о закате. Там говорят о том, как чертовски здорово наблюдать за огромным огненным шаром, как он тает в волнах. И еле видимый свет, словно от свечи, горит где-то в глубине…"

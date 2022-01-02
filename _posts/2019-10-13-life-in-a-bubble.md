@@ -13,26 +13,6 @@ tags:
 - Germany
 - Nonsense
 - USA
-meta:
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '235'
-  _edit_last: '1'
-  _yoast_wpseo_content_score: '60'
-  _yoast_wpseo_focuskw: Life in a bubble
-  _yoast_wpseo_metadesc: Moving to a new country doesn't sound like the hardest thing
-    to do. There are harder tasks such as researching dark matter and energy or maybe
-    crochet. However, moving abroad doesn't sound like the easiest exercise either.
-    When you move to a new place, you usually need to learn many new and not always
-    easy things. Those may be laws, traditions, cultural differences, and of course,
-    the language in which people speak in the country. Otherwise, you may end up living
-    in a bubble.
-  _yoast_wpseo_linkdex: '55'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618153457'
-
 permalink: "/en/german-life-en/life-in-a-bubble.html"
 ---
 

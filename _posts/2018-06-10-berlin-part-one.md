@@ -12,23 +12,6 @@ categories:
 tags:
 - Берлин
 - Германия
-meta:
-  _edit_last: '1'
-  _yoast_wpseo_content_score: '90'
-  _yoast_wpseo_primary_category: '2'
-  _yoast_wpseo_focuskw_text_input: В Берлине
-  _yoast_wpseo_focuskw: В Берлине
-  _yoast_wpseo_metadesc: Немного о том, как в Берлине обстоят дела с курением, стройками,
-    а также домашними и бездомными животными.
-  _yoast_wpseo_linkdex: '79'
-  _thumbnail_id: '2437'
-  rp4wp_auto_linked: '1'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618029569'
-
 permalink: "/ru/travel/berlin-part-one.html"
 ---
 Немного о том, как в Берлине обстоят дела с курением, стройками, а также домашними и бездомными животными.

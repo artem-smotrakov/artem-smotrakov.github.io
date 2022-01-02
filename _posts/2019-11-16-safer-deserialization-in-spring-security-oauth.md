@@ -14,22 +14,6 @@ tags:
 - Java
 - Security
 - Spring
-meta:
-  _edit_last: '1'
-  _yoast_wpseo_primary_category: '157'
-  _yoast_wpseo_content_score: '60'
-  _yoast_wpseo_focuskw: deserialization
-  _yoast_wpseo_metadesc: By default, Spring Security OAuth2 uses deserialization in
-    an unsafe way. Let's discuss how to mitigate vulnerabilities if an application
-    uses the library.
-  _yoast_wpseo_linkdex: '68'
-  rp4wp_auto_linked: '1'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617978907'
-
 permalink: "/en/security/safer-deserialization-in-spring-security-oauth.html"
 ---
 

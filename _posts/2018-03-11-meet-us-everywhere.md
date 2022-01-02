@@ -12,28 +12,6 @@ categories:
 tags:
 - Бред
 - США
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_opengraph_settings: a:14:{s:32:"aioseop_opengraph_settings_title";s:0:"";s:31:"aioseop_opengraph_settings_desc";s:0:"";s:36:"aioseop_opengraph_settings_customimg";s:0:"";s:37:"aioseop_opengraph_settings_imagewidth";s:0:"";s:38:"aioseop_opengraph_settings_imageheight";s:0:"";s:32:"aioseop_opengraph_settings_video";s:0:"";s:37:"aioseop_opengraph_settings_videowidth";s:0:"";s:38:"aioseop_opengraph_settings_videoheight";s:0:"";s:35:"aioseop_opengraph_settings_category";s:7:"article";s:34:"aioseop_opengraph_settings_section";s:0:"";s:30:"aioseop_opengraph_settings_tag";s:0:"";s:34:"aioseop_opengraph_settings_setcard";s:7:"summary";s:44:"aioseop_opengraph_settings_customimg_twitter";s:0:"";s:44:"aioseop_opengraph_settings_customimg_checker";s:1:"0";}
-  _yoast_wpseo_content_score: '30'
-  _yoast_wpseo_primary_category: ''
-  _yoast_wpseo_focuskw_text_input: Свидетели Иеговы
-  _yoast_wpseo_focuskw: Свидетели Иеговы
-  _yoast_wpseo_metadesc: Как-то я прочитал в новостях, что Федор Чистяков, уехал в
-    США. То ли насовсем, то ли пока еще нет. Оказалось, что Федор Чистяков является
-    членом церкви Свидетели Иеговы, которую не так давно на территории России предали
-    анафеме. Потом я начал вспоминать, с какими церквями я имел счастье познакомиться.
-  _yoast_wpseo_linkdex: '79'
-  rp4wp_auto_linked: '1'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617993319'
-
 permalink: "/ru/nonsense-ru/meet-us-everywhere.html"
 ---
 Как-то я прочитал в новостях, что Федор Чистяков, который был лидером группы Ноль, уехал в США. То ли насовсем, то ли пока еще нет. Оказалось, что Федор Чистяков является членом церкви Свидетели Иеговы, которую не так давно на территории России предали анафеме. Хоть я и не слежу за жизнью ни Федора Чистякова, ни Свидетелей Иеговых, но почему-то был немного удивлен, когда узнал, что он состоит в этой организации. Потом я начал вспоминать, с какими церквями я имел счастье познакомиться.

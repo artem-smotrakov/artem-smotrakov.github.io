@@ -12,22 +12,6 @@ categories:
 tags:
 - Германия
 - Полиция
-meta:
-  _edit_last: '1'
-  _yoast_wpseo_primary_category: '228'
-  _yoast_wpseo_content_score: '90'
-  rp4wp_auto_linked: '1'
-  _wp_old_slug: "%d0%ba%d1%82%d0%be-%d1%85%d0%be%d0%b4%d0%b8%d1%82-%d0%b2-%d0%b3%d0%be%d1%81%d1%82%d0%b8-%d0%bf%d0%be-%d1%83%d1%82%d1%80%d0%b0%d0%bc"
-  _yoast_wpseo_focuskw: спецназ
-  _yoast_wpseo_linkdex: '51'
-  _stcr@_sdtp@mail.ru: 2020-04-06 17:24:59|Y
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618078876'
-  _yoast_wpseo_estimated-reading-time-minutes: '2'
-
 permalink: "/ru/german-life/german-police-visit.html"
 ---
 

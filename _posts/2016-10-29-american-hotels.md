@@ -11,25 +11,6 @@ categories:
 - Американский обыватель
 tags:
 - США
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_description: 'Обывательский рассказ о пребывании в американском отеле:
-    шляпы, лифты, сигары, улыбки, чудеса в прачечной, образование в туалете и библия
-    для деловых людей.'
-  _aioseop_title: Что можно увидеть в американском отеле
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '38'
-  _yoast_wpseo_focuskw: Отель
-  _yoast_wpseo_linkdex: '52'
-  _yoast_wpseo_content_score: '30'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618037391'
 permalink: "/ru/american-life/american-hotels.html"
 ---
 Это&nbsp;сугубо бытовой рассказ о пребывании в американском отеле. Признаться, мне сначала даже было как-то неудобно писать на такую обывательскую тему. Но вот начав перечитывать "Одноэтажную Америку" товарищей Ильфа и Петрова, я обнаружил, что авторы нисколько не смущаясь переходят к этой теме&nbsp;уже в третьей главе, которая называется ["Что можно увидеть из окна гостиницы"](http://lib.ru/ILFPETROV/amerika.txt_with-big-pictures.html#4).&nbsp;И я подумал, что если такие писатели не побрезговали такой темой, то и мне нечего стесняться, ведь я не выдерживаю никакого сравнения с ними. Чтобы разнообразить жизнь, я также приведу несколько цитат из указанной выше главы, дабы неглубоко окунуться в Америку тридцатых годов прошлого века, а потом быстро вынырнуть в современную.

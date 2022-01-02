@@ -17,29 +17,6 @@ tags:
 - IoT
 - MicroPython
 - Python
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _syntaxhighlighter_encoded: '1'
-  _aioseop_description: ESP8266 boards may have different amount of flash. Most of
-    them contain only 512K. It turned out that limited MicroPython may not work well
-    on them.
-  _aioseop_title: Problems with running MicroPython on ESP8266 with only 512K
-  rp4wp_auto_linked: '1'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:1;s:7:"replies";i:0;s:7:"authors";i:1;s:14:"recent_authors";a:1:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:17:"pmiscml@gmail.com";s:14:"comment_author";s:7:"pfalcon";s:7:"user_id";s:1:"0";}}}
-  _yoast_wpseo_content_score: '90'
-  _yoast_wpseo_primary_category: '155'
-  _yoast_wpseo_focuskw: MicroPython
-  _yoast_wpseo_metadesc: In my previous post about running MicroPython on ESP8266,
-    I mentioned that ESP8266 boards may have different amount of flash.
-  _yoast_wpseo_linkdex: '53'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617979362'
 permalink: "/en/diy-electronics/problems-with-running-micropython-on-esp8266-with-512k.html"
 ---
 In my previous post about [running MicroPython on ESP8266](http://blog.gypsyengineer.com/fun/diy-electronics/getting-started-with-esp8266-and-micropython.html), I mentioned that ESP8266 boards may have different amount of flash. Similarly there are two versions of MicroPython: limited version for 512K, and full version for boards which have more than 512K of flash. In that post, I played with ESP-07 which had only 512K, so I had to use a limited version of MicroPython. This limited MicroPython version was enough just to turn on/off an LED, but it turned out that it actually doesn't work well.

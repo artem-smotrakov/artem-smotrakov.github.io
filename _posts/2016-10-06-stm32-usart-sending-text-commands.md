@@ -12,28 +12,6 @@ categories:
 tags:
 - Electronics
 - STM32
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _syntaxhighlighter_encoded: '1'
-  _aioseop_description: 'STM32, USB-Serial adapter and USART: sending text commands
-    to STM32 board from laptop to drive an LED.'
-  _aioseop_title: USART on STM32
-  rp4wp_auto_linked: '1'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:1;s:7:"replies";i:1;s:7:"authors";i:2;s:14:"recent_authors";a:2:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:25:"artem.smotrakov@gmail.com";s:14:"comment_author";s:5:"artem";s:7:"user_id";s:1:"1";}i:1;O:8:"stdClass":3:{s:20:"comment_author_email";s:23:"sudheer_kmn@yahoo.co.in";s:14:"comment_author";s:14:"sudhir
-    acharya";s:7:"user_id";s:1:"0";}}}
-  _yoast_wpseo_content_score: '90'
-  _yoast_wpseo_primary_category: '155'
-  _yoast_wpseo_focuskw: STM32
-  _yoast_wpseo_linkdex: '67'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617977218'
-  _stcr@_hxaea6p5r@relay.firefox.com: 2021-09-17 20:55:05|Y
 permalink: "/en/diy-electronics/stm32-usart-sending-text-commands.html"
 ---
 If you think that your STM32 board feels lonely, you can connect it to your laptop. One of the ways how you can do that&nbsp;is USART. That's probably the easiest way. For example, let's say that we want to send text commands from a laptop to STM32 board. One command should turn on an LED, and another one should turn it off. And of course, STM32 should curse us in case of invalid command.

@@ -12,24 +12,6 @@ categories:
 tags:
 - DIY
 - Hydroponics
-meta:
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '155'
-  _edit_last: '1'
-  _yoast_wpseo_content_score: '30'
-  _yoast_wpseo_focuskw: hydroponic
-  _yoast_wpseo_metadesc: 'A couple of words about building a small hydroponic system
-    at home: drip irrigation, tanks, pumps, tubes, and growing most interesting plants
-    in Germany.'
-  _yoast_wpseo_linkdex: '72'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:1;s:7:"replies";i:0;s:7:"authors";i:1;s:14:"recent_authors";a:1:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:25:"amazinghydropon@gmail.com";s:14:"comment_author";s:18:"Amazing
-    Hydroponic";s:7:"user_id";s:1:"0";}}}
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618050747'
-
 permalink: "/en/diy-electronics/small-hydroponic-system-at-home.html"
 ---
 

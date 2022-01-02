@@ -14,24 +14,6 @@ tags:
 - Берлин
 - Велосипед
 - Германия
-meta:
-  _edit_last: '1'
-  _yoast_wpseo_primary_category: '228'
-  _yoast_wpseo_content_score: '30'
-  _thumbnail_id: '2883'
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_focuskw: велосипед
-  _yoast_wpseo_linkdex: '60'
-  _yoast_wpseo_metadesc: 'Немного о велосипедах в Германии: как обстоят дела в столице
-    и маленьких городках, велосипедные дорожки и прочие радости, а также два типа
-    немецких велосипедистов.'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618034430'
-  _yoast_wpseo_estimated-reading-time-minutes: '4'
-
 permalink: "/ru/german-life/bicycle-in-german-small-city.html"
 ---
 

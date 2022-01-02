@@ -13,24 +13,6 @@ tags:
 - Калифорния
 - Природа
 - США
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_description: '17 mile drive, Carmel, Monterey: побережье, поля для гольфа
-    и бурундуки.'
-  _aioseop_title: 17 миль полей для гольфа
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '2'
-  _yoast_wpseo_focuskw: 17 mile drive
-  _yoast_wpseo_linkdex: '56'
-  _yoast_wpseo_content_score: '60'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618010346'
 permalink: "/ru/travel/17-mile-drive-and-carmel.html"
 ---
 Чуть к югу от Мортерея (Monterey) в Калифорнии есть городок Кармел (Carmel-By-The-Sea). А между ними и немного западнее находится место, которое называется "17 mile drive". Как можно догадаться из названия, это некая дорога длиной в 17 миль. Мне года четыре рекомендовали туда съездить многие люди, потому что там очень красиво. Через четыре года я все-таки собрался.

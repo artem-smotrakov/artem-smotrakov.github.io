@@ -13,28 +13,6 @@ tags:
 - Калифорния
 - Природа
 - США
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_description: Америка хоть и страна чизбургеров и кока-колы, но помимо этого,
-    там еще и занимаются физкультурой. Как и в других уголках нашей многострадальной
-    планеты, занимаются, конечно же, не все.
-  _aioseop_title: Американская физкультура
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '38'
-  _yoast_wpseo_focuskw: Физкультура
-  _yoast_wpseo_metadesc: Америка хоть и страна чизбургеров и кока-колы, но помимо
-    этого, там еще и занимаются физкультурой. Как и в других уголках нашей многострадальной
-    планеты, занимаются, конечно же, не все.
-  _yoast_wpseo_linkdex: '51'
-  _yoast_wpseo_content_score: '30'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618206517'
 permalink: "/ru/american-life/american-workout.html"
 ---
 Америка хоть и страна чизбургеров и кока-колы, но помимо этого, там еще и занимаются физкультурой. Как и в других уголках нашей многострадальной планеты, занимаются, конечно же, не все.

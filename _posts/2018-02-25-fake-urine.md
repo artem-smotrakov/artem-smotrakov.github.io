@@ -12,31 +12,6 @@ categories:
 tags:
 - Бред
 - США
-meta:
-  _edit_last: '1'
-  _oembed_19c793cd43ad4d8d0451bcc32b9a0b2d: "{{unknown}}"
-  _aioseop_opengraph_settings: a:15:{s:32:"aioseop_opengraph_settings_title";s:20:"Контрафакт";s:31:"aioseop_opengraph_settings_desc";s:259:"Правительство
-    штата Миссисипи (США) собирается запретить поддельную мочу. Это несомненно открывает
-    новые горизонты для подпольного бизнеса.";s:32:"aioseop_opengraph_settings_image";s:90:"/wp-content/uploads/2018/02/IMG_20180225_111522-768x1024.jpg";s:36:"aioseop_opengraph_settings_customimg";s:0:"";s:37:"aioseop_opengraph_settings_imagewidth";s:0:"";s:38:"aioseop_opengraph_settings_imageheight";s:0:"";s:32:"aioseop_opengraph_settings_video";s:0:"";s:37:"aioseop_opengraph_settings_videowidth";s:0:"";s:38:"aioseop_opengraph_settings_videoheight";s:0:"";s:35:"aioseop_opengraph_settings_category";s:7:"article";s:34:"aioseop_opengraph_settings_section";s:0:"";s:30:"aioseop_opengraph_settings_tag";s:0:"";s:34:"aioseop_opengraph_settings_setcard";s:7:"summary";s:44:"aioseop_opengraph_settings_customimg_twitter";s:0:"";s:44:"aioseop_opengraph_settings_customimg_checker";s:1:"0";}
-  _aioseop_description: Правительство штата Миссисипи (США) собирается запретить поддельную
-    мочу. Это несомненно открывает новые горизонты для подпольного бизнеса.
-  _aioseop_title: Контрафакт
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: ''
-  _yoast_wpseo_focuskw_text_input: поддельная моча
-  _yoast_wpseo_focuskw: поддельная моча
-  _yoast_wpseo_metadesc: 'Прочитал новость: поддельная моча в Миссисипи будет запрещена.
-    Список вещей, которые еще не подделывают стремительно сокращается. Боюсь даже
-    представить, что подделают в следующий раз. Проснувшись утром и прочитав эту новость
-    из Миссисипи, я в очередной раз подумал, что чем-то не тем занимаюсь в жизни.'
-  _yoast_wpseo_linkdex: '69'
-  _yoast_wpseo_content_score: '60'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618168616'
-
 permalink: "/ru/nonsense-ru/fake-urine.html"
 ---
 Прочитал новость. Только ради таких новостей я и читаю новости.

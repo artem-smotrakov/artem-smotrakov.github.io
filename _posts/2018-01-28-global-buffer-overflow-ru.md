@@ -11,37 +11,6 @@ categories:
 - Security
 tags:
 - Security
-meta:
-  mask_links: default
-  _edit_last: '1'
-  _aioseop_opengraph_settings: 'a:14:{s:32:"aioseop_opengraph_settings_title";s:89:"Переполнения
-    буфера в глобальной области памяти";s:31:"aioseop_opengraph_settings_desc";s:349:"Немного
-    о переполнении буферов в глобальной области памяти: причины, последствия, примеры
-    переполнения буфера, перезапись указателя на функцию, а также предотвращение переполнений
-    буферов.";s:36:"aioseop_opengraph_settings_customimg";s:0:"";s:37:"aioseop_opengraph_settings_imagewidth";s:0:"";s:38:"aioseop_opengraph_settings_imageheight";s:0:"";s:32:"aioseop_opengraph_settings_video";s:0:"";s:37:"aioseop_opengraph_settings_videowidth";s:0:"";s:38:"aioseop_opengraph_settings_videoheight";s:0:"";s:35:"aioseop_opengraph_settings_category";s:7:"article";s:34:"aioseop_opengraph_settings_section";s:0:"";s:30:"aioseop_opengraph_settings_tag";s:0:"";s:34:"aioseop_opengraph_settings_setcard";s:7:"summary";s:44:"aioseop_opengraph_settings_customimg_twitter";s:0:"";s:44:"aioseop_opengraph_settings_customimg_checker";s:1:"0";}'
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _syntaxhighlighter_encoded: '1'
-  _aioseop_keywords: переполнение,буфера,глобальная,память,стек,куча,предотвращение,пример
-  _aioseop_description: 'Немного о переполнении буферов в глобальной области памяти:
-    причины, последствия, примеры переполнения буфера, перезапись указателя на функцию,
-    а также предотвращение переполнений буферов.'
-  _aioseop_title: Переполнения буфера в глобальной области памяти
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_focuskw_text_input: переполнение буфера
-  _yoast_wpseo_focuskw: переполнение буфера
-  _yoast_wpseo_metadesc: Написано много статей и даже книг о переполнении буферов
-    в стеке. Чуть меньше про переполнение буфера в куче. Но есть еще одна вещь, которую
-    можно переполнить, и о которой пишут мало. Это буфер в глобальной области памяти.
-  _yoast_wpseo_linkdex: '82'
-  _yoast_wpseo_content_score: '90'
-  _yoast_wpseo_primary_category: ''
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618180501'
-
 permalink: "/ru/security-ru/global-buffer-overflow-ru.html"
 ---
 <p style="text-align: justify;">Написано много статей, постов и даже книг о переполнении буферов в стеке. Чуть меньше про переполнение буфера в куче. Но есть еще одна вещь, которую можно переполнить, и о которой пишут мало. Это буфер в глобальной области памяти (global memory). Хотя все эти проблемы сильно похожи друг на друга, тем не менее попробуем заполнить этот небольшой пробел с переполнениями буфера в глобальной памяти.</p>

@@ -12,27 +12,6 @@ categories:
 tags:
 - Salt Lake City
 - США
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_description: 'Salt Lake City или город соленого озера: мормоны, пророки,
-    жертвы миссионерской работы, а так же люди в одеялах.'
-  _aioseop_title: Божественный день в Salt Lake City
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '2'
-  _yoast_wpseo_focuskw: Salt Lake City
-  _yoast_wpseo_metadesc: Все, что я знал о Salt Lake City, это наличие в городе мормонов
-    и проведение там зимней олимпиады в 2002 году. Олимпийские игры, тем более давно
-    прошедшие, меня мало интересовали. А вот на мормонов посмотреть хотелось.
-  _yoast_wpseo_linkdex: '65'
-  _yoast_wpseo_content_score: '30'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618017206'
 permalink: "/ru/travel/salt-lake-city.html"
 ---
 "И началась великая борьба за бессмертную душу шофера."

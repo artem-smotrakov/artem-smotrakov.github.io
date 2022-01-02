@@ -13,29 +13,6 @@ tags:
 - DNS
 - Security
 - Web security
-meta:
-  _edit_last: '1'
-  _aioseop_opengraph_settings: a:14:{s:32:"aioseop_opengraph_settings_title";s:0:"";s:31:"aioseop_opengraph_settings_desc";s:0:"";s:36:"aioseop_opengraph_settings_customimg";s:0:"";s:37:"aioseop_opengraph_settings_imagewidth";s:0:"";s:38:"aioseop_opengraph_settings_imageheight";s:0:"";s:32:"aioseop_opengraph_settings_video";s:0:"";s:37:"aioseop_opengraph_settings_videowidth";s:0:"";s:38:"aioseop_opengraph_settings_videoheight";s:0:"";s:35:"aioseop_opengraph_settings_category";s:7:"article";s:34:"aioseop_opengraph_settings_section";s:0:"";s:30:"aioseop_opengraph_settings_tag";s:0:"";s:34:"aioseop_opengraph_settings_setcard";s:7:"summary";s:44:"aioseop_opengraph_settings_customimg_twitter";s:0:"";s:44:"aioseop_opengraph_settings_customimg_checker";s:1:"0";}
-  _aioseop_keywords: dns,rebinding,attack,example,web,security,blizzard,vulnerability,same-origin,policy
-  _aioseop_description: What is DNS rebinding attack? What is Same-Origin Policy and
-    why is it important? Recent examples of DNS rebinding attacks with Blizzard and
-    BitTorent, and how DNS rebinding attacks can be prevented.
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: ''
-  _yoast_wpseo_focuskw_text_input: DNS rebinding attacks
-  _yoast_wpseo_focuskw: DNS rebinding attacks
-  _yoast_wpseo_metadesc: DNS rebinding attacks have been known for quite a long time.
-    For example, Stanford Web Security Research Team posted a whitepaper about DNS
-    rebinding attacks in 2007. But even if it's a well-known type of attacks, nowadays
-    you still can find software systems which are vulnerable to DNS rebinding attacks.
-  _yoast_wpseo_linkdex: '79'
-  _yoast_wpseo_content_score: '30'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617983982'
-
 permalink: "/en/security/examples-of-dns-rebinding-attacks.html"
 ---
 <p style="text-align: justify;">DNS rebinding attacks have been known for quite a long time. For example, Stanford Web Security Research Team posted <a href="https://crypto.stanford.edu/dns/">a whitepaper about DNS rebinding attacks</a> in 2007. But even if it's a well-known type of attacks, nowadays you still can find software systems which are vulnerable to DNS rebinding attacks. For example, Google Project Zero recently discovered such <a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1471&amp;desc=2">problems in Blizzard Update Agent</a> and <a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1447">BitTorent Transmission Daemon</a>.</p>

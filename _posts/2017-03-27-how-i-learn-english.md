@@ -12,30 +12,6 @@ categories:
 tags:
 - Мемуар
 - США
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_description: Мне иногда говорят, что коли я живу в Америке, и работаю в
-    американской компании, то значит я прекрасно говорю по-английски. Это не совсем
-    так.
-  _aioseop_title: Сложности перевода
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_content_score: '30'
-  _thumbnail_id: '2633'
-  _yoast_wpseo_primary_category: ''
-  _yoast_wpseo_focuskw: Английский язык
-  _yoast_wpseo_metadesc: Мне иногда говорят, что коли я живу в Америке и работаю в
-    американской компании, то это значит, что мой английский язык должен быть прекрасен. Это
-    не совсем так.
-  _yoast_wpseo_linkdex: '66'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:0;s:7:"replies";i:0;s:7:"authors";i:0;s:14:"recent_authors";a:0:{}}
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618016385'
 permalink: "/ru/american-life/how-i-learn-english.html"
 ---
 Мне иногда говорят, что коли я&nbsp;живу в Америке и работаю в американской компании, то значит я прекрасно говорю по-английски.&nbsp;Это не совсем так.

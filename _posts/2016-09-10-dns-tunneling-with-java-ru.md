@@ -13,26 +13,6 @@ tags:
 - DNS
 - Java
 - Security
-meta:
-  mask_links: default
-  _oembed_1d26b1ed8fd283779530ac103f17e8cd: "{{unknown}}"
-  _edit_last: '1'
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_description: Рассказ о том, что такое DNS туннель (DNS tunnel), и пример
-    того, как DNS туннель можно реализовать на одной лишь Java.
-  _aioseop_title: DNS туннель и Java
-  rp4wp_auto_linked: '1'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:3;s:7:"replies";i:3;s:7:"authors";i:3;s:14:"recent_authors";a:3:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:25:"artem.smotrakov@gmail.com";s:14:"comment_author";s:5:"artem";s:7:"user_id";s:1:"1";}i:1;O:8:"stdClass":3:{s:20:"comment_author_email";s:21:"irishdrakon@gmail.com";s:14:"comment_author";s:6:"Iren4k";s:7:"user_id";s:1:"0";}i:2;O:8:"stdClass":3:{s:20:"comment_author_email";s:16:"b2n5v7@gmail.com";s:14:"comment_author";s:14:"Коляныч";s:7:"user_id";s:1:"0";}}}
-  _yoast_wpseo_content_score: '30'
-  _yoast_wpseo_primary_category: '159'
-  _yoast_wpseo_focuskw: DNS-туннель
-  _yoast_wpseo_linkdex: '53'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618017094'
 permalink: "/ru/security-ru/dns-tunneling-with-java-ru.html"
 ---
 Часто компании имеют свою внутреннюю сеть, которая подключена к интернету через маршрутизатор (или роутер, router). Обычно на таком маршрутизаторе работает firewall, который может фильтровать сетевой трафик. Бывает, что компания не хочет, чтобы компьютеры (и прочие устройства)&nbsp;из внутренней сети имели доступ к интернету. Это может уменьшить вероятность просачивания&nbsp;важной, секретной и не очень информации в интернет. Или начальство просто не хочет, чтобы работники сидели в их любимых социальных сетях в рабочее время. В таком случает firewall может быть настроен на блокирование большинства TCP/UDP соединений с интернетом.&nbsp;"DNS tunneling" может помочь при обходе такого firewall'а при условии, что он пропускает запросы к DNS серверам в интернете.

@@ -13,23 +13,6 @@ tags:
 - Java
 - JSSE
 - TLS 1.3
-meta:
-  _edit_last: '1'
-  _yoast_wpseo_content_score: '60'
-  _yoast_wpseo_primary_category: '157'
-  _yoast_wpseo_focuskw: TLS 1.3
-  _yoast_wpseo_metadesc: Java 11 is going to support TLS 1.3 protocol which was published
-    in August 2018. Here is an example of TLS 1.3 client and server in Java.
-  _yoast_wpseo_linkdex: '63'
-  rp4wp_auto_linked: '1'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:3;s:7:"replies";i:3;s:7:"authors";i:4;s:14:"recent_authors";a:4:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:25:"artem.smotrakov@gmail.com";s:14:"comment_author";s:5:"Artem";s:7:"user_id";s:1:"1";}i:1;O:8:"stdClass":3:{s:20:"comment_author_email";s:23:"avatar.girase@gmail.com";s:14:"comment_author";s:3:"raj";s:7:"user_id";s:1:"0";}i:2;O:8:"stdClass":3:{s:20:"comment_author_email";s:12:"hs-bo@gmx.de";s:14:"comment_author";s:4:"Rafa";s:7:"user_id";s:1:"0";}i:3;O:8:"stdClass":3:{s:20:"comment_author_email";s:22:"phaugat.ashu@gmail.com";s:14:"comment_author";s:12:"Ashu
-    Phaugat";s:7:"user_id";s:1:"0";}}}
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617977316'
-
 permalink: "/en/security/an-example-of-tls-13-client-and-server-on-java.html"
 ---
 Java 11 supports TLS 1.3 protocol which was published in August 2018. During implementing the new TLS protocol, Java security-libs team significantly [re-worked Java Secure Sockets Extension (JSSE)](https://bugs.openjdk.java.net/browse/JDK-8185576). I used to work on security-libs in Java for 6 years, so I can tell that was not an easy task for sure. But nevertheless, Java security-libs team delivered TLS 1.3 implementation in Java 11. Great job!

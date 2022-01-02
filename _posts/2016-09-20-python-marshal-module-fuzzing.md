@@ -12,39 +12,6 @@ categories:
 tags:
 - Fuzzing
 - Python
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _oembed_797622ff3ad71daca8c79905325ffae6: "{{unknown}}"
-  _oembed_9288c21eec39eacd164d3a1ae3882ba7: "{{unknown}}"
-  _oembed_9c33dc2be0125cb6c3d445d48aeef6ae: "{{unknown}}"
-  _oembed_80c2df6fb7f5b063d170d4b3023cf978: "{{unknown}}"
-  _oembed_117e98f0545a1ab9fc2ddcb6539c341b: "{{unknown}}"
-  _oembed_7436d4a59eedb50d4acb79f2df033afc: "{{unknown}}"
-  _oembed_efb13699f401d23ff78fab9b37259b1e: "{{unknown}}"
-  _oembed_40c5732a19479d784d2f8f9f4208864c: "{{unknown}}"
-  _oembed_c63578a53547ef2e7bce945ea5d5684a: "{{unknown}}"
-  _oembed_8dab5229f92302a49bb48e30c87c2eed: "{{unknown}}"
-  _oembed_69e63d9ea3de66335124f0e27f727dce: "{{unknown}}"
-  _oembed_1dd1131a9aa8fe206f223e8ecf96eeef: "{{unknown}}"
-  _syntaxhighlighter_encoded: '1'
-  _aioseop_description: Let's build latest Python with AddressSanitizer and see if
-    a simple dumb fuzzer can discover a crash.
-  _aioseop_title: Python marshal module fuzzing
-  rp4wp_auto_linked: '1'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:1;s:7:"replies";i:0;s:7:"authors";i:1;s:14:"recent_authors";a:1:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:21:"info@kali-linuxtr.net";s:14:"comment_author";s:10:"Kali
-    Linux";s:7:"user_id";s:1:"0";}}}
-  _yoast_wpseo_content_score: '30'
-  _yoast_wpseo_primary_category: '157'
-  _yoast_wpseo_focuskw: fuzzing
-  _yoast_wpseo_linkdex: '51'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617993804'
 permalink: "/en/security/python-marshal-module-fuzzing.html"
 ---
 [The marshal module](https://docs.python.org/3/library/marshal.html) provides a serialization mechanism for Python values. In other words, the module contains&nbsp;functions for writing/reading Python objects in a binary format. Unfortunately the format is undocumented, and Python maintainers may&nbsp;change&nbsp;the format in backward incompatible ways between Python version. The marshal module is used internally by other Python components, for example, for reading and writing .pyc files which contain pseudo-compiled Python code. But&nbsp;Python also has public API to access this serialization mechanism.
