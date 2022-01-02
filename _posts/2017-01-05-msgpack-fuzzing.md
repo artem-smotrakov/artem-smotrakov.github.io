@@ -40,7 +40,7 @@ It's going to install msgpack binaries to /path/to/build you specified in -DCMAK
 
 Once&nbsp;we built msgpack, we need to create a couple of files with serialized data for fuzzing. I used the following program for that:
 
-```
+```c
 #include 
 #include 
 #include 
@@ -143,7 +143,7 @@ AFL_USE_ASAN=1 \
 
 Next, we need to create a simple program which uses msgpack API for deserialization. Finally, we are going to run this program while fuzzing. I wrote two programs. First one uses C API:
 
-```
+```c
 #include 
 #include 
 
@@ -180,7 +180,7 @@ int main(int argc, char **argv) {
 
 And second&nbsp;one uses C++ API (it's much shorter, by the way):
 
-```
+```c
 #include 
 #include 
 #include 
@@ -221,7 +221,7 @@ And now the most exciting part.
 
 One problem was in template\_callback\_ext() function. While parsing corrupted data, it's possible that zero is passed to "l" parameter of template\_callback\_ext() function. This leads to assigning a negative value to o-\>via.ext.size which is implicitly being converted to a huge positive number.
 
-```
+```c
 static inline int template_callback_ext(unpack_user* u, const char* b, const char* p, unsigned int l, msgpack_object* o)
 {
     MSGPACK_UNUSED(u);
@@ -237,7 +237,7 @@ static inline int template_callback_ext(unpack_user* u, const char* b, const cha
 
 It may then lead to reading o-\>via.ext.ptr out of its bounds, for example, in msgpack\_object\_bin\_print() function:
 
-```
+```c
 static void msgpack_object_bin_print(FILE* out, const char *ptr, size_t size)
 {
     size_t i;
@@ -257,7 +257,7 @@ Depending on where this function is called, and what "out" is, it may potentiall
 
 Next issue was in template\_callback\_array() and template\_callback\_map() functions.&nbsp;An integer overflow may occur there&nbsp;while calculating an amount of memory to be allocated. It may potentially lead to allocating zero bytes to o-\>via.map.ptr:
 
-```
+```c
 static inline int template_callback_array(unpack_user* u, unsigned int n, msgpack_object* o)
 {
     o->type = MSGPACK_OBJECT_ARRAY;
@@ -270,7 +270,7 @@ static inline int template_callback_array(unpack_user* u, unsigned int n, msgpac
 
 As a result, it may lead to a buffer overflow, for example, in template\_callback\_map\_item() and template\_callback\_array\_item() functions:
 
-```
+```c
 static inline int template_callback_array_item(unpack_user* u, msgpack_object* c, msgpack_object o)
 {
     MSGPACK_UNUSED(u);

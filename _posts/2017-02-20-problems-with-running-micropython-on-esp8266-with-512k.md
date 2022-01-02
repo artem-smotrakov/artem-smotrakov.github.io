@@ -25,7 +25,7 @@ In my previous post about [running MicroPython on ESP8266](http://blog.gypsyengi
 
 After successful flashing ESP8266 with limited MicroPython, I tried to upload a simple script which just turns on/off&nbsp;an LED in a loop:
 
-```
+```python
 import time
 from machine import Pin
 

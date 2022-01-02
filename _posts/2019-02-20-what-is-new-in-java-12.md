@@ -46,7 +46,7 @@ This JEP is for those who take part in JDK development. JEP 230 adds a suite of 
 
 I believe most of developers will find this JEP more interesting than the previous one. JEP 325 introduces "simplified" switch statements. To make a long story short, let me just give you a couple of examples.
 
-```
+```java
 static void howMany(int k) {
     switch (k) {
         case 1 -> System.out.println("one");
@@ -58,7 +58,7 @@ static void howMany(int k) {
 
 In other words, if a label is matched, then only the expression to the right of an arrow label is executed. No fall through, so you don't need break statements. Here is another example:
 
-```
+```java
 static boolean isWeekend(String day) {
     return switch (day) {
         case "mon", "tue", "wed", "thu", "fri" -> false;
@@ -70,7 +70,7 @@ static boolean isWeekend(String day) {
 
 The example above uses multiple case labels and shows that the expression to the right of an arrow may be a return value. But you can also have a full block if you need to put more logic inside. Furthermore, the break statement now can take an argument which becomes the value of the enclosing switch expression. Here is an example:
 
-```
+```java
 static boolean isWeekend(String day) {
     return switch (day) {
         case "mon", "tue", "wed", "thu", "fri" -> false;

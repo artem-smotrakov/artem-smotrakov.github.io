@@ -47,7 +47,7 @@ JEP 230 добавляет набор microbenchmark в исходники OpenJ
 
 Это уже должно быть поинтереснее для рядовых пользователей Java, потому как здесь дело пойдет об изменения в самом языке Java. JEP 325 добавляет слегка упрощенные `switch`. Давайте сразу перейдем к примерам:
 
-```
+```java
 static void howMany(int k) {
     switch (k) {
         case 1 -> System.out.println("one");
@@ -59,7 +59,7 @@ static void howMany(int k) {
 
 Иными словами, если мы попали в один case, то будет выполнена лишь одна инструкция справа от стрелки, а следующий `case` выполнен не будет несмотря на отсутствие `break`. Вот еще один пример:
 
-```
+```java
 static boolean isWeekend(String day) {
     return switch (day) {
         case "mon", "tue", "wed", "thu", "fri" -> false;
@@ -71,7 +71,7 @@ static boolean isWeekend(String day) {
 
 Здесь мы видим, что `case` может содержать несколько меток, а также выражение справа от стрелки может означать возвращаемое значение. Довольно удобно, не так ли? Ну и последний пример:
 
-```
+```java
 static boolean isWeekend(String day) {
     return switch (day) {
         case "mon", "tue", "wed", "thu", "fri" -> false;

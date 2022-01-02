@@ -53,7 +53,7 @@ There is already a set of CodeQL queries for many security issues. In particular
 
 The query tracks data flows from remote data sources to a deserialization sink and checks that the sink triggers unsafe deserialization. It is implemented in `UnsafeDeserializationConfig`:
 
-```
+```codeql
 class UnsafeDeserializationSink extends DataFlow::ExprNode {
   UnsafeDeserializationSink() { unsafeDeserialization(_, this.getExpr()) }
 
@@ -74,7 +74,7 @@ class UnsafeDeserializationConfig extends TaintTracking::Configuration {
 
 The predicate `unsafeDeserialization()` checks in a method call triggers unsafe deserialization with untrusted data. I updated the predicate with the following:
 
-```
+```codeql
 ma.getMethod() instanceof ObjectMapperReadMethod and
 sink = ma.getArgument(0) and
 (
@@ -91,14 +91,14 @@ Let's have a closer look at these conditions.
 
 The first two lines make sure that `ma` is method call of one of the methods in `ObjectMapper` that deserializes data that comes in the first parameter:
 
-```
+```codeql
 ma.getMethod() instanceof ObjectMapperReadMethod and
 sink = ma.getArgument(0) and
 ```
 
 The next block checks whether deserialization is dangerous or not:
 
-```
+```codeql
 exists(UnsafeTypeConfig config | config.hasFlowToExpr(ma.getAnArgument()))
 or
 exists(EnableJacksonDefaultTypingConfig config | config.hasFlowToExpr(ma.getQualifier()))

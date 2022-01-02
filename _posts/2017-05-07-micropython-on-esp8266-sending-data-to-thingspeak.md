@@ -56,7 +56,7 @@ git clone https://github.com/artem-smotrakov/yellow-duck
 
 Так как мы собираемся отсылать температуру и влажность на ThingSpeak, нам надо подключить нашу ESP8266 к существующей (скажем, домашней) Wi-Fi сети для доступа в интернеты. Для этого&nbsp;нашей ESP8266 надо знать SSID и пароль к Wi-Fi сети. Вот так можно подключиться к Wi-Fi сети с помощью MicroPython:
 
-```
+```python
 import network
 nic = network.WLAN(network.STA_IF)
 nic.active(True)
@@ -78,7 +78,7 @@ nic.connect(ssid, password)
 
 После успешного подключения к Wi-Fi устройство начинает героически измерять температуру и влажность с определенным интервалом:
 
-```
+```python
 while True:
     current_time = time.time()
     if current_time - last_mesurement_time > MESUREMENT_INTERVAL:
@@ -89,7 +89,7 @@ while True:
 
 Как уже упоминалось ранее, MicroPython поддерживает как DHT22, так и DHT11. Вот как мы используем функцию&nbsp;`dht.DHT22` для измерения нужных нам характеристик агрессивной окружающей среды:
 
-```
+```python
 def mesure_temperature_and_humidity():
     import dht
     import machine
@@ -107,7 +107,7 @@ def mesure_temperature_and_humidity():
 
 Вот так мы отправляем данные в&nbsp;ThingSpeak:
 
-```
+```python
 global THINGSPEAK_WRITE_KEY
     if not THINGSPEAK_WRITE_KEY:
         print('not ThingSpeak key specified, skip sending data')

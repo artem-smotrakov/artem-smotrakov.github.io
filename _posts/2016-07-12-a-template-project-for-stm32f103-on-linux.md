@@ -101,7 +101,7 @@ I wanted to keep it simple, so it doesn't have much stuff.
 
 `main.c` is the main program. First, main() function initializes pin`PA1`. Then, it starts an infinite loop which turns on/off the LED with a delay.
 
-```
+```c
 #include "main.h"
 
 void delay(int millis) {
@@ -140,7 +140,7 @@ delay(DELAY);
 
 `main.h` is a header file which includes a couple of other header files from&nbsp;STM32 standard peripheral library.
 
-```
+```c
 #ifndef __MAIN_H
 #define __MAIN_H
 
@@ -157,7 +157,7 @@ delay(DELAY);
 
 &nbsp;
 
-```
+```c
 #ifndef __STM32F10x_CONF_H
 #define __STM32F10x_CONF_H
 

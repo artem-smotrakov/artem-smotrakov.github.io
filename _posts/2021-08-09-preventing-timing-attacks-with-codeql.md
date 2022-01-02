@@ -94,7 +94,7 @@ It looks for the following data flows:
 
 The above is implemented in `NonConstantTimeCryptoComparisonConfig` for tracking data flows with CodeQL:
 
-```
+```codeql
 class NonConstantTimeCryptoComparisonConfig extends TaintTracking::Configuration {
   NonConstantTimeCryptoComparisonConfig() { this = "NonConstantTimeCryptoComparisonConfig" }
 
@@ -106,7 +106,7 @@ class NonConstantTimeCryptoComparisonConfig extends TaintTracking::Configuration
 
 Strictly speaking, it is not enough for a successful timing attack that just a non-constant-time algorithm is used for validating a signature. Additionally, an attacker has to be able to send to the receiver both a message and a signature. The query `PossibleTimingAttackAgainstSignature.ql` does not check that. But the second query `TimingAttackAgainstSignature.ql` does:
 
-```
+```codeql
 from DataFlow::PathNode source, DataFlow::PathNode sink, NonConstantTimeCryptoComparisonConfig conf
 where
   conf.hasFlowPath(source, sink) and

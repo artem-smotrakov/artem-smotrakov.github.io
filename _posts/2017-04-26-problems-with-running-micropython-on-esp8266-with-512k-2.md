@@ -26,7 +26,7 @@ English version -&nbsp;[Problems with running MicroPython on ESP8266 with 512K](
 
 После успешной заливки урезанной версии MicroPython, было решено загрузить простенький Python-скрипт, который включает и выключает светодиод в цикле:
 
-```
+```python
 import time
 from machine import Pin
 

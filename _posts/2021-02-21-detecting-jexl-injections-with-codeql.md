@@ -144,7 +144,7 @@ expressions go to a `JexlEngine` and get executed immediately. The engine is not
 The second finding is an [RCE in Traccar project](https://github.com/traccar/traccar/issues/4624). The server has an undocumented [endpoint](https://github.com/OpenNMS/newts/blob/d706eb9e12783b31f4745c232a3cfa212474e68a/rest/src/main/java/org/opennms/newts/rest/MeasurementsResource.java#L62)  
 `/attributes/computed/test` that accepts a device id and a structure with an attribute:
 
-```
+```java
 @POST
 @Path("test")
 public Response test(@QueryParam("deviceId") long deviceId, Attribute entity) {

@@ -121,13 +121,13 @@ Third interesting thing about this code is that static "access$002" method is ac
 
 Java compiler fails if you try to call a synthetic method in your Java code:
 
-```
+```java
 Outer.access$002(outer, 0);
 ```
 
 But a synthetic method can be called with Reflection API:
 
-```
+```java
 Outer o = new Outer();
 Method m = o.getClass().getDeclaredMethod("access$002", o.getClass(), int.class);
 m.invoke(null, o, -1);

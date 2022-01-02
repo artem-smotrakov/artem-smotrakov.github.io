@@ -165,7 +165,7 @@ In other words, now it is a&nbsp;a recursive tuple.&nbsp;What happened when mars
 
 See [https://hg.python.org/cpython/file/tip/Objects/tupleobject.c#l347](https://hg.python.org/cpython/file/tip/Objects/tupleobject.c#l347)&nbsp;for details:
 
-```
+```c
 static Py_hash_t
 tuplehash(PyTupleObject *v)
 {
