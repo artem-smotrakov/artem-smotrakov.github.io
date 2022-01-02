@@ -30,8 +30,6 @@ Here is an English version -&nbsp;[Getting started with ESP8266 and MicroPython]
 
 ![Как запустить MicroPython на ESP8266]({{ site.baseurl }}/assets/images/2017/04/all_parts.jpg)
 
-
-
 # Железо: ESP8266 ESP-07&nbsp;и остальные мелкие детали
 
 Если я правильно помню, то существует около двенадцати вариаций ESP8266 (а может быть и больше). Я использовал ту, что называется ESP-07, которая выглядит вот так:
@@ -200,8 +198,6 @@ Type "help()" for more information.
 
 Удачи!
 
-
-
 - 
 [![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170212_121132.jpg)](/wp-content/uploads/2017/04/IMG_20170212_121132.jpg)
 - 
@@ -227,15 +223,7 @@ Type "help()" for more information.
 - 
 [![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170211_184318.jpg)](/wp-content/uploads/2017/04/IMG_20170211_184318.jpg)
 
-
-
-
-
 Ссылки:
-
-
-
-
 
 - [http://www.esp8266.com/wiki/doku.php?id=esp8266-module-family#esp-07](http://www.esp8266.com/wiki/doku.php?id=esp8266-module-family#esp-07)
 - [https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/intro.html](https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/intro.html)
@@ -244,6 +232,4 @@ Type "help()" for more information.
 - [https://forum.micropython.org/viewtopic.php?t=2277](https://forum.micropython.org/viewtopic.php?t=2277)
 - [https://zoetrope.io/tech-blog/esp8266-bootloader-modes-and-gpio-state-startup](https://zoetrope.io/tech-blog/esp8266-bootloader-modes-and-gpio-state-startup)
 - [http://docs.micropython.org/en/latest/wipy/library/machine.Pin.html](http://docs.micropython.org/en/latest/wipy/library/machine.Pin.html)
-
-
 

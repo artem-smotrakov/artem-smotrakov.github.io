@@ -23,8 +23,6 @@ In my previous post about [running MicroPython on ESP8266](http://blog.gypsyengi
 
 [peg-image src="https://lh3.googleusercontent.com/-R3VwoQTgucI/WKi6OUtAf7I/AAAAAAAAIOM/7lQm-sbab2MZdftJBdJUnDAFI6Ha3i6MgCCo/s144-o/IMG\_20170218\_131903.jpg" href="https://picasaweb.google.com/103813056835863838724/6383844083469641761#6388560826663468978" caption="" type="image" alt="ESP8266" image\_size="4096x2304"]
 
-
-
 After successful flashing ESP8266 with limited MicroPython, I tried to upload a simple script which just turns on/off&nbsp;an LED in a loop:
 
 ```

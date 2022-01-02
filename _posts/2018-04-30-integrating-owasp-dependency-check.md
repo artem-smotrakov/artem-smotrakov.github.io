@@ -19,8 +19,6 @@ OWASP Dependency Check is a well known open-source tool which can track dependen
 
 But unfortunately sometimes it's not enough just to automate something. If the tool reports a vulnerability it means someone has to fix it. At least it would be good to evaluate the problem. In a perfect world, all issues are addressed immediately, but in the real world, development teams always have no time for that. Besides integrating Dependency Check to CI/CD, there may be a couple of other steps to get vulnerable dependencies updated.
 
-
-
 ## Integrating OWASP Dependency Check in to CI/CD
 
 First, you can integrate the tool in to your favorite build system. There are plugins for Gradle, Maven and others which allow you to easily include Dependency Check in to your build and test routines. Next, there is a plugin for Jenkins which allows you to integrate the tool to you CI/CD pipelines. As a result, you can get Dependency Check reports in your Jenkins. If your Jenkins is configured to run a job for each commit, branch or pull request, then most likely you're going to get a notification about vulnerable components once the information about them becomes public. There is one exception. If you don't update your application often, but it's still deployed, then there is a chance that you don't get a notification in time. To solve this, you can configure Jenkins to run Dependency Check regularly (for example, every night).

@@ -18,8 +18,6 @@ permalink: "/en/security/python-marshal-module-fuzzing.html"
 
 This post shows how the marshal module can be quickly tested with a simple dumb fuzzer, and why the module shouldn't be used with untrusted data.
 
-
-
 The marshal module is [implemented](https://hg.python.org/cpython/file/tip/Python/marshal.c) in C, so the simplest&nbsp;goal of fuzzing here is just to look for typical&nbsp;issues in C code like buffer overflows, use-after-free, null-pointer dereferences, etc. [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer) (ASan) is a great memory checker&nbsp;which can help with identifying such issues. AddressSanitizer instruments code&nbsp;while compilation. The tool replaces malloc and free functions, and adds check for memory corruption issues. Then, at runtime it tries to detect memory corruptions, and report them immediately with lots of useful information. AddressSanitizer is part of GCC 4.8+ which can be used to build Python.
 
 ## Building Python with AddressSanitizer

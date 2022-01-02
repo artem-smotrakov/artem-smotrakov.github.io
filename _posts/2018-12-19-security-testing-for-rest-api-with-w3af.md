@@ -23,8 +23,6 @@ Unfortunately, since a RESTful web service is still a web application, it may co
 
 There are several well-known web security scanners. One of them is [w3af](https://github.com/andresriancho/w3af)&nbsp;created by&nbsp;[Andres Riancho](https://github.com/andresriancho). I'll focus on this scanner in the post.
 
-
-
 ## Discovering API endpoints to scan
 
 A web scanner usually tries to browse a web site to find all available pages and parameters which then can be tested for vulnerabilities. In case of a typical web site, a scanner often starts from a home page, and looks for links to other pages in the HTML code. But this approach doesn't work with web APIs because usually API endpoints don't serve HTML data, and APIs usually don't refer to each other in their replies.

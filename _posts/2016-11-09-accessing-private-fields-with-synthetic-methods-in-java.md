@@ -20,8 +20,6 @@ In Java, you can&nbsp;define one class B inside another class A. Class B is call
 
 Class A has a private field "secret". This private field can be accessed by both A and B classes. But in some cases, this private field can be accessed by other classes in the same package&nbsp;even if neither A or B provide any accessors. It actually depends on what we have in go() method.
 
-
-
 # How does Java compiler compile inner classes?
 
 Let's take a look at the following example:

@@ -18,8 +18,6 @@ permalink: "/ru/travel/road-trip-to-santa-barbara.html"
 
 [peg-image src="https://lh3.googleusercontent.com/-h28SpgEUUYg/WWRthgqI1sI/AAAAAAAALwY/qrAQL4tsDv0csO3fIm1ai7ogxFILivCugCCoYBhgL/s144-o/IMG\_1931.JPG" href="https://picasaweb.google.com/103813056835863838724/6383844083469641761#6441393789516437186" caption="" type="image" alt="Cанта-Барбара" image\_size="1936x2592"]
 
-
-
 Да-да, эта та самая Санта-Барбара из того самого сериала. Помните музыку, да? Та-тара-тааааа, та-тара-та-таааа ... Я бы многое отдал, чтобы только ее забыть. И вот во время этой музыки в начале очередной серии зрители могли видеть заставку с арками. Конечно, эти самые арки нужно было непременно найти. Оказались эти арки в&nbsp;Mission Santa Barbara, которую основали испанцы в далеком девятнадцатом веке, когда приехали на территорию нынешней американской Калифорнии для обращения в правильную веру местных индейцев и разными другими целями. Я надеялся, что музыка из телесериала чудесным образом исчезнет из моей головы, как только я найду заветные арки. Но чуда не произошло.&nbsp;Та-тара-тааааа, та-тара-та-таааа ...
 
 [peg-image src="https://lh3.googleusercontent.com/-tLokQ-oAZlY/WWRthsI55LI/AAAAAAAALwY/Si71s8aItsc5za3eF1Ckw6rSQYChTK-EwCCoYBhgL/s144-o/IMG\_1930.JPG" href="https://picasaweb.google.com/103813056835863838724/6383844083469641761#6441393792598271154" caption="" type="image" alt="Санта-Барбара - арки из сериала" image\_size="1936x2592"]

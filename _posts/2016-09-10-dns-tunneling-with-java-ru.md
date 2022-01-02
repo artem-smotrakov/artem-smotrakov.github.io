@@ -21,8 +21,6 @@ permalink: "/ru/security-ru/dns-tunneling-with-java-ru.html"
 
 (English version -&nbsp;[DNS tunneling with Java](http://blog.gypsyengineer.com/fun/dns-tunneling-with-java.html))
 
-
-
 ## Что такое DNS туннель
 
 Задачей DNS ([Domain Name System](https://ru.wikipedia.org/wiki/DNS)) является преобразование доменного имени в IP адрес. Когда кто-то хочет узнать IP адрес для какого-то доменного имени, он посылает запрос к DNS серверу. Но этот сервер может не знать&nbsp;ответы на все вопросы. Поэтому DNS запросы часто бывают рекурсивными. Это значит, что DNS сервер может обратиться к другому DNS серверу, если он не знает IP адреса для какого-то имени.

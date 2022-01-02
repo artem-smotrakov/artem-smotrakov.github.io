@@ -19,8 +19,6 @@ permalink: "/en/security/msgpack-fuzzing.html"
 
 ![]({{ site.baseurl }}/assets/images/2017/01/msgpack_fuzzing_afl-300x202.png)
 
-
-
 As you can see on the picture above, we are going to use American Fuzzy Lop (AFL) because it's just a great tool. First, we need to clone the repo, and build msgpack with AFL. We are going to use AddressSanitizer (ASan) - it's another great tool. If you have not heard about it - it's a fast and cool memory checker which can detect issues like read/write buffer overflows, use-after-free, etc.
 
 # Fuzzing MessagePack with American Fuzzy Lop

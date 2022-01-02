@@ -22,8 +22,6 @@ I use Linux, no fancy GUI, sorry.
 
 ![STM32 board, ST-LINK/V2 debugger/programmer]({{ site.baseurl }}/assets/images/2016/07/20160709_205012-2.jpg)
 
-
-
 Before I started, of course I asked Google how people work with STM32 on Linux. I found two good articles which helped me a lot:
 
 1. [STM32 Discovery Development On Linux](http://www.wolinlabs.com/blog/linux.stm32.discovery.gcc.html) - this article is about STM32F4Discovery which has an ST-LINK/V2 debugger/programmer. But I had only STM32F103 board which is similar, but still a little bit different.

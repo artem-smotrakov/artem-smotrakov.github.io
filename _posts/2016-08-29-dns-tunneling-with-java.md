@@ -19,8 +19,6 @@ DNS tunneling may help you to bypass a firewall if DNS requests are allowed. Or,
 
 (русская версия -&nbsp;[Java и свет в конце DNS туннеля](http://blog.gypsyengineer.com/fun-ru/dns-tunneling-with-java-ru.html))
 
-
-
 ## What is DNS tunneling?
 
 The purpose of DNS (Domain Name System) protocol is to convert a domain name to an IP address. DNS requests&nbsp;are usually recursive. In other words, if a DNS server doesn’t know how it can resolve&nbsp;a domain name, it can&nbsp;send a request to other DNS servers. Let's assume that you are in a private network which has&nbsp;a firewall that blocks all connections to the Internet. Or, you just connected to a&nbsp;Wi-Fi spot&nbsp;which doesn't allow you to connect to the Internet either. Another possible situation is that we&nbsp;were able to deliver an exploit (for example, it may be a Java applet) to some computer in a private network. The exploit gives us an access to some&nbsp;machine in the internal network, but we can't establish a usual TCP connection to it because of a corporate firewall. If the&nbsp;firewall blocks usual TCP/UDP connections to machines outside the private network, but allows DNS requests, then it may be possible to establish a DNS tunnel which allows to transfer data outside the private network.

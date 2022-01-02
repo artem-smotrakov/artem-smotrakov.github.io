@@ -30,8 +30,6 @@ Java 11 was released on Sep 25th, 2018. This is the first long-term support rele
 
 Although all these features are pretty cool, let's focus on security in this post.
 
-
-
 ## Transport Layer Security (TLS) 1.3
 
 TLS 1.3 specification was published in August 2018, and Java 11 already supports a minimal implementation of the new protocol. Here is what the JEP authors says:

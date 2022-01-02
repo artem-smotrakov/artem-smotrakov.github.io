@@ -20,8 +20,6 @@ Everybody knows about SQL injections. It's like a celebrity in the world of soft
 
 [Версия на русском.](/fun-ru/security-ru/ldap-injections-ru.html)
 
-
-
 ## What is LDAP?
 
 LDAP stands for Lightweight Directory Access Protocol. It's a client-server binary protocol which lets clients access directory services. LDAP normally runs over TCP/IP, but it's also much better to use TLS.&nbsp;LDAP is defined in [RFC 2251](https://www.ietf.org/rfc/rfc2251.txt).

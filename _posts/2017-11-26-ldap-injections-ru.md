@@ -20,8 +20,6 @@ permalink: "/ru/security-ru/ldap-injections-ru.html"
 
 [English version is here.](/fun/security/ldap-injections.html)
 
-
-
 ## Что такое LDAP?
 
 LDAP означает Lightweight Directory Access Protocol. Это сетевой протокол прикладного уровня для доступа к так называемой службе каталогов. Протокол является не текстовым (как, например, HTTP), а бинарным. LDAP протокол обычно используется поверх TCP/IP, но лучше еще использовать в рамках TLS соединения. За подробностями о LDAP протоколе стоит обратиться к&nbsp;[RFC 2251](https://www.ietf.org/rfc/rfc2251.txt).

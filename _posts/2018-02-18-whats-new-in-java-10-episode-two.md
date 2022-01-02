@@ -21,8 +21,6 @@ Java 10 is coming in March 2018. This release contains quite a lot of enhancemen
 
 Here is a digest of the rest of the main features in Java 10 which weren't covered in the [previous post](/en/tech/what-is-new-in-java-10-episode-one.html). Enjoy!
 
-
-
 ## Time-Based Release Versioning
 
 Just to make it easy and clear from the very beginning, here is how [JEP 322](http://openjdk.java.net/jeps/322)&nbsp;defines the new format of Java version format:

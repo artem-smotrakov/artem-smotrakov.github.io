@@ -19,8 +19,6 @@ I am a beginner in electronics, and just learned that LEDs and microcontroller's
 
 [peg-image src="https://lh3.googleusercontent.com/-GzIpnAzXJn8/V3hxKVXjzCI/AAAAAAAAEo4/GgrEO8C0K0sNmIU1zMxJLahjXMzAeKx\_wCHM/s144-o/20160702\_185719.jpg" href="https://picasaweb.google.com/103813056835863838724/6302552616686914609?locked=true#6302912100853599266" caption="STM32, a resistor, an LED" type="image" alt="STM32, a resistor, an LED" image\_size="3264x2448"]
 
-
-
 A current limiting resistor should be used for driving an LED from a microcontroller's I/O pin to limit the current through the LED. The max current value for an LED can be found in its datasheet. It is usually around 20mA. Another reason for using a current limiting resistor is that microcontroller's I/O ports have a maximum I/O current rating. It can be found in a datasheet for microcontroller you use. For example, it is 25mA for STM32F103&nbsp;(see "Table 7. Current characteristics" in&nbsp;[datasheet](http://www.st.com/content/ccc/resource/technical/document/datasheet/33/d4/6f/1d/df/0b/4c/6d/CD00161566.pdf/files/CD00161566.pdf/jcr:content/translations/en.CD00161566.pdf)).&nbsp;
 
 To calculate the value for a current limiting resistor, you just need to use your favorite&nbsp;[Ohm's law](https://en.wikipedia.org/wiki/Ohm%27s_law). Here is a circuit and calculations.

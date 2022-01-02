@@ -31,8 +31,6 @@ Here is a tutorial how to get started with ESP8266 and MicroPython.
 
 ![ESP8266 ESP-07 and other little things]({{ site.baseurl }}/assets/images/2017/02/all_parts.jpg)
 
-
-
 ## Hardware: ESP8266 ESP-07 and other little things
 
 If I remember correctly, there are about 12 types of ESP8266 boards. I used ESP-07 board which looks like this:
@@ -197,8 +195,6 @@ Type "help()" for more information.
 
 Have fun!
 
-
-
 - 
 [![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170212_121132.jpg)](/wp-content/uploads/2019/05/IMG_20170212_121132.jpg)
 - 
@@ -224,15 +220,7 @@ Have fun!
 - 
 [![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_184318.jpg)](/wp-content/uploads/2019/05/IMG_20170211_184318.jpg)
 
-
-
-
-
 Links:
-
-
-
-
 
 - [http://www.esp8266.com/wiki/doku.php?id=esp8266-module-family#esp-07](http://www.esp8266.com/wiki/doku.php?id=esp8266-module-family#esp-07)
 - [https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/intro.html](https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/intro.html)
@@ -241,6 +229,4 @@ Links:
 - [https://forum.micropython.org/viewtopic.php?t=2277](https://forum.micropython.org/viewtopic.php?t=2277)
 - [https://zoetrope.io/tech-blog/esp8266-bootloader-modes-and-gpio-state-startup](https://zoetrope.io/tech-blog/esp8266-bootloader-modes-and-gpio-state-startup)
 - [http://docs.micropython.org/en/latest/wipy/library/machine.Pin.html](http://docs.micropython.org/en/latest/wipy/library/machine.Pin.html)
-
-
 

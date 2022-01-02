@@ -20,8 +20,6 @@ In most cases, REST APIs should be accessed only by authorized parties. Spring f
 
 This post contains a list of things which may be good to pay attention to when you configure or review authentication and authorization settings for a RESTful application based on Spring (boot) framework. However this is not a comprehensive guideline (if such a guideline even exist) which tells how to configure authentication and authorization for an application based on Spring framework. It's more like a collection of tips and suggestions. Furthermore, any other suggestions and comments are more than welcome.
 
-
-
 ## Consider using OAuth2 or JWT
 
 Usually only authorized users or applications should be able to access a RESTful service. A RESTful web application doesn't normally use HTTP sessions. Instead, it performs access checks for each incoming request.

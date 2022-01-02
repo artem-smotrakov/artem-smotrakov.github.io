@@ -25,8 +25,6 @@ Since Java 10 is coming, it's time to have a look at the JEPs (Java Enhancement 
 
 &nbsp;
 
-
-
 ## Local-Variable Type Inference
 
 This is a new language feature which is supposed to enhance the Java language to extend type inference to declarations of local variables with initializers. Here is what the JEP says:

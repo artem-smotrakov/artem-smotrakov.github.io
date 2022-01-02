@@ -18,8 +18,6 @@ permalink: "/ru/travel/17-mile-drive-and-carmel.html"
 Чуть к югу от Мортерея (Monterey) в Калифорнии есть городок Кармел (Carmel-By-The-Sea). А между ними и немного западнее находится место, которое называется "17 mile drive". Как можно догадаться из названия, это некая дорога длиной в 17 миль. Мне года четыре рекомендовали туда съездить многие люди, потому что там очень красиво. Через четыре года я все-таки собрался.
 
 [peg-image src="https://lh3.googleusercontent.com/-Mrqs4RzyR6Q/V\_MQFAoYkHI/AAAAAAAAFz8/cls46hpB7hcKn96Rt5tEJgnqIIXzi5IhwCCo/s144-o/IMG\_1140.JPG" href="https://picasaweb.google.com/103813056835863838724/6337426780914798833?locked=true#6337426778895192178" caption="" type="image" alt="17 mile drive" image\_size="2592x1936"]  
-
-
 Путь из Силиконовой долины до Монтерея и Кармела занимает час с небольшим. Но можно угодить в дорожные заторы по выходным и праздничным дням, так как эти живописные места на побережье Тихого океана пользуются популярностью у инженеров и менеджеров Силиконовой долины.
 
 <iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d72485.73169489407!2d-121.96257650769337!3d36.59154132101229!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808de6e008683029%3A0xf60f00fae44f5865!2sDel+Monte+Forest%2C+CA%2C+USA!5e0!3m2!1sen!2sru!4v1475560852350" width="600" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

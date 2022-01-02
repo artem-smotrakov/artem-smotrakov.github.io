@@ -21,8 +21,6 @@ Code coverage analysis is used in software testing to discover untested pieces o
 
 Let's try to gather some code coverage data during fuzzing. As an example, we're going to test [picotls](https://github.com/h2o/picotls) with [tlsbunny](https://github.com/artem-smotrakov/tlsbunny). Picotls is an implementation of TLS 1.3 protocol written in C, and tlsbunny&nbsp;is a framework for building negative tests and fuzzers for TLS 1.3 implementations. We're going to use [gcov](https://gcc.gnu.org/onlinedocs/gcc-8.1.0/gcc/Gcov.html) for gathering code coverage data, and [lcov](http://ltp.sourceforge.net/coverage/lcov.php) for creating a report.
 
-
-
 ## Instrumenting an application with gcov
 
 Gcov works together with gcc compiler. It can be easily enabled by passing `-fprofile-arcs -ftest-coverage` flags to gcc. You only need to make sure that you passed the flags to all gcc invocations during building your application. Typically, the flags can be added to `CFLAGS` or similar environment variables.

@@ -20,8 +20,6 @@ The Java team has published the “Oracle JRE and JDK Cryptographic Roadmap” a
 
 &nbsp;
 
-
-
 JRE and JDK Cryptographic Roadmap describes&nbsp;the planned changes for crypto algorithms and protocols supported in Oracle's JRE and JDK. This roadmap contains the most up-to-date information about&nbsp;the planned changes to all supported Java versions which currently are&nbsp;JDK 8, JDK 7, JDK 6, and JRockit 6 (R28). It also contains information about Early Access builds of next feature release which currently is JDK 9.
 
 ## Upcoming planned updates

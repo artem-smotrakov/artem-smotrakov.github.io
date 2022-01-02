@@ -19,8 +19,6 @@ permalink: "/en/security/fuzzing-gui-applications-abiword.html"
 ---
 Usually there is no problem if you want to fuzz a headless application. A headless application&nbsp;can be run just in a terminal, and doesn't have any GUI. You can&nbsp;pick up your favorite fuzzer, and feed fuzzed data to the application. Normally, a headless application just processes data, and then quits or crashes right away. But it may be different if you are trying to fuzz an application with GUI. Let's try to fuzz an open source text editor AbiWord.
 
-
-
 There may be a couple of problems with fuzzing a GUI application. A GUI application may continue working after you feed an invalid data to it. Usually it's a normal behavior&nbsp;for a GUI application. For example, you can try to open an invalid document in AbiWord. Then, it just lets you know that it could not open the document, and continues working (the AbiWord main window is still there). That's an expected and correct behavior.
 
 But while fuzzing we want to feed an application lots of invalid data. If we have to close the application manually each time when it opens an invalid document, it's probably not what we want.

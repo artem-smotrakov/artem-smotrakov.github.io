@@ -17,8 +17,6 @@ permalink: "/en/security/running-java-with-addresssanitizer.html"
 ---
 OpenJDK and AddressSanitizer are well-known open source projects. OpenJDK sources contain C/C++ code which may be affected by memory corruption issues and memory leaks. Such issues may be detected at runtime with memory checkers like AddressSanitizer. Now it's going to be easier to use AddressSanitizer for OpenJDK development to check for memory corruptions and leaks.
 
-
-
 ## What is AddressSanitizer?
 
 AddressSanitizer (aka ASan) is a memory error detector for C/C++ which looks for issues like read/write buffer overruns, use-after-free issues and memory leaks. Basically AddressSanitizer instruments C/C++ code with additional checks which allows to detect memory corruptions when the instrumented code is running. This tools is available in GCC 4.8+ and Clang 3.1+ and is supported on multiple platforms including Linux x64 and MacOS x64. The tools can be enabled by passing `-fsanitize=address` command line options to GCC or Clang compiler and linker. See more details on the official page:

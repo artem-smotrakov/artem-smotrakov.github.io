@@ -126,9 +126,5 @@ minicom --device /dev/ttyUSB0
 
 That's pretty much it. Good luck!
 
-
-
 ![STM32F103, ST-LINK/V2 programmer and debugger and USB-Serial adapter]({{ site.baseurl }}/assets/images/2016/10/IMG_1200.jpg)
-
-
 
