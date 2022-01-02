@@ -31,7 +31,7 @@ Java 13 is going to be released on Sep 17th, 2019. Besides ~2300 bug fixes and s
 
 Sometimes we need to define a long multi-line string in Java. For example, it can be an HTML page or an SQL query. Here is what it usually looks like:
 
-```
+```java
 String html = "<html>\n" +
               " <body>\n" +
               " <p>Hello, world</p>\n" +
@@ -45,7 +45,7 @@ You might have noticed a lot of `\n`, `+` and `"` characters which make the code
 
 Here is how the example above can be re-written using the text blocks:
 
-```
+```java
 String html = """
               <html>
                   <body>
@@ -84,7 +84,7 @@ After the new syntax was introduced in JDK 12, [a request for feedback was sent 
 
 Here is an example which shows how the new `yield` statement may be used:
 
-```
+```java
 int result = switch (s) {
     case "Foo" -> 1;
     case "Bar" -> 2;
@@ -97,7 +97,7 @@ int result = switch (s) {
 
 Here is another example:
 
-```
+```java
 int result = switch (s) {
     case "Foo": 
         yield 1;

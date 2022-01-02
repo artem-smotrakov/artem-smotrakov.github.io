@@ -34,7 +34,7 @@ This update to the Java language was already available in Java 12 and 13 but onl
 
 Let's assume that we have a enum that describes weekdays. Then, we can write the following code using the new switch expressions:
 
-```
+```java
 switch (day) {
     case MONDAY -> System.out.println("Aweful");
     case TUESDAY, WEDNESDAY -> System.out.println("Okay");
@@ -46,7 +46,7 @@ switch (day) {
 
 Here we just used a single expression for each `case`. Note that the `switch` block doesn't use any `break` statement which makes it much shorter. The next example shows how the new switch expressions can return a value:
 
-```
+```java
 int numLetters = switch (day) {
     case MONDAY, FRIDAY, SUNDAY -> 6;
     case TUESDAY -> 7;
@@ -57,7 +57,7 @@ int numLetters = switch (day) {
 
 It's also possible to write multi-line blocks and return a value with a new keyword `yield`:
 
-```
+```java
 int result = switch (s) {
     case "Foo" -> 1;
     case "Bar" -> 2;
@@ -162,7 +162,7 @@ To consume the data provided by JFR, a user has to start a recording, stop it, d
 
 In Java 14, the JFR allows users to subscribe to events asynchronously. Users can now register a handler which is going to be invoked in response to the arrival of an event. The `RecordingStream` class provides a uniform way to filter and consume events. Here is an example provided by the JEP's authors:
 
-```
+```java
 try (var rs = new RecordingStream()) {
   rs.enable("jdk.CPULoad").withPeriod(Duration.ofSeconds(1));
   rs.enable("jdk.JavaMonitorEnter").withThreshold(Duration.ofMillis(10));

@@ -44,7 +44,7 @@ Second, the application should use one of the libraries which contain deserializ
 
 Third, the application enables polymorphic type handling. This feature supports polymorphism which is brought in by object-oriented programming. Making a long story shorter, the feature allows deserializing multiple implementations of a base class. To make it possible, a serialized object should contain a class name which defines a specific implementation of the base class, for example:
 
-```
+```json
 {
     "name": "John Doe",
     "age": 101,

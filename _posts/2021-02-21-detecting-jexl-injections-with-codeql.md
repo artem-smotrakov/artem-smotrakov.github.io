@@ -120,7 +120,7 @@ The query found a couple of interesting issues.
 
 The first finding is an RCE in [OpenNMS/newts](https://github.com/OpenNMS/newts) project ([CVE-2021-3396](https://nvd.nist.gov/vuln/detail/CVE-2021-3396)). The server offers `/measurements/{resource}` [endpoint](https://github.com/OpenNMS/newts/blob/d706eb9e12783b31f4745c232a3cfa212474e68a/rest/src/main/java/org/opennms/newts/rest/MeasurementsResource.java#L62):
 
-```
+```java
 @POST
 @Path("/{resource}")
 @Timed

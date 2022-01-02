@@ -38,7 +38,7 @@ If an attacker doesn't know the key, they can't create a signature for an arbitr
 
 The problem occurs when an application doesn't use a constant-time algorithm for validating a signature. Here is an example of vulnerable code:
 
-```
+```java
 public boolean validate(HttpRequest request, SecretKey key) throws Exception {
     byte[] message = getMessageFrom(request);
     byte[] signature = getSignatureFrom(request);
@@ -56,7 +56,7 @@ The method `Arrays.equals()` returns `false` right away when it sees that one of
 
 It is usually a one-line fix: just use `MessageDigest.isEqual()` for validating a signature. The above code may be fixed just by replacing `Arrays.equals()` with `MessageDigest.isEqual()`:
 
-```
+```java
 public boolean validate(HttpRequest request, SecretKey key) throws Exception {
     byte[] message = getMessageFrom(request);
     byte[] signature = getSignatureFrom(request);

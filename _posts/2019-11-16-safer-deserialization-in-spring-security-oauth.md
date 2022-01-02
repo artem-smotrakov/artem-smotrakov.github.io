@@ -30,7 +30,7 @@ I recently discovered that Spring Security OAuth2 library may be vulnerable to s
 
 Spring Security OAuth2 can store authentication info and user details to a SQL or Redis database. Before storing data to the database, the library serialize it with the default Java serialization mechanism offered by the`ObjectOutputStream`. Then, after reading the data from the database, the library unsafely deserializes it with the `ObjectInputStream` class. See `SerializationUtils` class:
 
-```
+```java
 public static T deserialize(byte[] byteArray) {
          ObjectInputStream oip = null;
          try {
@@ -86,7 +86,7 @@ SerializationUtils.setSerializationStrategy(new WhitelistedSerializationStrategy
 
 Or, the user can implement his own serialization strategy, for example, by extending the `WhitelistedSerializationStrategy` class:
 
-```
+```java
 package org.custom.impl.oauth2;
 
 public class CustomSerializationStrategy
