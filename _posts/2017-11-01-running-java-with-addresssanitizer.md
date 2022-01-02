@@ -49,7 +49,7 @@ permalink: "/en/security/running-java-with-addresssanitizer.html"
 ---
 OpenJDK and AddressSanitizer are well-known open source projects. OpenJDK sources contain C/C++ code which may be affected by memory corruption issues and memory leaks. Such issues may be detected at runtime with memory checkers like AddressSanitizer. Now it's going to be easier to use AddressSanitizer for OpenJDK development to check for memory corruptions and leaks.
 
-<!--more-->
+
 
 ## What is AddressSanitizer?
 

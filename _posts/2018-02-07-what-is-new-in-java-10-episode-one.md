@@ -53,7 +53,7 @@ Since Java 10 is coming, it's time to have a look at the JEPs (Java Enhancement 
 
 &nbsp;
 
-<!--more-->
+
 
 ## Local-Variable Type Inference
 

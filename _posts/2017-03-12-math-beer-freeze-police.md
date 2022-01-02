@@ -36,7 +36,7 @@ permalink: "/en/nonsense-en/math-beer-freeze-police.html"
 ---
 It's 3pm, we came into the room at 8am, so&nbsp;we've been taking our mathematical analysis exam for 7 hours.
 
-<!--more-->
+
 
 We actually didn't&nbsp;say "mathematical analysis ". That's too long and too fancy. We just call it "mathan". I was studying on the faculty of computational mathematics and cybernetics where we had&nbsp;"mathan" classes for two years.
 

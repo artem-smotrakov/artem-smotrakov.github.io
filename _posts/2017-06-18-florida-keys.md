@@ -39,7 +39,7 @@ Florida Keys это цепочка островов, которая тянетс
 
 [peg-image src="https://lh3.googleusercontent.com/-Z22JQt9QjTM/WTO-a12amWI/AAAAAAAAKxs/4VNmAVfpEQoLPznVGxodmR4AgLg1SkKswCCo/s144-o/IMG\_1826.JPG" href="https://picasaweb.google.com/103813056835863838724/6383844083469641761#6427690461529020770" caption="" type="image" alt="Florida Keys - Key West" image\_size="2592x1936"]
 
-<!--more-->
+
 
 Когда едешь в Key West, а это самый западный остров, то можно сказать, что слева находится Атлантический океан, а справа Мексиканский залив. Почему-то это знание мне постоянно грело душу во время путешествий по островам.
 

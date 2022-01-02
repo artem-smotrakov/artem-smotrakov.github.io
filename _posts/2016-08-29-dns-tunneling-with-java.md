@@ -13,33 +13,13 @@ tags:
 - DNS
 - Java
 - Security
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _oembed_1d26b1ed8fd283779530ac103f17e8cd: "{{unknown}}"
-  _aioseop_description: Here is an example which shows an idea how DNS tunneling can
-    be implemented with pure Java.
-  _aioseop_title: DNS tunneling with Java
-  rp4wp_auto_linked: '1'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:3;s:7:"replies";i:2;s:7:"authors";i:2;s:14:"recent_authors";a:2:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:25:"artem.smotrakov@gmail.com";s:14:"comment_author";s:5:"artem";s:7:"user_id";s:1:"1";}i:1;O:8:"stdClass":3:{s:20:"comment_author_email";s:16:"b2n5v7@gmail.com";s:14:"comment_author";s:14:"Коляныч";s:7:"user_id";s:1:"0";}}}
-  _yoast_wpseo_primary_category: '157'
-  _yoast_wpseo_content_score: '30'
-  _yoast_wpseo_focuskw: DNS tunneling
-  _yoast_wpseo_linkdex: '73'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617980070'
 permalink: "/en/security/dns-tunneling-with-java.html"
 ---
 DNS tunneling may help you to bypass a firewall if DNS requests are allowed. Or, it can just get you a free Wi-Fi. There are a number&nbsp;standalone tools which allow you to setup a TCP-over-DNS tunnel.&nbsp;Here is a simple implementation of DNS tunneling with pure Java. It's not ready for using in real world, but it shows an idea how DNS tunneling can be implemented. The implementation works with standard JRE, and doesn't require any additional library.
 
 (русская версия -&nbsp;[Java и свет в конце DNS туннеля](http://blog.gypsyengineer.com/fun-ru/dns-tunneling-with-java-ru.html))
 
-<!--more-->
+
 
 ## What is DNS tunneling?
 

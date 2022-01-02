@@ -14,33 +14,13 @@ tags:
 - Сан-Франциско
 - США
 - Японский сад
-meta:
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_description: По Калифорнии разбросаны маленькие уголки Японии. Например,
-    в центрально парке Сан-Франциско есть японский садик, который называется Japanese
-    Tea Garden.
-  _aioseop_title: Японский сад в Сан-Франциско
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '2'
-  _yoast_wpseo_content_score: '90'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:2;s:7:"replies";i:1;s:7:"authors";i:2;s:14:"recent_authors";a:2:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:25:"artem.smotrakov@gmail.com";s:14:"comment_author";s:5:"artem";s:7:"user_id";s:1:"1";}i:1;O:8:"stdClass":3:{s:20:"comment_author_email";s:16:"b2n5v7@gmail.com";s:14:"comment_author";s:14:"Коляныч";s:7:"user_id";s:1:"0";}}}
-  _yoast_wpseo_focuskw: Сан-Франциско
-  _yoast_wpseo_linkdex: '42'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618328398'
 permalink: "/ru/travel/san-francisco-japanese-tea-garden.html"
 ---
 По Калифорнии разбросаны маленькие уголки Японии. Например, в центральном парке Сан-Франциско есть японский садик "Japanese Tea Garden".
 
 [peg-image src="https://lh3.googleusercontent.com/-uc8mXWHvPHg/V7QBaXldNZI/AAAAAAAAE8A/pWbQmft4KhEvkPDemRmcpIPcW5WNTuJpgCCo/s144-o/IMG\_0043.JPG" href="https://picasaweb.google.com/103813056835863838724/6319677731791691937?locked=true#6319677729626994066" caption="Japanese Tea Garden in San Francisco" type="image" alt="Japanese Tea Garden в Сан-Франциско" image\_size="2592x1936"]
 
-<!--more-->
+
 
 Центральный парк в Сан-Франциско называется&nbsp;Golden Gate Park. Ничего удивительного - Золотые ворота кругом. Парк этот очень большой - такой огромный прямоугольник на карте города. Японский садик притаился&nbsp;где-то посередине парка:
 

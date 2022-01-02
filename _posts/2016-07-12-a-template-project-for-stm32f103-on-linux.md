@@ -12,32 +12,6 @@ categories:
 tags:
 - Electronics
 - STM32
-meta:
-  blogger_blog: blog.gypsyengineer.com
-  blogger_author: Artem Smotrakov
-  blogger_permalink: "/2016/07/template-project-stm32f103-linux.html"
-  blogger_internal: "/feeds/5492409931645402059/posts/default/3793754660136554770"
-  _edit_last: '1'
-  _wp_rp_image: empty
-  _syntaxhighlighter_encoded: '1'
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  mask_links: default
-  _aioseop_description: 'A simple template project for STM32 microcontroller (STM32F103)
-    on Linux: driving an LED, ST-LINK/V2 debugger and programmer, Standard Peripheral
-    Library.'
-  _aioseop_title: A template project for STM32
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_content_score: '90'
-  _yoast_wpseo_primary_category: '155'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:5;s:7:"replies";i:6;s:7:"authors";i:6;s:14:"recent_authors";a:5:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:25:"artem.smotrakov@gmail.com";s:14:"comment_author";s:5:"Artem";s:7:"user_id";s:1:"1";}i:1;O:8:"stdClass":3:{s:20:"comment_author_email";s:17:"1912193931@qq.com";s:14:"comment_author";s:6:"CHIPPY";s:7:"user_id";s:1:"0";}i:2;O:8:"stdClass":3:{s:20:"comment_author_email";s:16:"Ivan@hotmail.com";s:14:"comment_author";s:4:"Ivan";s:7:"user_id";s:1:"0";}i:3;O:8:"stdClass":3:{s:20:"comment_author_email";s:17:"eduaug7@gmail.com";s:14:"comment_author";s:7:"Eduardo";s:7:"user_id";s:1:"0";}i:4;O:8:"stdClass":3:{s:20:"comment_author_email";s:22:"darioscorp@hotmail.com";s:14:"comment_author";s:10:"Darioscorp";s:7:"user_id";s:1:"0";}}}
-  _yoast_wpseo_focuskw: STM32
-  _yoast_wpseo_linkdex: '60'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1617984668'
 permalink: "/en/diy-electronics/a-template-project-for-stm32f103-on-linux.html"
 ---
 I am a beginner in electronics and programming for microcontrollers, so traditionally I started from driving an LED which is a 'Hello World!' project in microcontrollers world. I started with STM32 controller (STM32F103) which is ARM, and I can use C language.
@@ -48,7 +22,7 @@ I use Linux, no fancy GUI, sorry.
 
 ![STM32 board, ST-LINK/V2 debugger/programmer]({{ site.baseurl }}/assets/images/2016/07/20160709_205012-2.jpg)
 
-<!--more-->
+
 
 Before I started, of course I asked Google how people work with STM32 on Linux. I found two good articles which helped me a lot:
 

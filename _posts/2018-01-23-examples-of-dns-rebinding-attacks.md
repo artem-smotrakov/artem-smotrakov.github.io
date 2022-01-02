@@ -39,7 +39,7 @@ meta:
 permalink: "/en/security/examples-of-dns-rebinding-attacks.html"
 ---
 <p style="text-align: justify;">DNS rebinding attacks have been known for quite a long time. For example, Stanford Web Security Research Team posted <a href="https://crypto.stanford.edu/dns/">a whitepaper about DNS rebinding attacks</a> in 2007. But even if it's a well-known type of attacks, nowadays you still can find software systems which are vulnerable to DNS rebinding attacks. For example, Google Project Zero recently discovered such <a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1471&amp;desc=2">problems in Blizzard Update Agent</a> and <a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1447">BitTorent Transmission Daemon</a>.</p>
-<p><!--more--></p>
+<p></p>
 <h2>What is Same-Origin Policy?</h2>
 <p style="text-align: justify;">Theoretically, Same-Origin Policy (SOP) which is implemented in a web browser is supposed to prevent scripts on client side to load resources from other websites (except a couple of cases which are considered safe enough). In other words, scripts on client side are only allowed to access content on the same host that served the script. One of the key steps here is comparing domain names. Let's assume that a web browser opens <code>http://ostap.com/index.html</code> which contains code on Javascript. The Javascript code then tries to use <code>XMLHttpRequest</code> to download the content of <code>http://hooves.com/secret.html</code> and display it. This attempt should be denied by the web browser if it enforces SOP because SOP allows a script to access only content from <code>ostap.com</code>.</p>
 <h2>Why Same-Origin Policy is important?</h2>

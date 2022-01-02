@@ -50,7 +50,7 @@ Java 10 должна увидеть свет в марте 2018. Это буде
 
 &nbsp;
 
-<!--more-->
+
 
 ## Local-Variable Type Inference
 

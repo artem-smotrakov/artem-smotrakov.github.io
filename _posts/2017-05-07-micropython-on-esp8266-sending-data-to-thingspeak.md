@@ -46,7 +46,7 @@ permalink: "/ru/diy-electronics-ru/micropython-on-esp8266-sending-data-to-things
 
 English version -&nbsp;[MicroPython on ESP8266: sending data to ThingSpeak](/fun/diy-electronics/micropython-esp8266-sending-data-to-thingspeak.html)
 
-<!--more-->
+
 
 # Железо и схема: ESP8266 (ESP-07) и DHT22
 

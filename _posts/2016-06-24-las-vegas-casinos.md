@@ -13,39 +13,6 @@ tags:
 - Лас-Вегас
 - Невада
 - США
-meta:
-  blogger_blog: blog.gypsyengineer.com
-  blogger_author: Artem Smotrakov
-  blogger_permalink: "/2016/06/blog-post_24.html"
-  blogger_internal: "/feeds/5492409931645402059/posts/default/6174618885987311267"
-  geo_latitude: '36.1699412'
-  geo_longitude: "-115.1398296"
-  geo_public: '1'
-  geo_address: Las Vegas, NV, USA
-  _edit_last: '1'
-  _wp_old_slug: "%d1%87%d1%82%d0%be-%d0%b5%d1%81%d1%82%d1%8c-%d0%b2-%d0%bf%d1%83%d1%81%d1%82%d1%8b%d0%bd%d0%b5-%d0%bc%d0%be%d1%85%d0%b0%d0%b2%d0%b5"
-  _wp_rp_image: empty
-  _wp_rp_related_posts_query_result_cache_expiration: '1473136076'
-  _wp_rp_related_posts_query_result_cache_6: a:9:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:2:"72";s:5:"score";s:17:"40.07552908422958";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:2:"63";s:5:"score";s:18:"18.313923113533463";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:2:"67";s:5:"score";s:18:"10.555127556509323";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:2:"70";s:5:"score";s:17:"8.820126422099879";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:2:"59";s:5:"score";s:17:"7.433832060979986";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:2:"64";s:5:"score";s:17:"6.987544958351567";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:2:"62";s:5:"score";s:18:"3.4700022690188925";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:2:"69";s:5:"score";s:18:"2.7566523819414277";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:2:"66";s:5:"score";s:18:"1.8729868767833489";}}
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_description: 'Фотографии основных отелей-казино Лас Вегаса: Excalibur,
-    New York, Luxor, Mirage, Paris, Venetian, Bellagio, Caesars Palace, Treasure Island,
-    Stratosphere.'
-  _aioseop_title: Казино Лас Вегаса
-  rp4wp_auto_linked: '1'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:3;s:7:"replies";i:0;s:7:"authors";i:2;s:14:"recent_authors";a:3:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:19:"zairovakarina@bk.ru";s:14:"comment_author";s:16:"мываымым";s:7:"user_id";s:1:"0";}i:1;O:8:"stdClass":3:{s:20:"comment_author_email";s:19:"noreply@blogger.com";s:14:"comment_author";s:10:"Iren
-    Sunny";s:7:"user_id";s:1:"0";}i:2;O:8:"stdClass":3:{s:20:"comment_author_email";s:19:"noreply@blogger.com";s:14:"comment_author";s:15:"Artem
-    Smotrakov";s:7:"user_id";s:1:"0";}}}
-  _yoast_wpseo_primary_category: '2'
-  _yoast_wpseo_focuskw: Лас-Вегас
-  _yoast_wpseo_linkdex: '54'
-  _yoast_wpseo_content_score: '90'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618017194'
 permalink: "/ru/travel/las-vegas-casinos.html"
 ---
 Про то, как не надо ездить в Лас-Вегас уже было [написано](http://blog.gypsyengineer.com/travel/las-vegas.html). А здесь то, что было сфотографированно. Посвящается моему первому читателю.
@@ -55,7 +22,7 @@ permalink: "/ru/travel/las-vegas-casinos.html"
 
 Наверное я все-таки фотографировал казино.
 
-<!--more-->Казино Excalibur выглядит, как сказочный замок. Из этого казино идет небольшой поезд до казино Luxor и Mandalay Bay. К сожалению, я этого не знал, и увидев черную пирамиду Luxor'а в первый раз, пошел туда пешком. Это были сложные двадцать минут. Солнце было беспощадно. Но сфинксу, кажется, все равно.
+Казино Excalibur выглядит, как сказочный замок. Из этого казино идет небольшой поезд до казино Luxor и Mandalay Bay. К сожалению, я этого не знал, и увидев черную пирамиду Luxor'а в первый раз, пошел туда пешком. Это были сложные двадцать минут. Солнце было беспощадно. Но сфинксу, кажется, все равно.
 
 | [![]({{ site.baseurl }}/assets/images/2016/06/IMG_0717.JPG)](https://3.bp.blogspot.com/-ouwux6YNaN4/V2bomq_qfZI/AAAAAAAAEdU/-kDrJASiyOw2NqRxTlj3FBh1H7Mdix-xwCKgB/s1600/IMG_0717.JPG) |
 | Это не Египет. Это Luxor. |

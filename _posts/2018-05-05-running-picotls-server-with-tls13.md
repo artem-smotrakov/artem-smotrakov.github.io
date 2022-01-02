@@ -41,7 +41,7 @@ permalink: "/en/tips-and-tricks-en/running-picotls-server-with-tls13.html"
 
 I have been experimenting with TLS 1.3 in [tlsbunny](https://github.com/artem-smotrakov/tlsbunny) project. This is a framework for building negative tests and fuzzers for TLS 1.3 implementations. For example, tlsbunny has several simple fuzzers for TLS structures like TLSPlaintext, Handshake, ClientHello, etc. It would not be worse to run those fuzzers against picotls server.
 
-<!--more-->
+
 
 picotls is a tiny TLS 1.3 implementation, so building takes less than a minute. But I'd like to have a couple of features:
 

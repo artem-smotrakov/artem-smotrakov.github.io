@@ -46,7 +46,7 @@ permalink: "/ru/travel/trip-in-california-nevada-arizona.html"
 
 <iframe src="https://www.google.com/maps/d/embed?mid=13AaBHg9UjsvdZLcnct8OEragjU0" width="640" height="480"></iframe>
 
-<!--more-->
+
 
 У меня этот маршрут занял семь дней, но гораздо приятней растянуть удовольствие. Так что, если у вас есть больше недели, то лучше провести побольше времени в некоторых местах, о которых ниже.
 

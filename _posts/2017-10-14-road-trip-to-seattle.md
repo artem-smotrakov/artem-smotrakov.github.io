@@ -43,7 +43,7 @@ permalink: "/ru/travel/road-trip-to-seattle.html"
 
 ![Сиэтл]({{ site.baseurl }}/assets/images/2017/10/seattle.jpg)
 
-<!--more-->
+
 
 # Состав экспедиции
 

@@ -13,44 +13,13 @@ tags:
 - Аризона
 - Невада
 - США
-meta:
-  blogger_blog: blog.gypsyengineer.com
-  blogger_author: Artem Smotrakov
-  blogger_permalink: "/2016/07/hoover-dam.html"
-  blogger_internal: "/feeds/5492409931645402059/posts/default/9169408113515891776"
-  geo_latitude: '36.0160655'
-  geo_longitude: "-114.7377325"
-  geo_public: '1'
-  geo_address: Hoover Dam, Nevada 89005, USA
-  _edit_last: '1'
-  _wp_rp_image: empty
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  mask_links: default
-  _aioseop_description: Если вы случайно оказались в Лас-Вегасе, уже просадили все
-    денежки и думаете, чем бы еще заняться, то поезжайте смотреть дамбу Гувера (Hoover
-    Dam).
-  _aioseop_title: Дамба Гувера (Hoover Dam)
-  rp4wp_auto_linked: '1'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:14;s:7:"replies";i:0;s:7:"authors";i:1;s:14:"recent_authors";a:2:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:19:"noreply@blogger.com";s:14:"comment_author";s:10:"Iren
-    Sunny";s:7:"user_id";s:1:"0";}i:1;O:8:"stdClass":3:{s:20:"comment_author_email";s:19:"noreply@blogger.com";s:14:"comment_author";s:15:"Artem
-    Smotrakov";s:7:"user_id";s:1:"0";}}}
-  _yoast_wpseo_primary_category: '2'
-  _yoast_wpseo_focuskw: Дамба Гувера
-  _yoast_wpseo_linkdex: '53'
-  _yoast_wpseo_content_score: '90'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618017189'
 permalink: "/ru/travel/hoover-dam.html"
 ---
 Если вы случайно оказались в Лас-Вегасе, уже просадили все денежки и думаете, чем бы еще заняться, то поезжайте смотреть дамбу Гувера (Hoover Dam), которая как раз располагается недалеко от американской столицы казино.
 
 [peg-image src="https://lh3.googleusercontent.com/-9UsuzyvfM0k/V13JKtcU8JI/AAAAAAAAEgw/S8aDSNGG6QstIng2BXhbr2YYhCJ7j5\_GwCHM/s144-o/IMG\_0753.JPG" href="https://picasaweb.google.com/103813056835863838724/6295409039941752545?locked=true#6295409039968104594" caption="Плотина Гувера, США (Hoover Dam)" type="image" alt="Дамба Гувера - Hoover Dam" image\_size="2052x1532"]
 
-<!--more-->
+
 
 ## Где находится дамба Гувера
 

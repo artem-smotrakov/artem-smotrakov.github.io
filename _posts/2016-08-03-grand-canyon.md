@@ -13,50 +13,13 @@ tags:
 - Аризона
 - Природа
 - США
-meta:
-  blogger_blog: blog.gypsyengineer.com
-  blogger_author: Artem Smotrakov
-  blogger_permalink: "/2016/08/grand-canyon.html"
-  blogger_internal: "/feeds/5492409931645402059/posts/default/3878066711678783196"
-  geo_latitude: '36.0544445'
-  geo_longitude: "-112.1401108"
-  geo_public: '1'
-  geo_address: Grand Canyon Village, AZ 86023, USA
-  _edit_last: '1'
-  _wp_old_slug: grand-canyon-%d0%b3%d0%be%d1%80%d0%b0-%d0%b2%d0%bd%d0%b8%d0%b7
-  _wp_rp_image: '87'
-  _wp_rp_related_posts_query_result_cache_expiration: '1473137577'
-  _wp_rp_related_posts_query_result_cache_6: a:9:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:2:"63";s:5:"score";s:18:"28.806325845351505";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:2:"70";s:5:"score";s:18:"18.760210216161884";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:2:"67";s:5:"score";s:18:"18.760210216161884";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:2:"72";s:5:"score";s:17:"6.720482173902521";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:2:"71";s:5:"score";s:17:"6.720482173902521";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:2:"64";s:5:"score";s:17:"6.274195071274102";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:2:"66";s:5:"score";s:16:"3.66516292749662";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:2:"69";s:5:"score";s:18:"0.6570081337440722";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:2:"62";s:5:"score";s:18:"0.6570081337440722";}}
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  mask_links: default
-  _aioseop_description: 'Большой каньон или Гранд-каньон (Grand Canyon): национальный
-    парк в штате Аризона, где находится, как добраться, а также всемирное наследие
-    ЮНЕСКО.'
-  _aioseop_title: Большой каньон (Гранд-каньон)
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_content_score: '90'
-  _yoast_wpseo_focuskw_text_input: Большой каньон
-  _yoast_wpseo_focuskw: Большой каньон
-  _yoast_wpseo_metadesc: Если вы находитесь в Лас-Вегасе, и уже съездили на плотину
-    Гувера, и конечно же спустили всё нажитое непосильным трудом, то самое время посмотреть
-    на Большой каньон (Grand Canyon). Это такой национальный парк в США.
-  _yoast_wpseo_linkdex: '94'
-  _yoast_wpseo_primary_category: ''
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:4;s:7:"replies";i:0;s:7:"authors";i:1;s:14:"recent_authors";a:2:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:19:"noreply@blogger.com";s:14:"comment_author";s:14:"Маришка";s:7:"user_id";s:1:"0";}i:1;O:8:"stdClass":3:{s:20:"comment_author_email";s:19:"noreply@blogger.com";s:14:"comment_author";s:15:"Artem
-    Smotrakov";s:7:"user_id";s:1:"0";}}}
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618017185'
 permalink: "/ru/travel/grand-canyon.html"
 ---
 Если вы находитесь в Лас-Вегасе, и уже съездили на плотину Гувера, и конечно же спустили всё нажитое непосильным трудом, то самое время посмотреть на Большой каньон (Grand Canyon). Это такой национальный парк в США.
 
 [caption id="" align="aligncenter" width="600"] ![Большой каньон, США]({{ site.baseurl }}/assets/images/2016/08/IMG_0788.JPG) Большой каньон, США[/caption]
 
-<!--more-->
+
 
 ## Где находится Большой каньон и как туда добраться
 

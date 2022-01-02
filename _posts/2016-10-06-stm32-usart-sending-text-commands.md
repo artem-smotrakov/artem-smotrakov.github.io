@@ -40,7 +40,7 @@ If you think that your STM32 board feels lonely, you can connect it to your lapt
 
 ![STM32F103, ST-LINK/V2 programmer/debugger and USB-Serial adapter]({{ site.baseurl }}/assets/images/2016/10/IMG_1202.jpg)
 
-<!--more-->I used a [template project for STM32](http://blog.gypsyengineer.com/fun/a-template-project-for-stm32f103-on-linux.html)&nbsp;which I have described earlier. Everything that I described in that&nbsp;post applies here (same components, same software, same commands). But source code became a little bit more complicated:
+I used a [template project for STM32](http://blog.gypsyengineer.com/fun/a-template-project-for-stm32f103-on-linux.html)&nbsp;which I have described earlier. Everything that I described in that&nbsp;post applies here (same components, same software, same commands). But source code became a little bit more complicated:
 
 [https://github.com/artem-smotrakov/stm32f103-usb-commands](https://github.com/artem-smotrakov/stm32f103-usb-commands)
 
@@ -148,9 +148,9 @@ minicom --device /dev/ttyUSB0
 
 That's pretty much it. Good luck!
 
-<!-- wp:image {"align":"center","id":3430} -->
+
 
 ![STM32F103, ST-LINK/V2 programmer and debugger and USB-Serial adapter]({{ site.baseurl }}/assets/images/2016/10/IMG_1200.jpg)
 
-<!-- /wp:image -->
+
 

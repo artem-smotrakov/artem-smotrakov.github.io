@@ -43,7 +43,7 @@ permalink: "/ru/travel/trip-to-dortmund-by-train.html"
 
 ![Поездка в Дортмунд из Берлина]({{ site.baseurl }}/assets/images/2018/03/tmp-1-e1519599025596.jpg)
 
-<!--more-->
+
 
 ## Едем на поезде по Германии
 

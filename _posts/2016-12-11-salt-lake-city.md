@@ -43,7 +43,7 @@ permalink: "/ru/travel/salt-lake-city.html"
 
 ![Salt Lake City]({{ site.baseurl }}/assets/images/2016/12/31222005856_931a9e2f6d_z.jpg)
 
-<!--more-->
+
 
 # Люди в одеялах
 

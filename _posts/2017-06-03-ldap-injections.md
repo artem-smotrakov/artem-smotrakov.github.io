@@ -49,7 +49,7 @@ Everybody knows about SQL injections. It's like a celebrity in the world of soft
 
 [Версия на русском.](/fun-ru/security-ru/ldap-injections-ru.html)
 
-<!--more-->
+
 
 ## What is LDAP?
 

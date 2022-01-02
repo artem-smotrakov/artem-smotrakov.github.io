@@ -51,7 +51,7 @@ permalink: "/ru/travel/road-trip-from-california-to-seattle.html"
 
 <iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m58!1m12!1m3!1d7672109.028692202!2d-123.21891746404269!3d43.61332438883706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m43!3e0!4m5!1s0x808fcae48af93ff5%3A0xb99d8c0aca9f717b!2sSan+Jose%2C+CA%2C+USA!3m2!1d37.3382082!2d-121.8863286!4m5!1s0x809ac672b28397f9%3A0x921f6aaa74197fdb!2sSacramento%2C+CA%2C+USA!3m2!1d38.5815719!2d-121.4943996!4m5!1s0x54cde0d325020841%3A0x8e6a2d01c84b8607!2sMount+Shasta%2C+CA%2C+USA!3m2!1d41.3098746!2d-122.3105666!4m5!1s0x54950b0b7da97427%3A0x1c36b9e6f6d18591!2sPortland%2C+OR%2C+USA!3m2!1d45.5230622!2d-122.6764815!4m5!1s0x5490102c93e83355%3A0x102565466944d59a!2sSeattle%2C+WA%2C+USA!3m2!1d47.6062095!2d-122.3320708!4m5!1s0x54c6170840e5e339%3A0x902bf2e1452fe3a3!2sCrater+Lake+National+Park!3m2!1d42.8684411!2d-122.16847849999999!4m5!1s0x808fcae48af93ff5%3A0xb99d8c0aca9f717b!2sSan+Jose%2C+CA%2C+USA!3m2!1d37.3382082!2d-121.8863286!5e0!3m2!1sen!2sde!4v1516488848582" width="600" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<!--more-->
+
 
 Просто так ехать в машине до Сиэтла и обратно не очень занимательно. Хочется посетить разные интересные места по пути, которых в Америке в изобилии. В итоге на экспедицию было отведено десять дней.
 

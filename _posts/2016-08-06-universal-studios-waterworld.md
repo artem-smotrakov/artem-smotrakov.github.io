@@ -13,32 +13,6 @@ tags:
 - Калифорния
 - Лос-Анджелес
 - США
-meta:
-  blogger_blog: blog.gypsyengineer.com
-  blogger_author: Artem Smotrakov
-  blogger_internal: "/feeds/5492409931645402059/posts/default/4933251328967339149"
-  geo_latitude: '34.1386336'
-  geo_longitude: "-118.3544289"
-  geo_public: '1'
-  geo_address: Studio way, North Hollywood, CA 91602, USA
-  _edit_last: '1'
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_description: "Universal Studios парк в Лос Анджелесе (или просто\r\nЮниверсал
-    парк): Водный мир без Кевина Костнера, Парк Юрского периода, спецэффекты и бывший
-    Дом Ужасов."
-  _aioseop_title: Universal Studios theme park
-  rp4wp_auto_linked: '1'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:1;s:7:"replies";i:1;s:7:"authors";i:2;s:14:"recent_authors";a:2:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:25:"artem.smotrakov@gmail.com";s:14:"comment_author";s:5:"artem";s:7:"user_id";s:1:"1";}i:1;O:8:"stdClass":3:{s:20:"comment_author_email";s:21:"m_savitskaya_@mail.ru";s:14:"comment_author";s:14:"Маришка";s:7:"user_id";s:1:"0";}}}
-  _yoast_wpseo_primary_category: '2'
-  _yoast_wpseo_focuskw: Universal Studios
-  _yoast_wpseo_linkdex: '56'
-  _yoast_wpseo_content_score: '30'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618004240'
 permalink: "/ru/travel/universal-studios-waterworld.html"
 ---
 Возможно вы помните старинный фильм Водный мир (Waterworld) с Кевином Костнером. Я очень хорошо помню, и даже помню, что мне этот фильм очень нравился в нежном возрасте. Как будущему инженегру, мне был очень симпатичен кораблик главного героя, а еще его забавные жабры за ушами. Хотя кораблик мне хотелось заполучить, но вот жабры как-то не очень. Но все-таки речь пойдет не о моих махровых воспоминаниях о беззаботной части моей жизни, а опять об аттракционах Universal Studios (или Юниверсал парк, кому как нравится).
@@ -47,7 +21,7 @@ permalink: "/ru/travel/universal-studios-waterworld.html"
 
 [peg-image src="https://lh3.googleusercontent.com/-sjOYLykPVeo/V4m12M5es5I/AAAAAAAAEpg/EL\_o10HUMm850eBbS72ZfXF-KUoaopfDQCHM/s144-o/20140419\_110716.jpg" href="https://picasaweb.google.com/103813056835863838724/6295420357515541057?locked=true#6307772695888966546" caption="Шрек и Ослик тоже при деле." type="image" alt="Universal Studios - Shrek" image\_size="2448x3264" peg\_caption="1" peg\_title="1"]
 
-<!--more-->
+
 
 Среди аттракционов Universal Studios theme park есть один, который как раз посвящен фильму Водный мир. Если быть точным, то это не аттракцион, а театрализованное представление. Толпу жаждущих зрителей запускают в театр под открытым небом и распределяют по трем секциям. В отличие от обычных театров, сцена для этого спектакля не твердая, а жидкая. Декорации напоминают тот самый плавающий городок из водного мира. То ли это баржа какая-то была, то ли сухогруз. Закрываю я глаза, и передо мной так и предстают рабочие завода, которые старательно изготовляют баржу или сухогруз в темном доке завода. Пилят, варят, кричат крановщику "майна-майна", матерятся и опять кричат. Но никто из них не представляет, что когда растают все ледники на земле, то по их сухогрузу или барже будет скакать Кевин Костнер с жабрами за ухом. Хотя если бы они об этом знали, то сухогруз, или может даже, ледокол, получился бы куда лучше той развалины, которая плавала по просторам мирового океана в фильме Водный мир. Именно плавала, а не ходила, как обычно говорят моряки.&nbsp;Потому что та развалина из Водного мира как раз напоминает то, что по выражению тех же моряков, плавает. А вот декорации спектакля очень хорошо передают степень изношенности и негодности оригинального плавательного средства из фильма Водный мир. Снимаю шляпу перед создателями декораций и завхозом.
 

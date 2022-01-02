@@ -12,28 +12,6 @@ categories:
 tags:
 - Java
 - Security
-meta:
-  _edit_last: '1'
-  _oembed_02a24c1dacf6d24c2af11f8052c50512: "{{unknown}}"
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _oembed_0d9ca9570cd487183ea657f71b822b64: "{{unknown}}"
-  _oembed_0b5554e54f6e43c49756df35ef615383: "{{unknown}}"
-  _aioseop_description: The Java team has published "Oracle JRE and JDK Cryptographic
-    Roadmap" which contains planned changes for crypto algorithms supported in Oracle's
-    JRE and JDK.
-  _aioseop_title: Java Cryptographic Roadmap
-  rp4wp_auto_linked: '1'
-  _yoast_wpseo_primary_category: '157'
-  _yoast_wpseo_focuskw: Java
-  _yoast_wpseo_linkdex: '67'
-  _yoast_wpseo_content_score: '30'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618016998'
 permalink: "/en/security/jre-and-jdk-cryptographic-roadmap-released.html"
 ---
 The Java team has published the “Oracle JRE and JDK Cryptographic Roadmap” at&nbsp;[http://java.com/en/jre-jdk-cryptoroadmap.html](http://java.com/en/jre-jdk-cryptoroadmap.html)&nbsp;which contains upcoming changes for&nbsp;crypto algorithms and protocols supported in Oracle's JRE and JDK.
@@ -42,7 +20,7 @@ The Java team has published the “Oracle JRE and JDK Cryptographic Roadmap” a
 
 &nbsp;
 
-<!--more-->
+
 
 JRE and JDK Cryptographic Roadmap describes&nbsp;the planned changes for crypto algorithms and protocols supported in Oracle's JRE and JDK. This roadmap contains the most up-to-date information about&nbsp;the planned changes to all supported Java versions which currently are&nbsp;JDK 8, JDK 7, JDK 6, and JRockit 6 (R28). It also contains information about Early Access builds of next feature release which currently is JDK 9.
 

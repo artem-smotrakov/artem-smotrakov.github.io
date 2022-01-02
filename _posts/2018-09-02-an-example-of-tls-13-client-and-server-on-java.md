@@ -34,7 +34,7 @@ permalink: "/en/security/an-example-of-tls-13-client-and-server-on-java.html"
 ---
 Java 11 supports TLS 1.3 protocol which was published in August 2018. During implementing the new TLS protocol, Java security-libs team significantly [re-worked Java Secure Sockets Extension (JSSE)](https://bugs.openjdk.java.net/browse/JDK-8185576). I used to work on security-libs in Java for 6 years, so I can tell that was not an easy task for sure. But nevertheless, Java security-libs team delivered TLS 1.3 implementation in Java 11. Great job!
 
-<!--more-->
+
 
 But TLS 1.3 implementation in Java 11 doesn't not support all the features of the new TLS protocol. Here is what JSSE supports (see more details in [JEP 332](http://openjdk.java.net/jeps/332)):
 

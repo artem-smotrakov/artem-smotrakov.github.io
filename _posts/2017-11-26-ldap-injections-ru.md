@@ -46,7 +46,7 @@ permalink: "/ru/security-ru/ldap-injections-ru.html"
 
 [English version is here.](/fun/security/ldap-injections.html)
 
-<!--more-->
+
 
 ## Что такое LDAP?
 

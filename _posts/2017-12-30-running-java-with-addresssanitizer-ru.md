@@ -48,7 +48,7 @@ OpenJDK и AddressSanitizer довольно известные open-source пр
 
 [English version is also available.](/fun/running-java-with-addresssanitizer.html)
 
-<!--more-->
+
 
 ## Что такое AddressSanitizer?
 

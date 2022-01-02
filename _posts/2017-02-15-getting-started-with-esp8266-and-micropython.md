@@ -53,7 +53,7 @@ Here is a tutorial how to get started with ESP8266 and MicroPython.
 
 ![ESP8266 ESP-07 and other little things]({{ site.baseurl }}/assets/images/2017/02/all_parts.jpg)
 
-<!--more-->
+
 
 ## Hardware: ESP8266 ESP-07 and other little things
 
@@ -219,7 +219,7 @@ Type "help()" for more information.
 
 Have fun!
 
-<!-- wp:gallery {"ids":[3129,3130,3131,3132,3133,3134,3135,3136,3137,3138,3139,3140],"columns":2,"linkTo":"media","align":"center"} -->
+
 
 - 
 [![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170212_121132.jpg)](/wp-content/uploads/2019/05/IMG_20170212_121132.jpg)
@@ -246,15 +246,15 @@ Have fun!
 - 
 [![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_184318.jpg)](/wp-content/uploads/2019/05/IMG_20170211_184318.jpg)
 
-<!-- /wp:gallery -->
 
-<!-- wp:paragraph -->
+
+
 
 Links:
 
-<!-- /wp:paragraph -->
 
-<!-- wp:list -->
+
+
 
 - [http://www.esp8266.com/wiki/doku.php?id=esp8266-module-family#esp-07](http://www.esp8266.com/wiki/doku.php?id=esp8266-module-family#esp-07)
 - [https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/intro.html](https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/intro.html)
@@ -264,5 +264,5 @@ Links:
 - [https://zoetrope.io/tech-blog/esp8266-bootloader-modes-and-gpio-state-startup](https://zoetrope.io/tech-blog/esp8266-bootloader-modes-and-gpio-state-startup)
 - [http://docs.micropython.org/en/latest/wipy/library/machine.Pin.html](http://docs.micropython.org/en/latest/wipy/library/machine.Pin.html)
 
-<!-- /wp:list -->
+
 

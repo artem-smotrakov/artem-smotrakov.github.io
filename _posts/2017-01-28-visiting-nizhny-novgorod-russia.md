@@ -41,7 +41,7 @@ What's Gorky city? See below.
 
 [peg-image src="https://lh3.googleusercontent.com/-sLnJky3lBRk/WIl2-rM-0xI/AAAAAAAAH\_0/41FWWcY49wMrVs3vwIbM1hnEcrmMXX1YwCCo/s144-o/IMG\_20161226\_212746.jpg" href="https://picasaweb.google.com/103813056835863838724/6379761164806643425#6379761166268158738" caption="" type="image" alt="Nizhny Novgorod Kremlin" image\_size="2304x4096"]
 
-<!--more-->
+
 
 # Russian language exercise
 

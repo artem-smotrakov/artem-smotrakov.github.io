@@ -38,7 +38,7 @@ OWASP Dependency Check is a well known open-source tool which can track dependen
 
 But unfortunately sometimes it's not enough just to automate something. If the tool reports a vulnerability it means someone has to fix it. At least it would be good to evaluate the problem. In a perfect world, all issues are addressed immediately, but in the real world, development teams always have no time for that. Besides integrating Dependency Check to CI/CD, there may be a couple of other steps to get vulnerable dependencies updated.
 
-<!--more-->
+
 
 ## Integrating OWASP Dependency Check in to CI/CD
 

@@ -41,7 +41,7 @@ permalink: "/ru/nonsense-ru/aeroflot-first-time.html"
 
 [peg-image src="https://lh3.googleusercontent.com/-Xtv3S2f6c4o/WLuwk30lflI/AAAAAAAAIZg/17IGmoxOFJouPkFiOXdaZF1UWpQ7z-sTgCCo/s144-o/IMG\_0137.JPG" href="https://picasaweb.google.com/103813056835863838724/6383844083469641761#6393898243488841298" caption="" type="image" alt="Аэрофлот" image\_size="2592x1936"]
 
-<!--more-->
+
 
 # Кукурузник
 

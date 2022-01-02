@@ -53,7 +53,7 @@ Here is an English version -&nbsp;[Getting started with ESP8266 and MicroPython]
 
 ![Как запустить MicroPython на ESP8266]({{ site.baseurl }}/assets/images/2017/04/all_parts.jpg)
 
-<!--more-->
+
 
 # Железо: ESP8266 ESP-07&nbsp;и остальные мелкие детали
 
@@ -223,7 +223,7 @@ Type "help()" for more information.
 
 Удачи!
 
-<!-- wp:gallery {"ids":[3102,3101,3100,3099,3098,3097,3096,3095,3094,3093,3092,3091],"columns":2,"linkTo":"media"} -->
+
 
 - 
 [![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170212_121132.jpg)](/wp-content/uploads/2017/04/IMG_20170212_121132.jpg)
@@ -250,15 +250,15 @@ Type "help()" for more information.
 - 
 [![]({{ site.baseurl }}/assets/images/2017/04/IMG_20170211_184318.jpg)](/wp-content/uploads/2017/04/IMG_20170211_184318.jpg)
 
-<!-- /wp:gallery -->
 
-<!-- wp:paragraph -->
+
+
 
 Ссылки:
 
-<!-- /wp:paragraph -->
 
-<!-- wp:list -->
+
+
 
 - [http://www.esp8266.com/wiki/doku.php?id=esp8266-module-family#esp-07](http://www.esp8266.com/wiki/doku.php?id=esp8266-module-family#esp-07)
 - [https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/intro.html](https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/intro.html)
@@ -268,5 +268,5 @@ Type "help()" for more information.
 - [https://zoetrope.io/tech-blog/esp8266-bootloader-modes-and-gpio-state-startup](https://zoetrope.io/tech-blog/esp8266-bootloader-modes-and-gpio-state-startup)
 - [http://docs.micropython.org/en/latest/wipy/library/machine.Pin.html](http://docs.micropython.org/en/latest/wipy/library/machine.Pin.html)
 
-<!-- /wp:list -->
+
 

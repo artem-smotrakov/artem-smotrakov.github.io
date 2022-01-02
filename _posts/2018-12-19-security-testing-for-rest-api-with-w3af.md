@@ -39,7 +39,7 @@ Unfortunately, since a RESTful web service is still a web application, it may co
 
 There are several well-known web security scanners. One of them is [w3af](https://github.com/andresriancho/w3af)&nbsp;created by&nbsp;[Andres Riancho](https://github.com/andresriancho). I'll focus on this scanner in the post.
 
-<!--more-->
+
 
 ## Discovering API endpoints to scan
 

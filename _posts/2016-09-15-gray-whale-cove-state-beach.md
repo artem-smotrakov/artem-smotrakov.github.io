@@ -44,7 +44,7 @@ permalink: "/ru/travel/gray-whale-cove-state-beach.html"
 
 [peg-image src="https://lh3.googleusercontent.com/-zZtLQAnNawI/V13d0Mmq6oI/AAAAAAAAEgw/2MezT1a2DFsEZrKqnA9w\_bxF\_wzc4aLTACHM/s144-o/IMG\_0867.JPG" href="https://picasaweb.google.com/103813056835863838724/6295431741599932209?locked=true#6295431742940179074" caption="Gray Whale Cove State Beach" type="image" alt="Gray Whale Cove State Beach" image\_size="2052x1532"]
 
-&nbsp;<!--more-->
+&nbsp;
 
 Правда, для купания это пляж не очень подходит. Как и многие другие пляжи северной Калифорнии. Во-первых, вода в океане довольно холодная на севере Калифорнии несмотря на лето круглый год. Во-вторых, волна там очень сильная. Но как раз из-за волн это пляж любят серферы. Любимым делом они занимаются в гидрокостюмах, поэтому холодная вода им не страшна.
 

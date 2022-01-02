@@ -13,35 +13,6 @@ tags:
 - Калифорния
 - Силиконовая Долина
 - США
-meta:
-  blogger_blog: blog.gypsyengineer.com
-  blogger_author: Artem Smotrakov
-  blogger_internal: "/feeds/5492409931645402059/posts/default/5869039019545315432"
-  geo_latitude: '37.09024'
-  geo_longitude: "-95.712891"
-  geo_public: '1'
-  geo_address: United States
-  _edit_last: '1'
-  mask_links: default
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  _aioseop_opengraph_settings: a:14:{s:32:"aioseop_opengraph_settings_title";s:0:"";s:31:"aioseop_opengraph_settings_desc";s:0:"";s:36:"aioseop_opengraph_settings_customimg";s:0:"";s:37:"aioseop_opengraph_settings_imagewidth";s:0:"";s:38:"aioseop_opengraph_settings_imageheight";s:0:"";s:32:"aioseop_opengraph_settings_video";s:0:"";s:37:"aioseop_opengraph_settings_videowidth";s:0:"";s:38:"aioseop_opengraph_settings_videoheight";s:0:"";s:35:"aioseop_opengraph_settings_category";s:7:"article";s:34:"aioseop_opengraph_settings_section";s:0:"";s:30:"aioseop_opengraph_settings_tag";s:0:"";s:34:"aioseop_opengraph_settings_setcard";s:7:"summary";s:44:"aioseop_opengraph_settings_customimg_twitter";s:0:"";s:44:"aioseop_opengraph_settings_customimg_checker";s:1:"0";}
-  _aioseop_keywords: еда,Америка,общепит,азиатская,кухня,гриль,барбекю,готовность,стейк,бургер,кофе,чай,чаевые,tips,pho,ramen
-  _aioseop_description: 'Особенности американской еды: что можно съесть в Америке,
-    азиатская кухня, гриль, барбекю , готовность стейка, бургеры, кофе, холодный чай
-    с молоком и чаевые.'
-  _aioseop_title: Американский общепит
-  rp4wp_auto_linked: '1'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:2;s:7:"replies";i:2;s:7:"authors";i:2;s:14:"recent_authors";a:3:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:25:"artem.smotrakov@gmail.com";s:14:"comment_author";s:5:"artem";s:7:"user_id";s:1:"1";}i:1;O:8:"stdClass":3:{s:20:"comment_author_email";s:21:"irishdrakon@gmail.com";s:14:"comment_author";s:6:"Iren4k";s:7:"user_id";s:1:"0";}i:2;O:8:"stdClass":3:{s:20:"comment_author_email";s:21:"irishdrakon@gmail.com";s:14:"comment_author";s:6:"Irev4k";s:7:"user_id";s:1:"0";}}}
-  _yoast_wpseo_primary_category: '38'
-  _yoast_wpseo_focuskw: Америка
-  _yoast_wpseo_linkdex: '42'
-  _yoast_wpseo_content_score: '30'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618121409'
 permalink: "/ru/american-life/food-in-usa.html"
 ---
 "Всё полезно, что в рот полезло"
@@ -54,7 +25,7 @@ permalink: "/ru/american-life/food-in-usa.html"
 
 [peg-image src="https://lh3.googleusercontent.com/-Nx6Ast19Pko/V13eR4c42rI/AAAAAAAAEgw/O26yTRe1EiAMMl-SbNJc0\_a40bS-Bc6EACHM/s144-o/20160528\_151034.jpg" href="https://picasaweb.google.com/103813056835863838724/6295432250887558993?locked=true#6295432252926515890" caption="Еда в США" type="image" alt="Еда в Америке" image\_size="2448x3264"]
 
-<!--more-->
+
 
 В крупных городах и густонаселенных районах, как например Силиконовая Долина (Silicon Valley), всегда есть великое множество всяких ресторанчиков и забегаловок. И в большинстве из них подают вовсе не бургеры с кока-колой, а наоборот можно найти еду со всех уголков Земли, например: китайскую, японскую, вьетнамскую, тайскую, корейскую, монгольскую, афганскую, индийскую, мексиканскую, итальянскую, французскую, греческую, бразильскую и многие другие.&nbsp;И&nbsp;вовсе необязательно идти в ресторан, чтобы съесть какой-нибудь вьетнамский суп: кругом полно очень простых и бюджетных забегаловок.
 

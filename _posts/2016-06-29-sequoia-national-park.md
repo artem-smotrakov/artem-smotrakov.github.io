@@ -13,40 +13,6 @@ tags:
 - Калифорния
 - Природа
 - США
-meta:
-  blogger_blog: blog.gypsyengineer.com
-  blogger_author: Artem Smotrakov
-  blogger_permalink: "/2016/06/blog-post_29.html"
-  blogger_internal: "/feeds/5492409931645402059/posts/default/5666248794994130006"
-  geo_latitude: '36.4863668'
-  geo_longitude: "-118.5657516"
-  geo_public: '1'
-  geo_address: Sequoia National Park, California 93271, USA
-  _edit_last: '1'
-  _wp_old_slug: "%d0%bd%d0%b0%d1%86%d0%b8%d0%be%d0%bd%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b5-%d1%81%d0%b5%d0%ba%d0%b2%d0%be%d0%b9%d0%b8"
-  _wp_rp_image: empty
-  _wp_rp_related_posts_query_result_cache_expiration: '1473136047'
-  _wp_rp_related_posts_query_result_cache_6: a:9:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:2:"67";s:5:"score";s:17:"44.41363648576862";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:2:"64";s:5:"score";s:18:"20.721868721985334";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:2:"72";s:5:"score";s:18:"12.039002246968078";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:2:"71";s:5:"score";s:17:"8.820126422099879";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:2:"59";s:5:"score";s:17:"6.720482173902521";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:2:"63";s:5:"score";s:17:"6.274195071274102";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:2:"69";s:5:"score";s:18:"2.7566523819414277";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:2:"62";s:5:"score";s:18:"2.7566523819414277";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:2:"66";s:5:"score";s:18:"1.1596369897058842";}}
-  _wpgo_column_layout_save: ''
-  _wpgo_column_layout: default
-  mask_links: default
-  _aioseop_description: 'Путешествуем по мотивам Одноэтажной Америки Ильфа и Петрова:
-    Национальный Секвойя парк (Sequoia National Park) в Калифорнии, Гигантский Лес
-    и Генерал Шерман.'
-  _aioseop_title: Национальные секвойи
-  rp4wp_auto_linked: '1'
-  _wpdiscuz_statistics: a:4:{s:7:"threads";i:4;s:7:"replies";i:0;s:7:"authors";i:1;s:14:"recent_authors";a:2:{i:0;O:8:"stdClass":3:{s:20:"comment_author_email";s:19:"noreply@blogger.com";s:14:"comment_author";s:10:"Iren
-    Sunny";s:7:"user_id";s:1:"0";}i:1;O:8:"stdClass":3:{s:20:"comment_author_email";s:19:"noreply@blogger.com";s:14:"comment_author";s:15:"Artem
-    Smotrakov";s:7:"user_id";s:1:"0";}}}
-  _yoast_wpseo_primary_category: '2'
-  _yoast_wpseo_focuskw: Секвойя
-  _yoast_wpseo_linkdex: '55'
-  _yoast_wpseo_content_score: '90'
-  _oembed_57d72e6511eab5903ae5be60bb95cd38: <a class="twitter-timeline" data-width="625"
-    data-height="938" data-dnt="true" href="https://twitter.com/artem_smotrakov?ref_src=twsrc%5Etfw">Tweets
-    by artem_smotrakov</a><script async src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"></script>
-  _oembed_time_57d72e6511eab5903ae5be60bb95cd38: '1618017213'
 permalink: "/ru/travel/sequoia-national-park.html"
 ---
 - Сэры! - сказал он наконец. - Мы должны заехать в Секвойя-парк. Это тут недалеко.&nbsp;
@@ -61,7 +27,7 @@ permalink: "/ru/travel/sequoia-national-park.html"
 
 [peg-image src="https://lh3.googleusercontent.com/-a1uKwi2\_0fc/V13KuIQu5II/AAAAAAAAEd4/BGu20Jrk3hYDKrFA8aRMVzEFAjUcCmMqgCHM/s144-o/IMG\_0854.JPG" href="https://picasaweb.google.com/103813056835863838724/6295410747674635521?locked=true#6295410747974280322" caption="Большая и толстая секвойя" type="image" alt="Большая и толстая секвойя" image\_size="1532x2052" peg\_caption="1"]
 
-<!--more-->
+
 
 ## Где находится Национальный парк Секвойя
 

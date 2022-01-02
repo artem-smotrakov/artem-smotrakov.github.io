@@ -42,7 +42,7 @@ permalink: "/ru/travel/road-trip-in-florida-part-two.html"
 
 [peg-image src="https://lh3.googleusercontent.com/-xhn-cdns6KQ/WVnnb5syPMI/AAAAAAAALME/Tk1WfoskncIybTaFKJkQdW9PYAcPRzW5gCCoYBhgL/s144-o/IMG\_1908.JPG" href="https://picasaweb.google.coCm/103813056835863838724/6383844083469641761#6438431608833981634" caption="" type="image" alt="Disney World во Флориде" image\_size="2592x1936"]
 
-<!--more-->
+
 
 ### День 9: едем&nbsp;в Saint Petersburg
 

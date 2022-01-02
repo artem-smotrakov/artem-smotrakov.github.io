@@ -41,7 +41,7 @@ permalink: "/ru/security-ru/dns-tunneling-with-java-ru.html"
 
 (English version -&nbsp;[DNS tunneling with Java](http://blog.gypsyengineer.com/fun/dns-tunneling-with-java.html))
 
-<!--more-->
+
 
 ## Что такое DNS туннель
 

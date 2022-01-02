@@ -35,7 +35,7 @@ permalink: "/en/security/secure-usage-tls.html"
 ---
 The article describes how TLS protocols can be used for establishing a secure connection: First, we'll briefly discuss the protocol works. Next, we'll talk about secure protocol versions and parameters. Finally, we'll describe how TLS can be configures securely.
 
-<!--more-->
+
 
 ## What is SSL/TLS?
 

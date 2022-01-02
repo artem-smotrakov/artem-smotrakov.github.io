@@ -52,7 +52,7 @@ permalink: "/ru/american-life/american-shared-apartments.html"
 
 ![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170205_110421-300x169.jpg)
 
-<!--more-->
+
 
 Надо отметить, что речь пойдет о калифорнийских коммуналках, но я склонен полагать, что в остальных штатах ситуация не сильно отличается.
 
