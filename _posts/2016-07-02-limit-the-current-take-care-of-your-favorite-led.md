@@ -18,7 +18,7 @@ A current limiting resistor should be used for driving an LED from a microcontro
 
 To calculate the value for a current limiting resistor, you just need to use your favorite [Ohm's law](https://en.wikipedia.org/wiki/Ohm%27s_law). Here is a circuit and calculations.
 
-![How to calculate the value of a current limiting resistor](../assets/current-limiting-resistor-led.jpg)
+![How to calculate the value of a current limiting resistor]({{ site.baseurl }}/assets/images/2016/07/current-limiting-resistor-led.jpg)
 
 `Vcc` is a power supply voltage (it is 3.3V in case of STM32F103). We assume that high level input voltage of I/O pin is equal to `Vcc` (which is not actually true, see section "5.3.13 I/O port characteristics" in [datasheet](http://www.st.com/content/ccc/resource/technical/document/datasheet/33/d4/6f/1d/df/0b/4c/6d/CD00161566.pdf/files/CD00161566.pdf/jcr:content/translations/en.CD00161566.pdf)).
 
