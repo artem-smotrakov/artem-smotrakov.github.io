@@ -195,31 +195,6 @@ Type "help()" for more information.
 
 Have fun!
 
-- 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170212_121132.jpg)](/wp-content/uploads/2019/05/IMG_20170212_121132.jpg)
-- 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170212_121041.jpg)](/wp-content/uploads/2019/05/IMG_20170212_121041.jpg)
-- 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170212_121023.jpg)](/wp-content/uploads/2019/05/IMG_20170212_121023.jpg)
-- 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_212020.jpg)](/wp-content/uploads/2019/05/IMG_20170211_212020.jpg)
-- 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_210602.jpg)](/wp-content/uploads/2019/05/IMG_20170211_210602.jpg)
-- 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_191452.jpg)](/wp-content/uploads/2019/05/IMG_20170211_191452.jpg)
-- 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_191244.jpg)](/wp-content/uploads/2019/05/IMG_20170211_191244.jpg)
-- 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_191218.jpg)](/wp-content/uploads/2019/05/IMG_20170211_191218.jpg)
-- 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_190316.jpg)](/wp-content/uploads/2019/05/IMG_20170211_190316.jpg)
-- 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_190204.jpg)](/wp-content/uploads/2019/05/IMG_20170211_190204.jpg)
-- 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_185328.jpg)](/wp-content/uploads/2019/05/IMG_20170211_185328.jpg)
-- 
-[![]({{ site.baseurl }}/assets/images/2017/02/IMG_20170211_184318.jpg)](/wp-content/uploads/2019/05/IMG_20170211_184318.jpg)
-
 Links:
 
 - [http://www.esp8266.com/wiki/doku.php?id=esp8266-module-family#esp-07](http://www.esp8266.com/wiki/doku.php?id=esp8266-module-family#esp-07)
