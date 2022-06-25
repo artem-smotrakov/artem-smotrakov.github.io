@@ -60,29 +60,29 @@ First, let’s calculate the base current which keeps the transistor open
 
 ![calculations](./2019-06-16-transistor-delay-circuit_4.gif)
 
-To make sure the transistor turns on fully, let’s add a factor of two for safety and use a base current of `0.7mA = 0.0007A`.
+To make sure the transistor turns on fully, let’s add a factor of two for safety and use a base current of 0.7mA = 0.0007A.
 
 Now we can apply Ohm’s law and calculate `R2`:
 
-[latex]R2 = \frac{V\_{s} - V\_{BE(sat)}}{I\_{b}} = \frac{3V - 0.75V}{0.0007A} = 3214Ohm = 3.2KOhm[/latex]
+![calculations](./2019-06-16-transistor-delay-circuit_5.gif)
 
 We can pick up a standard resistor of 3.3 KOhm.
 
 ### How an RC filter defines a delay
 
-The delay is related to the charging time of the capacitor `C1`. The charging time of the capacitor is related to the product `R3 * C1`.
+The delay is related to the charging time of the capacitor `C1`. The charging time of the capacitor is related to the product of R3 and  C1:
 
-[latex]\tau = R3 \* C1[/latex]
+![calculations](./2019-06-16-transistor-delay-circuit_6.gif)
 
 It is the time required to charge the capacitor, through the resistor, from an initial charge voltage of zero to approximately 63.2% of the value of an applied voltage.
 
 The rise time from 20% to 80% can be calculated as the following
 
-[latex]t\_{r} = 1.4\tau[/latex]
+![calculations](./2019-06-16-transistor-delay-circuit_7.gif)
 
 If we the capacitor `C1` is 470 mkF, and the resistor `R3` is 200 KOhm, then the approximate maximum delay is going to be
 
-[latex]t\_{r} = 1.4 \* 200KOhm \* 470mkF = 1.4 \* 200000Ohm \* 0.00047F = 131s[/latex]
+![calculations](./2019-06-16-transistor-delay-circuit_8.gif)
 
 Note that the LED actually turns on much faster. It happens because the transistor starts opening even before the capacitor is charged to 80%. After some time, once the voltage on the base is high enough, the collector current starts slightly growing. As a result, the LED starts turning on.
 
