@@ -46,7 +46,7 @@ Next, we use 2N3904 transistor. This is an NPN transistor which has the followin
 
 Let's calculate the value of the resistor `R1` which limits the current for the LED.
 
-The voltage supply is `3V`. Let’s set the LED current to be `10mA = 0.01A` which is less than the maximum allowed current for the LED. This current should be enough to turn the LED on. The LED current is also the collector current.
+The voltage supply is 3V. Let’s set the LED current to be 10mA = 0.01A which is less than the maximum allowed current for the LED. This current should be enough to turn the LED on. The LED current is also the collector current.
 
 Now we can apply Ohm's law to calculate R1:
 
@@ -58,11 +58,11 @@ We can pick up a standard resistor of 100 Ohm.
 
 First, let’s calculate the base current which keeps the transistor open
 
-[latex]Ib = \frac{I\_{c}}{H\_{fe}} = \frac{10mA}{30} = 0.33mA[/latex]
+![calculations](./2019-06-16-transistor-delay-circuit_4.gif)
 
-To make sure the transistor turns on fully, let’s add a factor of two for safety and use a base current of [latex]I\_{b} = 0.7mA = 0.0007A[/latex]
+To make sure the transistor turns on fully, let’s add a factor of two for safety and use a base current of `0.7mA = 0.0007A`.
 
-Now we can apply Ohm’s law and calculate R2
+Now we can apply Ohm’s law and calculate `R2`:
 
 [latex]R2 = \frac{V\_{s} - V\_{BE(sat)}}{I\_{b}} = \frac{3V - 0.75V}{0.0007A} = 3214Ohm = 3.2KOhm[/latex]
 
@@ -70,7 +70,7 @@ We can pick up a standard resistor of 3.3 KOhm.
 
 ### How an RC filter defines a delay
 
-The delay is related to the charging time of the capacitor C1. The charging time of the capacitor is related to the product [latex]R3 \* C1[/latex]
+The delay is related to the charging time of the capacitor `C1`. The charging time of the capacitor is related to the product `R3 * C1`.
 
 [latex]\tau = R3 \* C1[/latex]
 
@@ -80,7 +80,7 @@ The rise time from 20% to 80% can be calculated as the following
 
 [latex]t\_{r} = 1.4\tau[/latex]
 
-If we the capacitor C1 is 470 mkF, and the resistor R3 is 200 KOhm, then the approximate maximum delay is going to be
+If we the capacitor `C1` is 470 mkF, and the resistor `R3` is 200 KOhm, then the approximate maximum delay is going to be
 
 [latex]t\_{r} = 1.4 \* 200KOhm \* 470mkF = 1.4 \* 200000Ohm \* 0.00047F = 131s[/latex]
 
