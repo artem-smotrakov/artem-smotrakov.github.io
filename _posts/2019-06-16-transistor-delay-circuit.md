@@ -36,11 +36,11 @@ Let's see how we can choose elements for the transistor delay circuit.
 
 We use a standard LED which has the following parameters
 
-![calculations](./2019-06-16-transistor-delay-circuit_1.gif)
+![calculations]({{ site.baseurl }}/assets/images/2019/06/2019-06-16-transistor-delay-circuit_1.gif)
 
 Next, we use 2N3904 transistor. This is an NPN transistor which has the following parameters according to its datasheet
 
-![calculations](./2019-06-16-transistor-delay-circuit_2.gif)
+![calculations]({{ site.baseurl }}/assets/images/2019/06/2019-06-16-transistor-delay-circuit_2.gif)
 
 ### Choosing a current limiting resistor for an LED 
 
@@ -50,7 +50,7 @@ The voltage supply is 3V. Let’s set the LED current to be 10mA = 0.01A which i
 
 Now we can apply Ohm's law to calculate R1:
 
-![calculations](./2019-06-16-transistor-delay-circuit_3.gif)
+![calculations]({{ site.baseurl }}/assets/images/2019/06/2019-06-16-transistor-delay-circuit_3.gif)
 
 We can pick up a standard resistor of 100 Ohm.
 
@@ -58,13 +58,13 @@ We can pick up a standard resistor of 100 Ohm.
 
 First, let’s calculate the base current which keeps the transistor open
 
-![calculations](./2019-06-16-transistor-delay-circuit_4.gif)
+![calculations]({{ site.baseurl }}/assets/images/2019/06/2019-06-16-transistor-delay-circuit_4.gif)
 
 To make sure the transistor turns on fully, let’s add a factor of two for safety and use a base current of 0.7mA = 0.0007A.
 
 Now we can apply Ohm’s law and calculate `R2`:
 
-![calculations](./2019-06-16-transistor-delay-circuit_5.gif)
+![calculations]({{ site.baseurl }}/assets/images/2019/06/2019-06-16-transistor-delay-circuit_5.gif)
 
 We can pick up a standard resistor of 3.3 KOhm.
 
@@ -72,17 +72,17 @@ We can pick up a standard resistor of 3.3 KOhm.
 
 The delay is related to the charging time of the capacitor `C1`. The charging time of the capacitor is related to the product of R3 and  C1:
 
-![calculations](./2019-06-16-transistor-delay-circuit_6.gif)
+![calculations]({{ site.baseurl }}/assets/images/2019/06/2019-06-16-transistor-delay-circuit_6.gif)
 
 It is the time required to charge the capacitor, through the resistor, from an initial charge voltage of zero to approximately 63.2% of the value of an applied voltage.
 
 The rise time from 20% to 80% can be calculated as the following
 
-![calculations](./2019-06-16-transistor-delay-circuit_7.gif)
+![calculations]({{ site.baseurl }}/assets/images/2019/06/2019-06-16-transistor-delay-circuit_7.gif)
 
 If we the capacitor `C1` is 470 mkF, and the resistor `R3` is 200 KOhm, then the approximate maximum delay is going to be
 
-![calculations](./2019-06-16-transistor-delay-circuit_8.gif)
+![calculations]({{ site.baseurl }}/assets/images/2019/06/2019-06-16-transistor-delay-circuit_8.gif)
 
 Note that the LED actually turns on much faster. It happens because the transistor starts opening even before the capacitor is charged to 80%. After some time, once the voltage on the base is high enough, the collector current starts slightly growing. As a result, the LED starts turning on.
 
