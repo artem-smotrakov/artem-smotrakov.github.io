@@ -67,7 +67,7 @@ Here is what we have in `main.c`:
 This simple project supports only two text commands:
 
 1. `a1 on` sets PA1 pin to "1" (turns on LED).
-2. `a1 off sets PA1 pin to "0" (turns off LED).
+2. `a1 off` sets PA1 pin to "0" (turns off LED).
 
 The sources can be compiled and uploaded to STM32 board with commands like the following (you need to specify a path to STM32 standard peripheral library):
 
